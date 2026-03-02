@@ -1,0 +1,3729 @@
+{
+  "messages": [
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765186085.401939",
+      "client_msg_id": "b1555f8b-8fdc-4bac-a4dd-c12191343d12",
+      "text": "<@U010HFUC9V4> \n1月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：12/10(水)まで\n\n①【1月①具！おにぎり まるでハンバーグ丼】\n\n▼スケジュール ※イレギュラースケジュール\n12/12(金)：素材送付 ※イレギュラー\n12/15(月)17時：★初稿提出 ※イレギュラー\n12/15(月)：PREVICT初稿お戻し ※イレギュラー\n12/16(火)12時：★修正提出 ※イレギュラー\n12/17(水)：代理店お戻し ※イレギュラー\n12/18(木)17時：★修正提出 ※イレギュラー\n12/25(木)：ローソン様お戻し\n12/26(金)17時：★修正提出\n1/8(木)：ローソン様お戻し(※基本的には校了予定)\n1/9(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6r+JP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": " \n1月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：12/10(水)まで\n\n①【1月①具！おにぎり まるでハンバーグ丼】\n\n▼スケジュール ※イレギュラースケジュール\n12/12(金)：素材送付 ※イレギュラー\n12/15(月)17時：★初稿提出 ※イレギュラー\n12/15(月)：PREVICT初稿お戻し ※イレギュラー\n12/16(火)12時：★修正提出 ※イレギュラー\n12/17(水)：代理店お戻し ※イレギュラー\n12/18(木)17時：★修正提出 ※イレギュラー\n12/25(木)：ローソン様お戻し\n12/26(金)17時：★修正提出\n1/8(木)：ローソン様お戻し(※基本的には校了予定)\n1/9(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765186118.609269",
+      "client_msg_id": "f54dcf9c-c3a0-4e11-9791-f0f618126c6d",
+      "text": "<https://vt.tiktok.com/ZSPdrkLca/|https://vt.tiktok.com/ZSPdrkLca/>\n\n<https://vt.tiktok.com/ZSPdheTu2/|https://vt.tiktok.com/ZSPdheTu2/>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://vt.tiktok.com/ZSPdrkLca/",
+          "thumb_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/o49bY3EMiYNSBst8PvI0iERlVoOjAIgIAaBl4~tplv-tiktokx-origin.image?dr=9636&x-expires=1765357200&x-signature=9FZ%2Fe4Phrj1IdUV%2FU75p%2FvZML%2FM%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "thumb_width": 1080,
+          "thumb_height": 1920,
+          "id": 1,
+          "original_url": "https://vt.tiktok.com/ZSPdrkLca/",
+          "fallback": "TikTok Video: ローソン",
+          "text": "【12/2(火)発売】この組み合わせ一度は食べたいと思ったことあるよね！？:face_with_rolling_eyes: #ローソン #新商品 #コンビニ新商品 #ペペロンチーノ＆カレーピラフ  #冷凍食品",
+          "title": "ローソン",
+          "title_link": "https://vt.tiktok.com/ZSPdrkLca/",
+          "author_name": "ローソン",
+          "author_link": "https://www.tiktok.com/@akiko_lawson",
+          "service_name": "TikTok",
+          "service_url": "https://www.tiktok.com/"
+        },
+        {
+          "from_url": "https://vt.tiktok.com/ZSPdheTu2/",
+          "thumb_url": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-p-0037/oEIAARavUABiwVFlZ6mhbBg5lViEd6UYOCJia~tplv-tiktokx-origin.image?dr=9636&x-expires=1765357200&x-signature=%2Blw6pYhWqXrtW67aSxjeTkbcl6k%3D&t=4d5b0474&ps=13740610&shp=81f88b70&shcp=43f4a2f9&idc=useast8",
+          "thumb_width": 1080,
+          "thumb_height": 1920,
+          "id": 2,
+          "original_url": "https://vt.tiktok.com/ZSPdheTu2/",
+          "fallback": "TikTok Video: ローソン",
+          "text": "食べたいと思ったら「:yum:」の絵文字をコメントしてね！ 【ボウルもまな板も使わない！簡単お好み焼きの作り方】 ■材料 千切りキャベツ：1袋 油：大さじ1 お好み焼きソース:適量 マヨネーズ：適量 青のり：適量 かつお節：適量 (A) 玉子...",
+          "title": "ローソン",
+          "title_link": "https://vt.tiktok.com/ZSPdheTu2/",
+          "author_name": "ローソン",
+          "author_link": "https://www.tiktok.com/@akiko_lawson",
+          "service_name": "TikTok",
+          "service_url": "https://www.tiktok.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Er9K8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://vt.tiktok.com/ZSPdrkLca/",
+                  "text": "https://vt.tiktok.com/ZSPdrkLca/"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://vt.tiktok.com/ZSPdheTu2/",
+                  "text": "https://vt.tiktok.com/ZSPdheTu2/"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765603000.005289",
+      "client_msg_id": "1144dfd0-5773-4470-93a1-176949fb6610",
+      "text": "①【1月①具！おにぎり まるでハンバーグ丼】\n\n▼スケジュール ※イレギュラースケジュール\n12/12(金)：素材送付 ※イレギュラー\n12/15(月)17時：★初稿提出 ※イレギュラー\n12/15(月)：PREVICT初稿お戻し ※イレギュラー\n12/16(火)12時：★修正提出 ※イレギュラー\n12/17(水)：代理店お戻し ※イレギュラー\n12/18(木)17時：★修正提出 ※イレギュラー\n12/25(木)：ローソン様お戻し\n12/26(金)17時：★修正提出\n1/8(木)：ローソン様お戻し(※基本的には校了予定)\n1/9(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1765603000.005289",
+      "reply_count": 20,
+      "reply_users_count": 2,
+      "latest_reply": "1766062467.397569",
+      "reply_users": [
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yQ2qp",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "①【1月①具！おにぎり まるでハンバーグ丼】\n\n▼スケジュール ※イレギュラースケジュール\n12/12(金)：素材送付 ※イレギュラー\n12/15(月)17時：★初稿提出 ※イレギュラー\n12/15(月)：PREVICT初稿お戻し ※イレギュラー\n12/16(火)12時：★修正提出 ※イレギュラー\n12/17(水)：代理店お戻し ※イレギュラー\n12/18(木)17時：★修正提出 ※イレギュラー\n12/25(木)：ローソン様お戻し\n12/26(金)17時：★修正提出\n1/8(木)：ローソン様お戻し(※基本的には校了予定)\n1/9(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "text": "<@U010HFUC9V4> \nすみません、昨日素材を送れてなかったです、、！\nこちらで編集の進行お願いします！\n<https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08|https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08>\n\n■留意事項\n・お伝えの通り、NAは一旦なしで作成お願いします！\n・マヨネーズをかけるカットは素材の前半部分を使用お願いします\n・暗めに撮影しているので明るさ調整お願いします\n\n■期日\n12/15(月)17時：★初稿提出 ※イレギュラー",
+          "files": [
+            {
+              "id": "F0A3977AA1K",
+              "created": 1765603034,
+              "timestamp": 1765603034,
+              "name": "【ローソン様】TikTok構成案_1月①具！おにぎり まるでハンバーグ丼.pptx",
+              "title": "【ローソン様】TikTok構成案_1月①具！おにぎり まるでハンバーグ丼.pptx",
+              "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+              "filetype": "pptx",
+              "pretty_type": "PowerPoint プレゼンテーション",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 5010266,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A3977AA1K/_____________________tiktok__________1____________________________________________________.pptx",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A3977AA1K/download/_____________________tiktok__________1____________________________________________________.pptx",
+              "media_display_type": "unknown",
+              "converted_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3977AA1K-5d2e4099d6/_____________________tiktok__________1_____________________________________________________converted.pdf",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3977AA1K-5d2e4099d6/_____________________tiktok__________1_____________________________________________________thumb_pdf.png",
+              "thumb_pdf_w": 1100,
+              "thumb_pdf_h": 825,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A3977AA1K/_____________________tiktok__________1____________________________________________________.pptx",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A3977AA1K-42a6d818ff",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "6Zheo",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nすみません、昨日素材を送れてなかったです、、！\nこちらで編集の進行お願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08",
+                      "text": "https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n■留意事項\n・お伝えの通り、NAは一旦なしで作成お願いします！\n・マヨネーズをかけるカットは素材の前半部分を使用お願いします\n・暗めに撮影しているので明るさ調整お願いします\n\n■期日\n12/15(月)17時：★初稿提出 ※イレギュラー"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1765603043.083459",
+          "client_msg_id": "fca652d4-72c3-4dcb-a261-5e5956a6aa96",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08",
+              "id": 1,
+              "original_url": "https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://50.gigafile.nu/0323-a592d0d9748dd0feead1ce6e3763ba08",
+              "service_name": "50.gigafile.nu"
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1765765591.068779",
+          "client_msg_id": "689552bd-723d-49ab-b08e-15cb20372c86",
+          "text": "<@U010F29ALBS>\n『具！おにぎり まるでハンバーグ丼』初稿\n\n音源\n<https://vt.tiktok.com/ZSHwsfESJwhNd-VIVU2/>\n\n<https://20.gigafile.nu/0325-565375e395fa9f071bbcba00319631aa>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://20.gigafile.nu/0325-565375e395fa9f071bbcba00319631aa",
+              "service_icon": "https://20.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://20.gigafile.nu/0325-565375e395fa9f071bbcba00319631aa",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://20.gigafile.nu/0325-565375e395fa9f071bbcba00319631aa",
+              "service_name": "20.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "pD3Ww",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具！おにぎり まるでハンバーグ丼』初稿\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZSHwsfESJwhNd-VIVU2/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://20.gigafile.nu/0325-565375e395fa9f071bbcba00319631aa"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nありがとうございます！\nお手数ですが以下の対応お願いします！\n※ローソンからナレーションの戻しが来てないのですが、来たら共有しますので間に合えば反映でお願いします！\n\n①\n ▼1カット目\n 「おにぎりつくっちゃいました」のタイミングで集中線とSEの追加をお願いします\n SEはベタですが太鼓とかですかね(※他に合いそうなものがあれば)\n②\n ▼2カット目のパッケージから出すカット\n   もう少しアップに調整お願いします\n③\n ▼マヨネーズをかけるカット\n 110～120%程度の速度アップお願いします\n NAが入ると尺が足らない気もするので添付までカットを伸ばしてください\n\n■期日\n12/16(火)12時：★修正提出 ※イレギュラー",
+          "files": [
+            {
+              "id": "F0A3CN64AHH",
+              "created": 1765767433,
+              "timestamp": 1765767433,
+              "name": "audiostock_104622.mp3",
+              "title": "audiostock_104622.mp3",
+              "mimetype": "audio/mpeg",
+              "filetype": "mp3",
+              "pretty_type": "MP3",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 107623,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "is_transcription_region_supported": true,
+              "transcription": {
+                "status": "none"
+              },
+              "url_private": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3CN64AHH-4b4c1ffc16/audiostock_104622_audio.mp4",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A3CN64AHH/download/audiostock_104622.mp3",
+              "duration_ms": 2664,
+              "aac": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3CN64AHH-4b4c1ffc16/audiostock_104622_audio.mp4",
+              "audio_wave_samples": [
+                92,
+                96,
+                100,
+                98,
+                94,
+                94,
+                99,
+                99,
+                88,
+                98,
+                90,
+                88,
+                91,
+                76,
+                93,
+                77,
+                80,
+                81,
+                78,
+                82,
+                76,
+                65,
+                81,
+                60,
+                67,
+                61,
+                47,
+                61,
+                36,
+                46,
+                38,
+                34,
+                33,
+                25,
+                28,
+                24,
+                21,
+                20,
+                19,
+                15,
+                15,
+                13,
+                13,
+                11,
+                9,
+                10,
+                7,
+                8,
+                6,
+                6,
+                6,
+                5,
+                5,
+                4,
+                4,
+                3,
+                3,
+                3,
+                2,
+                2,
+                2,
+                2,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "media_display_type": "audio",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A3CN64AHH/audiostock_104622.mp3",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A3CN64AHH-8fe3485800",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "O86i9",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nありがとうございます！\nお手数ですが以下の対応お願いします！\n※ローソンからナレーションの戻しが来てないのですが、来たら共有しますので間に合えば反映でお願いします！\n\n①\n ▼1カット目\n 「おにぎりつくっちゃいました」のタイミングで集中線とSEの追加をお願いします\n SEはベタですが太鼓とかですかね(※他に合いそうなものがあれば)\n②\n ▼2カット目のパッケージから出すカット\n   もう少しアップに調整お願いします\n③\n ▼マヨネーズをかけるカット\n 110～120%程度の速度アップお願いします\n NAが入ると尺が足らない気もするので添付までカットを伸ばしてください\n\n■期日\n12/16(火)12時：★修正提出 ※イレギュラー"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1765767435.458949",
+          "client_msg_id": "30e18174-4643-4312-9126-f976130cc1b0",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1765846792.189209",
+          "client_msg_id": "df589b32-0e97-40e2-b676-ccfd3343de9d",
+          "text": "<@U010F29ALBS>\n『具！おにぎり まるでハンバーグ丼』修正1\n\n音源\n<https://vt.tiktok.com/ZSHwsfESJwhNd-VIVU2/>\n\n<https://12.gigafile.nu/0326-e7dda12459709f460012d1ff33c50164>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://12.gigafile.nu/0326-e7dda12459709f460012d1ff33c50164",
+              "service_icon": "https://12.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://12.gigafile.nu/0326-e7dda12459709f460012d1ff33c50164",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://12.gigafile.nu/0326-e7dda12459709f460012d1ff33c50164",
+              "service_name": "12.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "gH0QH",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具！おにぎり まるでハンバーグ丼』修正1\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZSHwsfESJwhNd-VIVU2/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://12.gigafile.nu/0326-e7dda12459709f460012d1ff33c50164"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765962374.005349",
+          "client_msg_id": "bf612b6e-53d8-468d-8ebd-830cc89deedc",
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お手数します！\n\n①\n ・1カット目：おにぎりに寄り（かなり卵・ハンバーグに寄る）の画、テロップ「めっちゃわんぱくな」に変更\n②\n ・2カット目：少し引いてフライドポテト等も見える全体の画、テロップ「おにぎり登場！」に変更\n③\n ▼7秒目近辺\n ・「温めたり」のカットはトリでお願いします\n④\n ▼BGM\n ・3分クッキング感が強いのでわんぱくな子どもが遊んでるような賑やかなBGMをいくつかご選定いただけますと幸いです。\n →こちら3パターンぐらい選定して先方の確認中なので、確定次第連携します！\n 対応が間に合わなくなりそうな場合は、BGMなしデータで下さい！\n楽曲こちらでお願いします！\n<https://audiostock.jp/audio/175779|https://audiostock.jp/audio/175779>\n■期日\n12/18(木)17時：★修正提出 ※イレギュラー",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "image_url": "https://s3-ap-northeast-1.amazonaws.com/audiostock-images/images/artist_icons/4285/large.t_4285.?1557477649",
+              "image_width": 800,
+              "image_height": 800,
+              "image_bytes": 23413,
+              "from_url": "https://audiostock.jp/audio/175779",
+              "service_icon": "https://audiostock.jp/favicon.ico",
+              "thumb_url": "https://s3-ap-northeast-1.amazonaws.com/audiostock-images/images/artist_icons/4285/large.t_4285.?1557477649",
+              "thumb_width": 800,
+              "thumb_height": 800,
+              "id": 1,
+              "original_url": "https://audiostock.jp/audio/175779",
+              "fallback": "日本最大級の著作権フリーBGM・効果音ストックサービス「Audiostock」: わんぱくな子供や動物をイメージした曲 (No.175779) 著作権フリー音源・音楽素材 [mp3/WAV] | Audiostock(オーディオストック)",
+              "text": "BGM(インスト)素材「Little Adventure」の作品ページです。わんぱくな子供や動物をイメージしたとても可愛らしい楽曲で、思わずウキウキしてしまうような跳ねるようなリズムが特徴的です。AudiostockStudioにて収録しました。（フルート奏者：山本葵さん）",
+              "title": "わんぱくな子供や動物をイメージした曲 (No.175779) 著作権フリー音源・音楽素材 [mp3/WAV] | Audiostock(オーディオストック)",
+              "title_link": "https://audiostock.jp/audio/175779",
+              "service_name": "日本最大級の著作権フリーBGM・効果音ストックサービス「Audiostock」"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "N76fd",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お手数します！\n\n①\r\n ・1カット目：おにぎりに寄り（かなり卵・ハンバーグに寄る）の画、テロップ「めっちゃわんぱくな」に変更\n②\n ・2カット目：少し引いてフライドポテト等も見える全体の画、テロップ「おにぎり登場！」に変更\n③\n ▼7秒目近辺\n ・「温めたり」のカットはトリでお願いします\n④\n ▼BGM\n ・3分クッキング感が強いのでわんぱくな子どもが遊んでるような賑やかなBGMをいくつかご選定いただけますと幸いです。\n →こちら3パターンぐらい選定して先方の確認中なので、確定次第連携します！\n 対応が間に合わなくなりそうな場合は、BGMなしデータで下さい！\n楽曲こちらでお願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://audiostock.jp/audio/175779",
+                      "text": "https://audiostock.jp/audio/175779"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n■期日\n12/18(木)17時：★修正提出 ※イレギュラー"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766034841.140059",
+          "client_msg_id": "47cc66e7-e5b8-455c-b486-cd9b673c44af",
+          "text": "<@U010F29ALBS>\nこれの音源ってあとから来たやつ？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "AjazZ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nこれの音源ってあとから来たやつ？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766034912.329839",
+          "client_msg_id": "9c94d652-35f2-4c55-958b-dbfcbf8c6b87",
+          "text": "<@U010HFUC9V4>\nこの修正できたやつ！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "kvEXw",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nこの修正できたやつ！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766034939.439059",
+          "client_msg_id": "ee24e6cc-b22e-46d1-acf7-baa8685a6286",
+          "text": "<@U010F29ALBS>\n→こちら3パターンぐらい選定して先方の確認中なので、確定次第連携します！\n 対応が間に合わなくなりそうな場合は、BGMなしデータで下さい！\n\nこれはどういう意味？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "kkS8o",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n→こちら3パターンぐらい選定して先方の確認中なので、確定次第連携します！\n 対応が間に合わなくなりそうな場合は、BGMなしデータで下さい！\n\nこれはどういう意味？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766034968.434359",
+          "client_msg_id": "2d610ea1-0022-4d63-b9e1-c65cd599614a",
+          "text": "<@U010HFUC9V4> \nその後にすぐきたやつ！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "RY42l",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nその後にすぐきたやつ！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766034989.490309",
+          "client_msg_id": "c2c81d62-6bbb-40b3-a004-1acb34c3a5dd",
+          "text": "<@U010F29ALBS>\nじゃあこの音源でいいってこと？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Q8hPs",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nじゃあこの音源でいいってこと？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766035927.390139",
+          "client_msg_id": "70645547-92b4-4b1c-9fc9-17cdbd6f1b2e",
+          "text": "<@U010HFUC9V4>うん！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "YChXy",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "うん！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766036468.562879",
+          "client_msg_id": "29964916-27c0-43ef-94b1-3f623d8651e6",
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\n\n使用ナレーションが確定しまして、VOICEPEAKというツールを使用することになり、\nアカウント共有ができないので、どうするか検討中です:thinking_face:\n<https://www.ah-soft.com/voice/narrator/|https://www.ah-soft.com/voice/narrator/>\n※女性4を使用\n\n今回は一旦、こちらで作成したので、こちらを使用お願いします！\n<https://64.gigafile.nu/0328-bb5e2bfc04ba2dc6b2f681e5ffdb073e2|https://64.gigafile.nu/0328-bb5e2bfc04ba2dc6b2f681e5ffdb073e2>\n\n・速度+110%ほど、ゲイン+4での調整お願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "image_url": "https://www.ah-soft.com/images/products/voice/narrator/mainimage.png",
+              "image_width": 1000,
+              "image_height": 367,
+              "image_bytes": 128769,
+              "from_url": "https://www.ah-soft.com/voice/narrator/",
+              "service_icon": "https://www.ah-soft.com/images/common/ahsoft.ico",
+              "id": 1,
+              "original_url": "https://www.ah-soft.com/voice/narrator/",
+              "fallback": "AHS(AH-Software): VOICEPEAK 商用可能 ナレーター",
+              "text": "『VOICEPEAK 商用可能 ナレーター』は、すでに発売中の「VOICEPEAK 商用可能 6ナレーターセット」を始めとするVOICEPEAKシリーズに追加することが可能な、個人・法人・教育機関問わず商用・業務利用でのご利用も可能な入力文字読み上げソフトです。また、単体でご利用頂くこともできます。",
+              "title": "VOICEPEAK 商用可能 ナレーター",
+              "title_link": "https://www.ah-soft.com/voice/narrator/",
+              "service_name": "AHS(AH-Software)"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "a6fzM",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n\n使用ナレーションが確定しまして、VOICEPEAKというツールを使用することになり、\nアカウント共有ができないので、どうするか検討中です"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "thinking_face",
+                      "unicode": "1f914"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://www.ah-soft.com/voice/narrator/",
+                      "text": "https://www.ah-soft.com/voice/narrator/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n※女性4を使用\n\n今回は一旦、こちらで作成したので、こちらを使用お願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://64.gigafile.nu/0328-bb5e2bfc04ba2dc6b2f681e5ffdb073e2",
+                      "text": "https://64.gigafile.nu/0328-bb5e2bfc04ba2dc6b2f681e5ffdb073e2"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n・速度+110%ほど、ゲイン+4での調整お願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766036841.274909",
+          "client_msg_id": "ce1f7945-00c7-4fb3-9d31-3cefc4e17a56",
+          "text": "<@U010F29ALBS>\n『具！おにぎり まるでハンバーグ丼』修正2\n\n音源\n<https://vt.tiktok.com/ZSHK1hftNr6tQ-kCANG/>\n\n<https://38.gigafile.nu/0328-0deb1ce6e98ebe6a3cf986ff6be73244>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://38.gigafile.nu/0328-0deb1ce6e98ebe6a3cf986ff6be73244",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "id": 1,
+              "original_url": "https://38.gigafile.nu/0328-0deb1ce6e98ebe6a3cf986ff6be73244",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://38.gigafile.nu/0328-0deb1ce6e98ebe6a3cf986ff6be73244",
+              "service_name": "38.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "z51yc",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具！おにぎり まるでハンバーグ丼』修正2\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZSHK1hftNr6tQ-kCANG/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://38.gigafile.nu/0328-0deb1ce6e98ebe6a3cf986ff6be73244"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766036861.238479",
+          "client_msg_id": "b116ebf9-5d31-40dc-b95d-4dd935c8589e",
+          "text": "<@U010F29ALBS> ナレーション追加は次の修正？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "mxuNn",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " ナレーション追加は次の修正？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766037051.384149",
+          "client_msg_id": "608e92ef-4bf9-4d24-8e95-e892ce3a5e1f",
+          "text": "<@U010HFUC9V4>いまきたとこだから聞いてみる",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "i1c1D",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "いまきたとこだから聞いてみる"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nこちらのカットの下が見切れており、ナレーションと合わせて対応をお願いしたく、、！\n明日の朝一の提案のため、本日中に対応をお願いしたいのですが、何時頃までの対応可能でしょうか？",
+          "files": [
+            {
+              "id": "F0A47TS1MSR",
+              "created": 1766037413,
+              "timestamp": 1766037413,
+              "name": "image-14.png",
+              "title": "image-14.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 131809,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A47TS1MSR/image-14.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A47TS1MSR/download/image-14.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A47TS1MSR-8cbcebaee7/image-14_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A47TS1MSR-8cbcebaee7/image-14_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A47TS1MSR-8cbcebaee7/image-14_360.png",
+              "thumb_360_w": 201,
+              "thumb_360_h": 339,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A47TS1MSR-8cbcebaee7/image-14_160.png",
+              "original_w": 201,
+              "original_h": 339,
+              "thumb_tiny": "AwAwAB21I5DHk4z61CZ2VsFj0PepZQEDvI3Geg61H50OD8r4x6VJokEcznO8ke+aswMWzkk1ULxNtPzqTwDxVm1QpuGQRxjFNClohk6bFd8ZPYYqp58wB+TjqcCrV1IyupC7gM8f1qv9sbPMYqGkg1Y1pBM+5lYD2NaEHf0qgZEl+VUw56e9aMYAziqQncz5WdZ3wxGWPHUdfSmmVifmjjP1FTSo5kchGPJ5xUXlSfNmNsjpxSGIJmU5WNBVyzd33l2J6YHpVPype8bn6CrdkrLv3KR05IxmmhM//9k=",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A47TS1MSR/image-14.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A47TS1MSR-0532a6934c",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "3X8Ym",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nこちらのカットの下が見切れており、ナレーションと合わせて対応をお願いしたく、、！\n明日の朝一の提案のため、本日中に対応をお願いしたいのですが、何時頃までの対応可能でしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1766037417.069119",
+          "client_msg_id": "fb87d072-c6f1-4af8-9c90-3ccaa81b7542",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766037478.807579",
+          "client_msg_id": "f89d2724-e3cc-4287-9ef2-10e91ae43d22",
+          "text": "<@U010F29ALBS>\n今日忙しいから終日で何時に出せるか分かんない！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "BdEZf",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n今日忙しいから終日で何時に出せるか分かんない！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1766037965.246149",
+          "client_msg_id": "925c9c37-fdb7-410a-8c31-29095735e684",
+          "text": "<@U010HFUC9V4>\n終日は終日で出せるって伝えていいの？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "szE8q",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n終日は終日で出せるって伝えていいの？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766037989.833759",
+          "client_msg_id": "3fef78a3-8bbb-432a-956e-870a9c3461d0",
+          "text": "<@U010F29ALBS>\n0時過ぎるかもしれない！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "WfX8U",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n0時過ぎるかもしれない！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "raised_hands",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1766062467.397569",
+          "client_msg_id": "4a119626-2893-40b6-835c-b8c274da6d58",
+          "text": "<@U010F29ALBS>\n『具！おにぎり まるでハンバーグ丼』修正3\n\n音源\n<https://vt.tiktok.com/ZSHK1hftNr6tQ-kCANG/>\n\n<https://110.gigafile.nu/0328-505b237d483f6e73805dd3be9e87d01f>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765603000.005289",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://110.gigafile.nu/0328-505b237d483f6e73805dd3be9e87d01f",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "service_icon": "https://110.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://110.gigafile.nu/0328-505b237d483f6e73805dd3be9e87d01f",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://110.gigafile.nu/0328-505b237d483f6e73805dd3be9e87d01f",
+              "service_name": "110.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "5El9g",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具！おにぎり まるでハンバーグ丼』修正3\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZSHK1hftNr6tQ-kCANG/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://110.gigafile.nu/0328-505b237d483f6e73805dd3be9e87d01f"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761182.032929",
+      "client_msg_id": "89d80f98-96e1-48c2-a4e3-d1a6c5a9ffe8",
+      "text": "<@U0A3N8D768L>",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HDtG+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0A3N8D768L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "group_join",
+      "user": "U0A3N8D768L",
+      "text": "<@U0A3N8D768L>さんがグループに参加しました",
+      "inviter": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761186.765569"
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1766750064.401809",
+      "client_msg_id": "4b4e97d5-09bb-4811-8a77-9f07267bc49a",
+      "text": "<@U010HFUC9V4> \n2月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：12/30(火)まで\n\n①【2月①○○すぎドリンク3種】\n\n▼スケジュール\n1/11(日)：素材送付\n1/13(火)17時：★初稿提出\n1/13(火)：PREVICT初稿お戻し\n1/14(水)12時：★修正提出\n1/15(木)：代理店お戻し\n1/16(金)17時：★修正提出\n1/22(木)：ローソン様お戻し\n1/23(金)17時：★修正提出\n1/29(木)：ローソン様お戻し(※基本的には校了予定)\n1/30(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "H7AKb",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": " \n2月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：12/30(火)まで\n\n①【2月①○○すぎドリンク3種】\n\n▼スケジュール\n1/11(日)：素材送付\n1/13(火)17時：★初稿提出\n1/13(火)：PREVICT初稿お戻し\n1/14(水)12時：★修正提出\n1/15(木)：代理店お戻し\n1/16(金)17時：★修正提出\n1/22(木)：ローソン様お戻し\n1/23(金)17時：★修正提出\n1/29(木)：ローソン様お戻し(※基本的には校了予定)\n1/30(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1767958492.527809",
+      "client_msg_id": "cb6cd3f1-a9a4-474e-abc1-e7b2404649c2",
+      "text": "<@U010HFUC9V4> \nお疲れ様です！\n\n使用ナレーションの確定しまして、\n今後、基本ナレーションは「VOICEPEAK」というツールでの作成でお願いします！\n※男性ナレーションなどイレギュラー時にはこれまで通り、CapCutを使用\n\n▼使用ツール\nVOICEPEAK\n<https://www.ah-soft.com/voice/narrator/#cart|https://www.ah-soft.com/voice/narrator/#cart>\nモデル：女性4\n\n▼レギュレーション\n・VOICEPEAK上、上部の各ボイスの補正でピッチ+20%、幸せ+20、楽しみ+15\n・VOICEPEAK上での速度調整はなしで、Pr上で110％が基本\n　※必要に応じて適宜調整していただいて問題ないです\n・VOICEPEAK上での音量調整はなしで、Pr上でゲイン+5\n\nある程度の細かい調整ができ、直感的に使いやすいかとは思います！\n買い切り費用が「11,980円」かかるので、こちらで負担するので、次回の請求書にのせてください！",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1767958492.527809",
+      "reply_count": 14,
+      "reply_users_count": 2,
+      "latest_reply": "1768271041.871529",
+      "reply_users": [
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "attachments": [
+        {
+          "image_url": "https://www.ah-soft.com/images/products/voice/narrator/mainimage.png",
+          "image_width": 1000,
+          "image_height": 367,
+          "image_bytes": 128769,
+          "from_url": "https://www.ah-soft.com/voice/narrator/#cart",
+          "service_icon": "https://www.ah-soft.com/images/common/ahsoft.ico",
+          "id": 1,
+          "original_url": "https://www.ah-soft.com/voice/narrator/#cart",
+          "fallback": "AHS(AH-Software): VOICEPEAK 商用可能 ナレーター",
+          "text": "『VOICEPEAK 商用可能 ナレーター』は、すでに発売中の「VOICEPEAK 商用可能 6ナレーターセット」を始めとするVOICEPEAKシリーズに追加することが可能な、個人・法人・教育機関問わず商用・業務利用でのご利用も可能な入力文字読み上げソフトです。また、単体でご利用頂くこともできます。",
+          "title": "VOICEPEAK 商用可能 ナレーター",
+          "title_link": "https://www.ah-soft.com/voice/narrator/#cart",
+          "service_name": "AHS(AH-Software)"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "mkOV6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です！\n\n使用ナレーションの確定しまして、\n今後、基本ナレーションは「VOICEPEAK」というツールでの作成でお願いします！\n※男性ナレーションなどイレギュラー時にはこれまで通り、CapCutを使用\n\n▼使用ツール\nVOICEPEAK\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://www.ah-soft.com/voice/narrator/#cart",
+                  "text": "https://www.ah-soft.com/voice/narrator/#cart"
+                },
+                {
+                  "type": "text",
+                  "text": "\nモデル：女性4\n\n▼レギュレーション\n・VOICEPEAK上、上部の各ボイスの補正でピッチ+20%、幸せ+20、楽しみ+15\n・VOICEPEAK上での速度調整はなしで、Pr上で110％が基本\n　※必要に応じて適宜調整していただいて問題ないです\n・VOICEPEAK上での音量調整はなしで、Pr上でゲイン+5\n\nある程度の細かい調整ができ、直感的に使いやすいかとは思います！\n買い切り費用が「11,980円」かかるので、こちらで負担するので、次回の請求書にのせてください！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "text": "",
+          "files": [
+            {
+              "id": "F0A8L9S32SC",
+              "created": 1767958507,
+              "timestamp": 1767958507,
+              "name": "image-36.png",
+              "title": "image-36.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 37616,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8L9S32SC/image-36.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8L9S32SC/download/image-36.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8L9S32SC-c985843c28/image-36_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8L9S32SC-c985843c28/image-36_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8L9S32SC-c985843c28/image-36_360.png",
+              "thumb_360_w": 299,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8L9S32SC-c985843c28/image-36_480.png",
+              "thumb_480_w": 399,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8L9S32SC-c985843c28/image-36_160.png",
+              "original_w": 479,
+              "original_h": 576,
+              "thumb_tiny": "AwAwACiTy7nAxvz/AL9NkFxHGWcsAOp3Vo0xkV0KunB7UAZpnYZy0g9Mk8U6IzSk7Gc7evzYq59jt/8AnmPzNSRwxxZ8tduetAFPyrr1b/vujy7r1b/vur9FACDrQPTn6mgdaB06YoACOe9HNI3Xpn8aUUAHaijtRQADrQoAHAA+lFGQPp9KAFNJQTRQAdqKO1FAH//Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A8L9S32SC/image-36.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A8L9S32SC-df7404b9bb",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0A7VJ4LV1S",
+              "created": 1767958507,
+              "timestamp": 1767958507,
+              "name": "image-25.png",
+              "title": "image-25.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 73424,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A7VJ4LV1S/image-25.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A7VJ4LV1S/download/image-25.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7VJ4LV1S-1dab6b95c6/image-25_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7VJ4LV1S-1dab6b95c6/image-25_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7VJ4LV1S-1dab6b95c6/image-25_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 120,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7VJ4LV1S-1dab6b95c6/image-25_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 160,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7VJ4LV1S-1dab6b95c6/image-25_160.png",
+              "original_w": 710,
+              "original_h": 236,
+              "thumb_tiny": "AwAQADC47xoxBLlvQE/5705Pu5G4AnOGyT/Pin7Duzvbr04/woZQw5UMM55oAFGTnJz+IoyCB97n600KAwPlKCOAeOKdubsh/Olcdh2Oc0UmWz93j1zSjPemI//Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A7VJ4LV1S/image-25.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A7VJ4LV1S-f96ece5ad8",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "hCn+5",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": []
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1767958538.611979",
+          "client_msg_id": "8957600f-a272-4975-98a4-fc4812f7fac3",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "text": "<https://www.cleverbridge.com/1294/?scope=confirmationpp&amp;s=1767958749&amp;e=1770550749&amp;&amp;id=FBquFIxrwB&amp;purchase=527700546&amp;progress=paymentChanged|https://www.cleverbridge.com/1294/?scope=confirmationpp&amp;s=1767958749&amp;e=1770550749&amp;&amp;id=FBquFIxrwB&amp;purchase=527700546&amp;progress=paymentChanged>",
+          "files": [
+            {
+              "id": "F0A84ULFQ65",
+              "created": 1767958793,
+              "timestamp": 1767958793,
+              "name": "Screenshot_20260109-203931.png",
+              "title": "Screenshot_20260109-203931.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 430313,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84ULFQ65/screenshot_20260109-203931.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84ULFQ65/download/screenshot_20260109-203931.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_360.png",
+              "thumb_360_w": 164,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_480.png",
+              "thumb_480_w": 219,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_720.png",
+              "thumb_720_w": 329,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1751,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_960.png",
+              "thumb_960_w": 439,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_1024.png",
+              "thumb_1024_w": 468,
+              "thumb_1024_h": 1024,
+              "original_w": 1080,
+              "original_h": 2364,
+              "thumb_tiny": "AwAwABa6Z142kHd05PX06UCdDtwfvdOvP6U5pCpIwDxxz3pRKMDPB74ougsxwXHTPryc0UKwboaWgCEo5JIY/ez1NL+8JwGGafuAz8w60bh/eWot5lCJv3fMe1PpoILcEHjtTqpCZArSPKwwAoPDfj9Kk2N/f/SnAev86Ofb35osFxFUg8tn8KdTfnA4UZ/3v/rUmZP7q/8AfR/wpiP/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A84ULFQ65/screenshot_20260109-203931.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A84ULFQ65-b91fbde515",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Y4LWs",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://www.cleverbridge.com/1294/?scope=confirmationpp&s=1767958749&e=1770550749&&id=FBquFIxrwB&purchase=527700546&progress=paymentChanged",
+                      "text": "https://www.cleverbridge.com/1294/?scope=confirmationpp&s=1767958749&e=1770550749&&id=FBquFIxrwB&purchase=527700546&progress=paymentChanged"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1767958798.319329",
+          "client_msg_id": "a64d5ee1-f536-48dc-97a5-b1272aeeeb61",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1768268435.180819",
+          "client_msg_id": "db4ab9b9-594b-46a2-99f6-5f70f1b19881",
+          "text": "これダウンロードできる？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "jvoXI",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "これダウンロードできる？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768268481.831029",
+          "client_msg_id": "9f765808-ef42-4d34-9aed-23d55a65fec0",
+          "text": "ファイルが見つかりませんってでる！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "FwLZS",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ファイルが見つかりませんってでる！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768268595.527279",
+          "client_msg_id": "56fca714-6fee-4d01-bed0-ea33d2855a43",
+          "text": "<@U010F29ALBS>\n↑のリンクはなんのリンク？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0XJuD",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n↑のリンクはなんのリンク？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768268616.971799",
+          "client_msg_id": "862b9c24-6268-48eb-beb6-409b51954525",
+          "text": "サイトでは女性４ダウンロードできる",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "nKifN",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "サイトでは女性４ダウンロードできる"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1768269641.067849",
+          "client_msg_id": "538535a9-14c6-4ff9-8557-142efe55cbfb",
+          "text": "スクショの購入ページだけど見れないのか",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "FLfKA",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "スクショの購入ページだけど見れないのか"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1768269662.796959",
+          "client_msg_id": "e661b117-61bf-4810-89a7-76568031e25e",
+          "text": "ダウンロードしてコードは入力できる？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "8aUcE",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ダウンロードしてコードは入力できる？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "これでいいのかな",
+          "files": [
+            {
+              "id": "F0A84P6PLFM",
+              "created": 1768269681,
+              "timestamp": 1768269681,
+              "name": "スクリーンショット 2026-01-13 110105.png",
+              "title": "スクリーンショット 2026-01-13 110105.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010HFUC9V4",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 54682,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84P6PLFM/____________________________2026-01-13_110105.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84P6PLFM/download/____________________________2026-01-13_110105.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 287,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 382,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84P6PLFM-dae358fc8a/____________________________2026-01-13_110105_720.png",
+              "thumb_720_w": 720,
+              "thumb_720_h": 574,
+              "original_w": 792,
+              "original_h": 631,
+              "thumb_tiny": "AwAnADDRZSScE+3OKTZ/tN+dOy2cbePXNJlv7v61Og9Q2f7TfnRs/wBpvzo3P/c/Wjc/9z9aNB6hs/2m/OgLj+In6mjc/wDc/WkQEE5XGfeloGojRqz7iefrQI1HcU5hk89/Sm+p549j/n1ot5BcBGoAHHFGwZyWzRxtB+bB/wBk/WgBdwxnJGfumi3kFxQgHcUKME46Uu33oCgHPei3kFx1Bz2ooqyROfT9aWiigCGW3SZwzEgjjjFJDbJC5ZS3IxyanoNKxXO7WP/Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A84P6PLFM/____________________________2026-01-13_110105.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A84P6PLFM-ff9822df2a",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010HFUC9V4",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "FCFrs",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "これでいいのかな"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1768269689.695759",
+          "client_msg_id": "71d61fab-2963-494a-9d84-7e5b4b5f2765",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1768270084.288049",
+          "client_msg_id": "21bd2fa4-d53c-4a8c-a460-3048624a75e9",
+          "text": "もう買ってあるんだけど購入するってことはしょーのカードになってる？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "MOA8t",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "もう買ってあるんだけど購入するってことはしょーのカードになってる？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768270118.633649",
+          "client_msg_id": "c1b4e6a8-ede5-427b-836f-29fe852aaa18",
+          "text": "あ、かなたが買うってことか\n共有とかできるの？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "BoHOR",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "あ、かなたが買うってことか\n共有とかできるの？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "ダウンロードしてみた",
+          "files": [
+            {
+              "id": "F0A8B65LK34",
+              "created": 1768270360,
+              "timestamp": 1768270360,
+              "name": "voicepeak_narrator_female4_dl.zip",
+              "title": "voicepeak_narrator_female4_dl.zip",
+              "mimetype": "application/zip",
+              "filetype": "zip",
+              "pretty_type": "Zip",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 69709299,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8B65LK34/voicepeak_narrator_female4_dl.zip",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8B65LK34/download/voicepeak_narrator_female4_dl.zip",
+              "media_display_type": "unknown",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A8B65LK34/voicepeak_narrator_female4_dl.zip",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A8B65LK34-e3a5011f47",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "XA8Q9",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ダウンロードしてみた"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1768270402.915789",
+          "client_msg_id": "7561ade0-15aa-48fe-8291-00722eef81d3",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768270497.129509",
+          "client_msg_id": "20c71db5-c118-4c0c-bbf0-f571a2cd73c1",
+          "text": "アクティベーションコードが必要らしい！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "PqMXC",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "アクティベーションコードが必要らしい！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<https://studio-kanata.slack.com/files/U010F29ALBS/F0A84ULFQ65/screenshot_20260109-203931.png|https://studio-kanata.slack.com/files/U010F29ALBS/F0A84ULFQ65/screenshot_20260109-203931.png>\nこれ！",
+          "files": [
+            {
+              "id": "F0A84ULFQ65",
+              "created": 1767958793,
+              "timestamp": 1767958793,
+              "name": "Screenshot_20260109-203931.png",
+              "title": "Screenshot_20260109-203931.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 430313,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84ULFQ65/screenshot_20260109-203931.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A84ULFQ65/download/screenshot_20260109-203931.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_360.png",
+              "thumb_360_w": 164,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_480.png",
+              "thumb_480_w": 219,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_720.png",
+              "thumb_720_w": 329,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1751,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_960.png",
+              "thumb_960_w": 439,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A84ULFQ65-a7a1e74fa5/screenshot_20260109-203931_1024.png",
+              "thumb_1024_w": 468,
+              "thumb_1024_h": 1024,
+              "original_w": 1080,
+              "original_h": 2364,
+              "thumb_tiny": "AwAwABa6Z142kHd05PX06UCdDtwfvdOvP6U5pCpIwDxxz3pRKMDPB74ougsxwXHTPryc0UKwboaWgCEo5JIY/ez1NL+8JwGGafuAz8w60bh/eWot5lCJv3fMe1PpoILcEHjtTqpCZArSPKwwAoPDfj9Kk2N/f/SnAev86Ofb35osFxFUg8tn8KdTfnA4UZ/3v/rUmZP7q/8AfR/wpiP/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A84ULFQ65/screenshot_20260109-203931.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A84ULFQ65-b91fbde515",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "x_files": [
+            "F0A84ULFQ65"
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "U41te",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://studio-kanata.slack.com/files/U010F29ALBS/F0A84ULFQ65/screenshot_20260109-203931.png",
+                      "text": "https://studio-kanata.slack.com/files/U010F29ALBS/F0A84ULFQ65/screenshot_20260109-203931.png"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nこれ！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1768271041.871529",
+          "client_msg_id": "0c4b43c8-2f68-4917-bcd9-e18441668696",
+          "thread_ts": "1767958492.527809",
+          "parent_user_id": "U010F29ALBS"
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1767958590.128979",
+      "client_msg_id": "29a2cc24-bac7-464e-84a8-9e3ff929a7c7",
+      "text": "①【2月①○○すぎドリンク3種】\n\n▼スケジュール\n1/11(日)：素材送付\n1/13(火)17時：★初稿提出\n1/13(火)：PREVICT初稿お戻し\n1/14(水)12時：★修正提出\n1/15(木)：代理店お戻し\n1/16(金)17時：★修正提出\n1/22(木)：ローソン様お戻し\n1/23(金)17時：★修正提出\n1/29(木)：ローソン様お戻し(※基本的には校了予定)\n1/30(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1767958590.128979",
+      "reply_count": 14,
+      "reply_users_count": 2,
+      "latest_reply": "1769691516.906189",
+      "reply_users": [
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "KnpdM",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "①【2月①○○すぎドリンク3種】\n\n▼スケジュール\n1/11(日)：素材送付\n1/13(火)17時：★初稿提出\n1/13(火)：PREVICT初稿お戻し\n1/14(水)12時：★修正提出\n1/15(木)：代理店お戻し\n1/16(金)17時：★修正提出\n1/22(木)：ローソン様お戻し\n1/23(金)17時：★修正提出\n1/29(木)：ローソン様お戻し(※基本的には校了予定)\n1/30(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "text": "<@U010HFUC9V4> \n撮影データの用意ができましたので、編集の進行お願いします！\n<https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04|https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04>\n\n■留意事項\n・素材1は速度調整お願いします\n\n■期日\n1/13(火)17時：★初稿提出",
+          "files": [
+            {
+              "id": "F0A7AM18YQP",
+              "created": 1767960065,
+              "timestamp": 1767960065,
+              "name": "【ローソン様】TikTok構成案_2月①○○すぎドリンク3種.pptx",
+              "title": "【ローソン様】TikTok構成案_2月①○○すぎドリンク3種.pptx",
+              "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+              "filetype": "pptx",
+              "pretty_type": "PowerPoint プレゼンテーション",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 751684,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A7AM18YQP/_____________________tiktok__________2______________________________3___.pptx",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A7AM18YQP/download/_____________________tiktok__________2______________________________3___.pptx",
+              "media_display_type": "unknown",
+              "converted_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7AM18YQP-5e1b793477/_____________________tiktok__________2______________________________3____converted.pdf",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A7AM18YQP-5e1b793477/_____________________tiktok__________2______________________________3____thumb_pdf.png",
+              "thumb_pdf_w": 1100,
+              "thumb_pdf_h": 825,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A7AM18YQP/_____________________tiktok__________2______________________________3___.pptx",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A7AM18YQP-7b8f573617",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "lA/z8",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n撮影データの用意ができましたので、編集の進行お願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04",
+                      "text": "https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n■留意事項\n・素材1は速度調整お願いします\n\n■期日\n1/13(火)17時：★初稿提出"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1767960082.294109",
+          "client_msg_id": "32a54db2-ec19-47d2-a8cc-853528af5262",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "id": 1,
+              "original_url": "https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://118.gigafile.nu/0419-917a128df6ee1662885c34c8a9738a04",
+              "service_name": "118.gigafile.nu"
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768281923.112899",
+          "client_msg_id": "2ac1d719-44a5-4ba9-b79e-0b5dcb4cb545",
+          "text": "<@U010F29ALBS>\n『○○すぎドリンク3種』初稿\n\n音源\n<https://vt.tiktok.com/ZSHo8u2Lo4gur-XcpBz/>\n\n<https://104.gigafile.nu/0423-f6aa3a2d4bf8f651f5cf7b7ddb80dd90>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://104.gigafile.nu/0423-f6aa3a2d4bf8f651f5cf7b7ddb80dd90",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "service_icon": "https://104.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://104.gigafile.nu/0423-f6aa3a2d4bf8f651f5cf7b7ddb80dd90",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://104.gigafile.nu/0423-f6aa3a2d4bf8f651f5cf7b7ddb80dd90",
+              "service_name": "104.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "jexbL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『○○すぎドリンク3種』初稿\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZSHo8u2Lo4gur-XcpBz/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://104.gigafile.nu/0423-f6aa3a2d4bf8f651f5cf7b7ddb80dd90"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768303894.701069",
+          "client_msg_id": "1F0236AC-1230-4784-B894-2E8692BD74B1",
+          "text": "<@U010F29ALBS> これの修正って今日来る？明日の12時までに修正対応なんだけど明日無理だから今日中に来ないと無理かも",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "qgCLx",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " これの修正って今日来る？明日の12時までに修正対応なんだけど明日無理だから今日中に来ないと無理かも"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1768304467.402869",
+          "client_msg_id": "3a590289-0f80-487e-a06f-900984b406ac",
+          "text": "<@U010HFUC9V4>\n今日の初稿代理店に送ったらしい",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "YEbdo",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n今日の初稿代理店に送ったらしい"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\nお戻しがありましたしたので、お手数ですが対応お願いします！\n\n①\n ▼商品カット（2秒～）\n ・添付のイメージでいらすとや素材の追加をお願いします(※上下に小刻みに動かすなど動きを付けたいです)\n ・寄った後に商品を見せるために+0.5秒くらいの間\n②\n ▼テロップ\n ・2秒以降の個別商品カット部分ですが文脈的に黄色と赤が逆の方がいいかと思ったのですがいかがでしょうか？視認性等鑑みてご判断いただけますと幸いです。\n →パッケージの赤い部分と被ってしまい、視認性が悪くなる可能性があるため、変更してみて検討しますとお伝えしているので、その場合、ご共有ください！\n③\n ▼BGM\n ・盛りすぎチャレンジのお祭り感が表現できるようなポジティブ・明るく楽しい感のあるBGMを1パターンご選定いただけますでしょうか\n →以下に変更お願いします！\n<https://audiostock.jp/audio/198896|https://audiostock.jp/audio/198896>\n\n■期日\n1/16(金)17時：★修正提出",
+          "files": [
+            {
+              "id": "F0A9QUCH4RW",
+              "created": 1768473485,
+              "timestamp": 1768473485,
+              "name": "image-18.png",
+              "title": "image-18.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 1443032,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A9QUCH4RW/image-18.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A9QUCH4RW/download/image-18.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 209,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 279,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_720.png",
+              "thumb_720_w": 720,
+              "thumb_720_h": 419,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 465,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_960.png",
+              "thumb_960_w": 960,
+              "thumb_960_h": 559,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QUCH4RW-ac98987ff7/image-18_1024.png",
+              "thumb_1024_w": 1024,
+              "thumb_1024_h": 596,
+              "original_w": 1191,
+              "original_h": 693,
+              "thumb_tiny": "AwAcADBpjLAbEGFHOfWlEQQHKcdASOtLwq4ctknOOeaZGxdvlUcdMVGtzXQf5RZdqKuR6jrSCIIuSg59RT3QmBkwBnH8/T8f88U2NV2b4weSRT1FcUx7/uoAOgBpPJCjO0EGnL+7XLEj2JwKQYK5U85FRd3sFyNmDD7w45GDUcb7TkED8aZxjGB9aDgknAGT0FXYXMWyz7WAz/KmjekIXGMHjAquODSUBcthxtxnmmyPgLg+pqsKKXLrcLn/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A9QUCH4RW/image-18.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A9QUCH4RW-5c75ed9f1c",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0A8UJ4U49L",
+              "created": 1768473485,
+              "timestamp": 1768473485,
+              "name": "woman3_karai.png",
+              "title": "woman3_karai.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 42902,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8UJ4U49L/woman3_karai.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8UJ4U49L/download/woman3_karai.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8UJ4U49L-63693eac35/woman3_karai_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8UJ4U49L-63693eac35/woman3_karai_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8UJ4U49L-63693eac35/woman3_karai_360.png",
+              "thumb_360_w": 174,
+              "thumb_360_h": 220,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8UJ4U49L-63693eac35/woman3_karai_160.png",
+              "original_w": 174,
+              "original_h": 220,
+              "thumb_tiny": "AwAwACbTrNuL9mYrD8qj+Luau3T+XbSNz0wMVmW8IcFnHHYUmUlcYtzOrZEr/ic1cttQywSfAz/F/jUUkCuuVG0jpgVUdWRsMMGlcbVjfoqK1cyWyMeuMH8OKlqiCpdzI6tCAzHvtHSobeTYgjx905wRg1I0UsUzsqb1c546iqwcGds/e6AH1rO7ubJRsWg2GHBOB1P+etMnXzFJIwufyquBJ1+cGlmmIi2HO4jkelUNpI0LQbYAo6AnGamqtYSb7YDPK8GrNUYvcKq3EUTneV+Yd6tU1o0bGV6UAioCncE/jTBarcPkvtx1AHWneW/9xvyqa3RlcllIGKRq7WJYoliQIgwB+tPoopmJ/9k=",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A8UJ4U49L/woman3_karai.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A8UJ4U49L-7063b521af",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0A99H0FQD7",
+              "created": 1768473485,
+              "timestamp": 1768473485,
+              "name": "woman1_oishii.png",
+              "title": "woman1_oishii.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 41133,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A99H0FQD7/woman1_oishii.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A99H0FQD7/download/woman1_oishii.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A99H0FQD7-e9b1c18d6d/woman1_oishii_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A99H0FQD7-e9b1c18d6d/woman1_oishii_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A99H0FQD7-e9b1c18d6d/woman1_oishii_360.png",
+              "thumb_360_w": 162,
+              "thumb_360_h": 220,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A99H0FQD7-e9b1c18d6d/woman1_oishii_160.png",
+              "original_w": 162,
+              "original_h": 220,
+              "thumb_tiny": "AwAwACTQmlWGMu/QfrWXNezSnhig7BTU+qNxGgPqSP8AP40sNskajeu5z1z0FJspIqRXc6H/AFhPs3NaNpeLcfKw2yenY/SqtxaZYvFyTyVqrC5hnVuQVPIpJg0btFFFUSU7qJZJw5JBXH0pWVpAMOVx6evb/wDVRqEbNEsi9YzmmwSrKnynDenpUstWsPdWccMUx0+vb8Pao54UlYFiQRxx3qTa5cMxCgDoDVK5uN0gEZ+6c596QzXHIGaKRGDorDoRmlqzMCQBzVJoo45CyLtz2q6QD1GagniG3KL82e1BUSFnBXGDn1zTYbBHbzGYlT/COKXy3/uN+VWoAREARilYuVraEgAAAAwB2ooopmR//9k=",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A99H0FQD7/woman1_oishii.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A99H0FQD7-b172c46dee",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0A9QU9RF1N",
+              "created": 1768473489,
+              "timestamp": 1768473489,
+              "name": "woman5_suppai.png",
+              "title": "woman5_suppai.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 206298,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A9QU9RF1N/woman5_suppai.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A9QU9RF1N/download/woman5_suppai.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QU9RF1N-c0c087a542/woman5_suppai_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QU9RF1N-c0c087a542/woman5_suppai_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QU9RF1N-c0c087a542/woman5_suppai_360.png",
+              "thumb_360_w": 265,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QU9RF1N-c0c087a542/woman5_suppai_480.png",
+              "thumb_480_w": 353,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A9QU9RF1N-c0c087a542/woman5_suppai_160.png",
+              "original_w": 371,
+              "original_h": 504,
+              "thumb_tiny": "AwAwACTQllWGMu54FZc17NL0YovYL/jVjVW+WNM8ckj/AD+NENtHHGDIoZsc55xSbKSKkd3Oh4kJ9m5rQtLxbj5WG2T07H6VWubX5i8fJPJWqsLmGdW5BU8ikmDRu0UUVRJTuYlknDEnK4+nrTipdlbdjb6d6TUI2aJZF6xnNJbzLKuQcHuKllq1h0iGRcZK4P5/kajnhSVgWyCOOKlUvzvAAx1qjc3G6QCM/dOc+9IZrjkDNFNRxIiuvRhmnVZmBOBmqTRRxybkXbntV0gHqM1BPENuUX5s84oKiQs4K4wSfXNNisEdvMZjtP8ACOKXy3/uN+VWoAyx4YY5pWLla2hIAAAAMAdqKKKZkf/Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A9QU9RF1N/woman5_suppai.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A9QU9RF1N-38d5761bbd",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0D1ck",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\nお戻しがありましたしたので、お手数ですが対応お願いします！\n\n①\n ▼商品カット（2秒～）\n ・添付のイメージでいらすとや素材の追加をお願いします(※上下に小刻みに動かすなど動きを付けたいです)\n ・寄った後に商品を見せるために+0.5秒くらいの間\n②\n ▼テロップ\n ・2秒以降の個別商品カット部分ですが文脈的に黄色と赤が逆の方がいいかと思ったのですがいかがでしょうか？視認性等鑑みてご判断いただけますと幸いです。\n →パッケージの赤い部分と被ってしまい、視認性が悪くなる可能性があるため、変更してみて検討しますとお伝えしているので、その場合、ご共有ください！\n③\n ▼BGM\n ・盛りすぎチャレンジのお祭り感が表現できるようなポジティブ・明るく楽しい感のあるBGMを1パターンご選定いただけますでしょうか\n →以下に変更お願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://audiostock.jp/audio/198896",
+                      "text": "https://audiostock.jp/audio/198896"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n■期日\n1/16(金)17時：★修正提出"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1768473492.788329",
+          "client_msg_id": "cebe7c76-0760-47eb-a628-62d5cca7b166",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "image_url": "https://s3-ap-northeast-1.amazonaws.com/audiostock-images/images/artist_icons/19569/large.t_19569.?1557482386",
+              "image_width": 800,
+              "image_height": 800,
+              "image_bytes": 48648,
+              "from_url": "https://audiostock.jp/audio/198896",
+              "service_icon": "https://audiostock.jp/favicon.ico",
+              "thumb_url": "https://s3-ap-northeast-1.amazonaws.com/audiostock-images/images/artist_icons/19569/large.t_19569.?1557482386",
+              "thumb_width": 800,
+              "thumb_height": 800,
+              "id": 1,
+              "original_url": "https://audiostock.jp/audio/198896",
+              "fallback": "日本最大級の著作権フリーBGM・効果音ストックサービス「Audiostock」: 踊りたくなるようなお洒落なBGM (No.198896) 著作権フリー音源・音楽素材 [mp3/WAV] | Audiostock(オーディオストック)",
+              "text": "BGM(インスト)素材「種をまこう」の作品ページです。お洒落で可愛らしい曲調の音楽です。\n踊りたくなるような楽しいBGMで楽しいシーンやゲームの音楽に使用したり\nお洒落なカフェやお店の音楽にも使用出来ます。",
+              "title": "踊りたくなるようなお洒落なBGM (No.198896) 著作権フリー音源・音楽素材 [mp3/WAV] | Audiostock(オーディオストック)",
+              "title_link": "https://audiostock.jp/audio/198896",
+              "service_name": "日本最大級の著作権フリーBGM・効果音ストックサービス「Audiostock」"
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768526913.029509",
+          "client_msg_id": "f6a8c386-43ba-4be0-a5cc-07a20bc04f79",
+          "text": "<@U010F29ALBS> これAudiostock有料なんだけどどうしたらいい？TikTokでも見つからなかった",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "/eb/T",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " これAudiostock有料なんだけどどうしたらいい？TikTokでも見つからなかった"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4>",
+          "files": [
+            {
+              "id": "F0A8Z7BP5J9",
+              "created": 1768528808,
+              "timestamp": 1768528808,
+              "name": "audiostock_198896.mp3",
+              "title": "audiostock_198896.mp3",
+              "mimetype": "audio/mpeg",
+              "filetype": "mp3",
+              "pretty_type": "MP3",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 5529599,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "is_transcription_region_supported": true,
+              "transcription": {
+                "status": "none"
+              },
+              "url_private": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8Z7BP5J9-c475e18ea8/audiostock_198896_audio.mp4",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A8Z7BP5J9/download/audiostock_198896.mp3",
+              "duration_ms": 138213,
+              "aac": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A8Z7BP5J9-c475e18ea8/audiostock_198896_audio.mp4",
+              "audio_wave_samples": [
+                67,
+                91,
+                89,
+                74,
+                90,
+                88,
+                83,
+                85,
+                99,
+                90,
+                89,
+                85,
+                83,
+                86,
+                94,
+                85,
+                92,
+                75,
+                76,
+                83,
+                77,
+                87,
+                80,
+                86,
+                80,
+                83,
+                78,
+                75,
+                77,
+                91,
+                84,
+                78,
+                88,
+                85,
+                100,
+                84,
+                93,
+                81,
+                85,
+                89,
+                89,
+                87,
+                86,
+                89,
+                94,
+                91,
+                78,
+                86,
+                86,
+                88,
+                85,
+                75,
+                80,
+                85,
+                79,
+                84,
+                85,
+                72,
+                82,
+                89,
+                89,
+                75,
+                84,
+                79,
+                88,
+                76,
+                82,
+                82,
+                100,
+                89,
+                92,
+                86,
+                80,
+                83,
+                96,
+                86,
+                84,
+                95,
+                87,
+                93,
+                77,
+                84,
+                89,
+                92,
+                82,
+                98,
+                95,
+                92,
+                87,
+                84,
+                89,
+                89,
+                88,
+                87,
+                91,
+                94,
+                95,
+                43,
+                0,
+                0
+              ],
+              "media_display_type": "audio",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A8Z7BP5J9/audiostock_198896.mp3",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A8Z7BP5J9-a6ffc8e123",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "6rN97",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1768528818.266859",
+          "client_msg_id": "ebabfedf-2eff-4362-bd80-87917a73f8d9",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1768532069.032129",
+          "client_msg_id": "daed3e1a-c257-435f-b7f6-7abad07ba82f",
+          "text": "<@U010F29ALBS>\n『○○すぎドリンク3種』修正1\n<https://105.gigafile.nu/0426-b299535ff5637ebff331064b4a2b0099>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://105.gigafile.nu/0426-b299535ff5637ebff331064b4a2b0099",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "service_icon": "https://105.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://105.gigafile.nu/0426-b299535ff5637ebff331064b4a2b0099",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://105.gigafile.nu/0426-b299535ff5637ebff331064b4a2b0099",
+              "service_name": "105.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "rn8JA",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『○○すぎドリンク3種』修正1\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://105.gigafile.nu/0426-b299535ff5637ebff331064b4a2b0099"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1769064720.877569",
+          "client_msg_id": "5168b583-c802-4dd9-ad09-cdcb92d29a44",
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お願いいたします！\n※修正経緯は増量の飲む麻婆豆腐の発売が中止\n\n①\n ▼冒頭テロップNA変更\n え、味まで50%増量!?→え、味までパワーアップ:interrobang:\n②\n ▼冒頭のスライドシーン\n 麻婆は映さず、杏仁とレモネードのみ\n③\n ▼通常品との比較シーン\n 麻婆は削除\n④\n ▼通常品との比較シーン\n 総重量は５０％増量ですが、甘さ・酸っぱさは「50％増量」とは言えないため、言い回しを変更してください。\n \n ＜変更内容＞\n ・杏仁豆腐\n テロップNA：砂糖を通常品の２倍使用！\n ↓注釈追記\n ※通常品の発売日：2025年12月23日\n ※通常品は店舗によっては、品切れの場合がございます\n \n ・レモネード\n テロップNA：レモン果汁を通常品の３倍使用！\n ↓注釈追記\n ※通常品の発売日：2026年1月6日\n ※通常品は店舗によっては、品切れの場合がございます\n⑤\n ▼最後の集合\n ・杏仁とレモネードのみになるようにトリミング\n ・テロップは「どっちが気になる？発売は2月3日(火)!」に変更\n\n■期日\n1/23(金)17時：★修正提出",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "oxqI9",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お願いいたします！\n※修正経緯は増量の飲む麻婆豆腐の発売が中止\n\n①\n ▼冒頭テロップNA変更\n え、味まで50%増量!?→え、味までパワーアップ"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "interrobang",
+                      "unicode": "2049-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n②\n ▼冒頭のスライドシーン\n 麻婆は映さず、杏仁とレモネードのみ\n③\n ▼通常品との比較シーン\n 麻婆は削除\n④\n ▼通常品との比較シーン\n 総重量は５０％増量ですが、甘さ・酸っぱさは「50％増量」とは言えないため、言い回しを変更してください。\n \n ＜変更内容＞\n ・杏仁豆腐\n テロップNA：砂糖を通常品の２倍使用！\n ↓注釈追記\n ※通常品の発売日：2025年12月23日\n ※通常品は店舗によっては、品切れの場合がございます\n \n ・レモネード\n テロップNA：レモン果汁を通常品の３倍使用！\n ↓注釈追記\n ※通常品の発売日：2026年1月6日\n ※通常品は店舗によっては、品切れの場合がございます\n⑤\n ▼最後の集合\n ・杏仁とレモネードのみになるようにトリミング\n ・テロップは「どっちが気になる？発売は2月3日(火)!」に変更\n\n■期日\n1/23(金)17時：★修正提出"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1769133715.608999",
+          "client_msg_id": "026b0e1f-e8c9-451e-aa3b-f7d7b05f7ba6",
+          "text": "<@U010F29ALBS>\n『○○すぎドリンク3種』修正2\n<https://79.gigafile.nu/0503-d1f1750556e3b4eb4ce1cc3a58b0e5320>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://79.gigafile.nu/0503-d1f1750556e3b4eb4ce1cc3a58b0e5320",
+              "service_icon": "https://79.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://79.gigafile.nu/0503-d1f1750556e3b4eb4ce1cc3a58b0e5320",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://79.gigafile.nu/0503-d1f1750556e3b4eb4ce1cc3a58b0e5320",
+              "service_name": "79.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "E2E+Z",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『○○すぎドリンク3種』修正2\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://79.gigafile.nu/0503-d1f1750556e3b4eb4ce1cc3a58b0e5320"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nありがとうございます！\n\n注釈が抜けているのでお願いします:pray:\nメインテロップの下はごちゃつきそうなので、下部が良さそうですかね",
+          "files": [
+            {
+              "id": "F0AAL1XQPS8",
+              "created": 1769141380,
+              "timestamp": 1769141380,
+              "name": "image-27.png",
+              "title": "id:20960",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 38581,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AAL1XQPS8/image-27.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AAL1XQPS8/download/image-27.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AAL1XQPS8-ac0ceb1f54/image-27_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AAL1XQPS8-ac0ceb1f54/image-27_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AAL1XQPS8-ac0ceb1f54/image-27_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 225,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AAL1XQPS8-ac0ceb1f54/image-27_160.png",
+              "original_w": 411,
+              "original_h": 257,
+              "thumb_tiny": "AwAfADC++eAM01JOMPwe3Oc0sueMAn6f/rppdgwABxn+7n+tAD965xnn0oVg3Tt7UbiOoPftSbiOSp59BQA+imliBna1OoAa7BetImccnPPX/IpzqW74pAhDA5+vX/GgAy2PujP1pcnA45+tG0460YPYigAHTmlpMNjgjP0pcUAf/9k=",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AAL1XQPS8/image-27.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AAL1XQPS8-d814b47da9",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0AA10J36LX",
+              "created": 1769141380,
+              "timestamp": 1769141380,
+              "name": "image-31.png",
+              "title": "id:20961",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 72610,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AA10J36LX/image-31.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AA10J36LX/download/image-31.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 33,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 44,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AA10J36LX-4d6f8d72fc/image-31_720.png",
+              "thumb_720_w": 720,
+              "thumb_720_h": 66,
+              "original_w": 770,
+              "original_h": 71,
+              "thumb_tiny": "AwAFADAIFSRAFSCOPSoz3qSH7tQi2OZFQ7sEnPc0tEv3fxH86KYuhDOPlH1qH2qef7o+tQd6Bo//2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AA10J36LX/image-31.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AA10J36LX-602b63c842",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "BndhK",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nありがとうございます！\n\n注釈が抜けているのでお願いします"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "pray",
+                      "unicode": "1f64f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nメインテロップの下はごちゃつきそうなので、下部が良さそうですかね"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1769141391.889489",
+          "client_msg_id": "7d326dfe-81da-4c29-898c-aea0190efdf9",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1769143417.795929",
+          "client_msg_id": "d21308ed-f944-4183-af50-43ce5b30d417",
+          "text": "<@U010F29ALBS>\n『○○すぎドリンク3種』修正3\n\n<https://95.gigafile.nu/0503-c502ea81780540d056b023316f262c8e2>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://95.gigafile.nu/0503-c502ea81780540d056b023316f262c8e2",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "id": 1,
+              "original_url": "https://95.gigafile.nu/0503-c502ea81780540d056b023316f262c8e2",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://95.gigafile.nu/0503-c502ea81780540d056b023316f262c8e2",
+              "service_name": "95.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "tYs6z",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『○○すぎドリンク3種』修正3\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://95.gigafile.nu/0503-c502ea81780540d056b023316f262c8e2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\n前回の発売日に関して、ローソン側でコメントの発売日が逆になっていたようです、、！\n合わせて、注釈のデザインに関してもコメントが来ており、直近のレシピ動画に合わせる形でお願いします！※数値添付\nお手数ですが、以下にご対応お願いします:man-bowing:\n\n久しぶり最終修正対応ですが、明日11時までにご対応お願いします:pray:\n\n①\n ・クラフトレモネードの通常品の発売を2025年12月23日に変更\n ・飲む杏仁豆腐の通常品の発売日を2026年1月6日に変更\n②\n また下の注釈が見にくいので大きさ、フチどり幅の調整等ご検討ください。\nシャドウカラー：1F1F1F\n\n■修正期日\n1/30(金)11時：★最終修正対応",
+          "files": [
+            {
+              "id": "F0AC2CZA2AD",
+              "created": 1769675062,
+              "timestamp": 1769675062,
+              "name": "image-28.png",
+              "title": "image-28.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 81647,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AC2CZA2AD/image-28.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AC2CZA2AD/download/image-28.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AC2CZA2AD-fe3c969b37/image-28_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AC2CZA2AD-fe3c969b37/image-28_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AC2CZA2AD-fe3c969b37/image-28_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 49,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AC2CZA2AD-fe3c969b37/image-28_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 65,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AC2CZA2AD-fe3c969b37/image-28_160.png",
+              "original_w": 524,
+              "original_h": 71,
+              "thumb_tiny": "AwAHADCwyPuYAtjqDuFKxZkA+YEfTmpG6Gmj71IoZsby2I3Mew3kZpU3AEFWBPq2ce9SD7oob/GgBkSsMbi/B7kfh/n3ojDHG4OAPVqkHSlXp+FAH//Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AC2CZA2AD/image-28.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AC2CZA2AD-4ffa219753",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0ABH3VQ7UK",
+              "created": 1769675062,
+              "timestamp": 1769675062,
+              "name": "image-35.png",
+              "title": "image-35.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 32910,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0ABH3VQ7UK/image-35.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0ABH3VQ7UK/download/image-35.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0ABH3VQ7UK-732256a726/image-35_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0ABH3VQ7UK-732256a726/image-35_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0ABH3VQ7UK-732256a726/image-35_360.png",
+              "thumb_360_w": 275,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0ABH3VQ7UK-732256a726/image-35_480.png",
+              "thumb_480_w": 367,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0ABH3VQ7UK-732256a726/image-35_160.png",
+              "original_w": 445,
+              "original_h": 582,
+              "thumb_tiny": "AwAwACWmqO5GxCx9Auaa2QxDDBHBGMU5XaNdysy5yMg49KaSW5JJzzk0AJRS4JGccUnfFABRRRQA4DI6j86aRil/h6856YpKACiiigAooooAUZ5xnpQcA4/rQDjPTp3owMdRQAceh/Ojj3owPUUYHqKAA0lFFAH/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0ABH3VQ7UK/image-35.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0ABH3VQ7UK-ea942f72a6",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "50LhJ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n前回の発売日に関して、ローソン側でコメントの発売日が逆になっていたようです、、！\n合わせて、注釈のデザインに関してもコメントが来ており、直近のレシピ動画に合わせる形でお願いします！※数値添付\nお手数ですが、以下にご対応お願いします"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-200d-2642-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n久しぶり最終修正対応ですが、明日11時までにご対応お願いします"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "pray",
+                      "unicode": "1f64f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n①\n ・クラフトレモネードの通常品の発売を2025年12月23日に変更\n ・飲む杏仁豆腐の通常品の発売日を2026年1月6日に変更\n②\n また下の注釈が見にくいので大きさ、フチどり幅の調整等ご検討ください。\nシャドウカラー：1F1F1F\n\n■修正期日\n1/30(金)11時：★最終修正対応"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1769675072.333969",
+          "client_msg_id": "56613bf8-8adb-4b62-859c-c857064002e0",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1769691516.906189",
+          "client_msg_id": "05f57015-c5eb-4f4c-ac52-58def69d6c1b",
+          "text": "<@U010F29ALBS>\n『○○すぎドリンク3種』修正4\n\n<https://43.gigafile.nu/0509-be03f7f5e8f2397f6aaa4521112061edb>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1767958590.128979",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://43.gigafile.nu/0509-be03f7f5e8f2397f6aaa4521112061edb",
+              "service_icon": "https://43.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://43.gigafile.nu/0509-be03f7f5e8f2397f6aaa4521112061edb",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://43.gigafile.nu/0509-be03f7f5e8f2397f6aaa4521112061edb",
+              "service_name": "43.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "/+DOG",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『○○すぎドリンク3種』修正4\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://43.gigafile.nu/0509-be03f7f5e8f2397f6aaa4521112061edb"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1769772046.642679",
+      "client_msg_id": "58f4cf37-2c10-4349-bd70-273b68baa208",
+      "text": "<@U010HFUC9V4> \n3月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：2/2(月)まで\n\n①【3月⑤具!おにぎり まるで山かけまぐろたたき丼】\n\n▼スケジュール\n2/22(日)：素材送付\n2/24(火)17時：★初稿提出\n2/24(火)：PREVICT初稿お戻し\n2/25(水)12時：★修正提出\n2/26(木)：代理店お戻し\n2/27(金)17時：★修正提出\n3/5(木)：ローソン様お戻し\n3/6(金)17時：★修正提出\n3/12(木)：ローソン様お戻し(※基本的には校了予定)\n3/13(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Tyd+6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": " \n3月投稿分の依頼の整理しましたので、対応可能かご確認お願いします！\n※回答期日：2/2(月)まで\n\n①【3月⑤具!おにぎり まるで山かけまぐろたたき丼】\n\n▼スケジュール\n2/22(日)：素材送付\n2/24(火)17時：★初稿提出\n2/24(火)：PREVICT初稿お戻し\n2/25(水)12時：★修正提出\n2/26(木)：代理店お戻し\n2/27(金)17時：★修正提出\n3/5(木)：ローソン様お戻し\n3/6(金)17時：★修正提出\n3/12(木)：ローソン様お戻し(※基本的には校了予定)\n3/13(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1771749689.142349",
+      "client_msg_id": "6fd63852-12c2-4456-90e6-4d419a3ef567",
+      "text": "①【3月⑤具!おにぎり まるで山かけまぐろたたき丼】\n\n▼スケジュール\n2/22(日)：素材送付\n2/24(火)17時：★初稿提出\n2/24(火)：PREVICT初稿お戻し\n2/25(水)12時：★修正提出\n2/26(木)：代理店お戻し\n2/27(金)17時：★修正提出\n3/5(木)：ローソン様お戻し\n3/6(金)17時：★修正提出\n3/12(木)：ローソン様お戻し(※基本的には校了予定)\n3/13(金)11時：★最終修正対応 ※基本的には対応なし",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1771749689.142349",
+      "reply_count": 6,
+      "reply_users_count": 2,
+      "latest_reply": "1772154845.253349",
+      "reply_users": [
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "xeMdo",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "①【3月⑤具!おにぎり まるで山かけまぐろたたき丼】\n\n▼スケジュール\n2/22(日)：素材送付\n2/24(火)17時：★初稿提出\n2/24(火)：PREVICT初稿お戻し\n2/25(水)12時：★修正提出\n2/26(木)：代理店お戻し\n2/27(金)17時：★修正提出\n3/5(木)：ローソン様お戻し\n3/6(金)17時：★修正提出\n3/12(木)：ローソン様お戻し(※基本的には校了予定)\n3/13(金)11時：★最終修正対応 ※基本的には対応なし"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\n撮影データの用意ができましたので、編集の進行お願いします！\n<https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d|https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d>\n\n■期日\n2/24(火)17時：★初稿提出",
+          "files": [
+            {
+              "id": "F0AG7LTUM1R",
+              "created": 1771749734,
+              "timestamp": 1771749734,
+              "name": "【ローソン様】TikTok構成案_3月⑤具!おにぎり まるで山かけまぐろたたき丼_修正1.pptx",
+              "title": "【ローソン様】TikTok構成案_3月⑤具!おにぎり まるで山かけまぐろたたき丼_修正1.pptx",
+              "mimetype": "application/vnd.openxmlformats-officedocument.presentationml.presentation",
+              "filetype": "pptx",
+              "pretty_type": "PowerPoint プレゼンテーション",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 2364360,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AG7LTUM1R/_____________________tiktok__________3_____________________________________________________________________1.pptx",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AG7LTUM1R/download/_____________________tiktok__________3_____________________________________________________________________1.pptx",
+              "media_display_type": "unknown",
+              "converted_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AG7LTUM1R-6216735c5b/_____________________tiktok__________3_____________________________________________________________________1_converted.pdf",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AG7LTUM1R-6216735c5b/_____________________tiktok__________3_____________________________________________________________________1_thumb_pdf.png",
+              "thumb_pdf_w": 1100,
+              "thumb_pdf_h": 825,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AG7LTUM1R/_____________________tiktok__________3_____________________________________________________________________1.pptx",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AG7LTUM1R-8659db622e",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "apKYR",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n撮影データの用意ができましたので、編集の進行お願いします！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d",
+                      "text": "https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d",
+                      "from_llm": false,
+                      "is_slack_url": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n■期日\n2/24(火)17時：★初稿提出"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1771749742.630619",
+          "client_msg_id": "5f35a71b-add2-4bab-8113-dd3eaf7f5f86",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d",
+              "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+              "thumb_width": 250,
+              "thumb_height": 250,
+              "id": 1,
+              "original_url": "https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://60.gigafile.nu/0602-9341f5a14e5e1a6280bce901f879c52d",
+              "service_name": "60.gigafile.nu"
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1771918732.066739",
+          "client_msg_id": "b3372e63-eb99-46ca-9003-73e415c9118c",
+          "text": "<@U010F29ALBS>\n『具!おにぎり まるで山かけまぐろたたき丼』初稿\n\n音源\n<https://vt.tiktok.com/ZS9emdX179eLL-avO8d/>\n\n<https://4.gigafile.nu/0604-c9df0c2b3ddfc16295ee41cab596e504>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://4.gigafile.nu/0604-c9df0c2b3ddfc16295ee41cab596e504",
+              "service_icon": "https://4.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://4.gigafile.nu/0604-c9df0c2b3ddfc16295ee41cab596e504",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://4.gigafile.nu/0604-c9df0c2b3ddfc16295ee41cab596e504",
+              "service_name": "4.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "AwIvB",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具!おにぎり まるで山かけまぐろたたき丼』初稿\n\n音源\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://vt.tiktok.com/ZS9emdX179eLL-avO8d/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://4.gigafile.nu/0604-c9df0c2b3ddfc16295ee41cab596e504"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nありがとうございます！\n\n添付に楽曲の差し替えだけお願いしますｍｍ",
+          "files": [
+            {
+              "id": "F0AHM3VM1EU",
+              "created": 1771930668,
+              "timestamp": 1771930668,
+              "name": "audiostock_824900.mp3",
+              "title": "audiostock_824900.mp3",
+              "mimetype": "audio/mpeg",
+              "filetype": "mp3",
+              "pretty_type": "MP3",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 5266560,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "is_transcription_region_supported": true,
+              "transcription": {
+                "status": "none"
+              },
+              "url_private": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHM3VM1EU-6f9c78a220/audiostock_824900_audio.mp4",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHM3VM1EU/download/audiostock_824900.mp3",
+              "duration_ms": 131639,
+              "aac": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHM3VM1EU-6f9c78a220/audiostock_824900_audio.mp4",
+              "audio_wave_samples": [
+                50,
+                57,
+                65,
+                45,
+                46,
+                65,
+                55,
+                54,
+                58,
+                42,
+                88,
+                90,
+                97,
+                88,
+                93,
+                90,
+                87,
+                100,
+                88,
+                95,
+                90,
+                61,
+                63,
+                65,
+                54,
+                51,
+                71,
+                57,
+                70,
+                42,
+                57,
+                93,
+                93,
+                92,
+                87,
+                98,
+                90,
+                96,
+                92,
+                87,
+                95,
+                88,
+                93,
+                95,
+                94,
+                95,
+                96,
+                91,
+                99,
+                86,
+                95,
+                100,
+                89,
+                97,
+                87,
+                94,
+                87,
+                90,
+                95,
+                93,
+                88,
+                97,
+                68,
+                56,
+                67,
+                59,
+                52,
+                70,
+                55,
+                55,
+                70,
+                42,
+                79,
+                91,
+                98,
+                88,
+                95,
+                91,
+                85,
+                97,
+                88,
+                92,
+                88,
+                56,
+                42,
+                64,
+                44,
+                55,
+                40,
+                56,
+                64,
+                40,
+                42,
+                39,
+                2,
+                0,
+                0,
+                0,
+                0,
+                0
+              ],
+              "media_display_type": "audio",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AHM3VM1EU/audiostock_824900.mp3",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AHM3VM1EU-01d3b1441c",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "2It1v",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nありがとうございます！\n\n添付に楽曲の差し替えだけお願いしますｍｍ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1771930682.807289",
+          "client_msg_id": "37666df1-3070-487f-ad13-24dbc74905d0",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1771989725.891189",
+          "client_msg_id": "6b4f2979-5c51-4532-8ad1-cbb6f9479476",
+          "text": "<@U010F29ALBS>\n『具!おにぎり まるで山かけまぐろたたき丼』修正1\n\n<https://120.gigafile.nu/0605-331de099ecd4d61d33a25aa0a2a341f4>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://120.gigafile.nu/0605-331de099ecd4d61d33a25aa0a2a341f4",
+              "service_icon": "https://120.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://120.gigafile.nu/0605-331de099ecd4d61d33a25aa0a2a341f4",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://120.gigafile.nu/0605-331de099ecd4d61d33a25aa0a2a341f4",
+              "service_name": "120.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "EY4Uv",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具!おにぎり まるで山かけまぐろたたき丼』修正1\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://120.gigafile.nu/0605-331de099ecd4d61d33a25aa0a2a341f4"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010HFUC9V4> \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お願いします！\n\n①\n ▼冒頭1カット目(NA)\n 修正前：復活が待望されてたまぐろたたきの具！おにぎりが\n 修正後：復活が期待されてたまぐろたたきの具！おにぎりが\n②\n ▼冒頭1カット目(テロップ)\n ・「復活が待望されてたまぐろたたきの具！おにぎりが」のテロップはトリ\n ・上記のテロップ無くす分、吹き出しコメントのサイズを大きくして、徐々に表れるのではなく最初から表示に変更\n ・コメント内容は「まぐろたたきの具！おにぎり復活しないかな・・・」に変更\n\n■期日\n2/27(金)17時：★修正提出\n\n念のためですが、吹き出しのサイズ感はこちらのイメージでお願いします！",
+          "files": [
+            {
+              "id": "F0AHLRBCP0R",
+              "created": 1772075742,
+              "timestamp": 1772075742,
+              "name": "image-21.png",
+              "title": "id:21409",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 457523,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHLRBCP0R/image-21.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHLRBCP0R/download/image-21.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHLRBCP0R-68b0f2b45d/image-21_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHLRBCP0R-68b0f2b45d/image-21_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHLRBCP0R-68b0f2b45d/image-21_360.png",
+              "thumb_360_w": 202,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHLRBCP0R-68b0f2b45d/image-21_480.png",
+              "thumb_480_w": 269,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHLRBCP0R-68b0f2b45d/image-21_160.png",
+              "original_w": 403,
+              "original_h": 719,
+              "thumb_tiny": "AwAwABuLFFX4UWOLJwwzycDjj3p6vEwJCrgd8ryO560irmdtJ7UvlN6H8qv3AAt5MJg7GOeOOKZkf3h+dIFYqSyTwuV8w+2OKZ9pn/56tVm6jD4J498VEmAvTb9Op/Gi4crY0yXDph5CqkYweM09YHKg7xSMA3bv3qVQ4Ufe/wC+TRuO1idxvG3H1zTFthnLHNNDMB7e9L5reg/WgCZY0U5AGT3707NVWlkx1VfQ4qIsc/fc/Q0BY//Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AHLRBCP0R/image-21.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AHLRBCP0R-6a31bf3007",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0j40y",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010HFUC9V4",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\nお戻しをいただいたので、お手数ですが対応お願いします！\n\n①\n ▼冒頭1カット目(NA)\n 修正前：復活が待望されてたまぐろたたきの具！おにぎりが\n 修正後：復活が期待されてたまぐろたたきの具！おにぎりが\n②\n ▼冒頭1カット目(テロップ)\n ・「復活が待望されてたまぐろたたきの具！おにぎりが」のテロップはトリ\n ・上記のテロップ無くす分、吹き出しコメントのサイズを大きくして、徐々に表れるのではなく最初から表示に変更\n ・コメント内容は「まぐろたたきの具！おにぎり復活しないかな・・・」に変更\n\n■期日\n2/27(金)17時：★修正提出\n\n念のためですが、吹き出しのサイズ感はこちらのイメージでお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1772075746.359869",
+          "client_msg_id": "87fb6f0f-61ba-4928-abde-f9d4044db967",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1772154845.253349",
+          "client_msg_id": "8b92477e-f52f-4802-a5bc-914e1b2cc8e3",
+          "text": "<@U010F29ALBS>\n『具!おにぎり まるで山かけまぐろたたき丼』修正2\n\n<https://56.gigafile.nu/0607-b454c2682f6fd978e182ed75a34b710f2>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771749689.142349",
+          "parent_user_id": "U010F29ALBS",
+          "attachments": [
+            {
+              "from_url": "https://56.gigafile.nu/0607-b454c2682f6fd978e182ed75a34b710f2",
+              "service_icon": "https://56.gigafile.nu/favicon.ico",
+              "id": 1,
+              "original_url": "https://56.gigafile.nu/0607-b454c2682f6fd978e182ed75a34b710f2",
+              "fallback": "GigaFile（ギガファイル）便",
+              "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+              "title": "GigaFile（ギガファイル）便",
+              "title_link": "https://56.gigafile.nu/0607-b454c2682f6fd978e182ed75a34b710f2",
+              "service_name": "56.gigafile.nu"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "M9LKv",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n『具!おにぎり まるで山かけまぐろたたき丼』修正2\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://56.gigafile.nu/0607-b454c2682f6fd978e182ed75a34b710f2"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

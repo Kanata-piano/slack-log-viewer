@@ -1,0 +1,1684 @@
+{
+  "messages": [
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1764669288.505299",
+      "client_msg_id": "95a02441-459c-4f25-9635-c32ce11101f3",
+      "text": "編集進行スケジュール\n<https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636|https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636>",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "omQz6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "編集進行スケジュール\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636",
+                  "text": "https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1764669297.919869",
+      "client_msg_id": "17f8d016-795a-40c0-9469-a282208ad059",
+      "text": "五月雨式に失礼いたします:woman-bowing:\n上記のシートで進行管理をしていきたく思っております。\n1本目の公開は来週の土曜ですが、初稿はいつ頃目安でいただけそうでしょうか？ご確認のほどよろしくお願いします!",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "5ldNV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "五月雨式に失礼いたします"
+                },
+                {
+                  "type": "emoji",
+                  "name": "woman-bowing",
+                  "unicode": "1f647-200d-2640-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n上記のシートで進行管理をしていきたく思っております。\n1本目の公開は来週の土曜ですが、初稿はいつ頃目安でいただけそうでしょうか？ご確認のほどよろしくお願いします!"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1764677062.011479",
+      "client_msg_id": "ffd7a20d-0614-42d2-a25d-3df2e7cfb7ce",
+      "text": "<@U010F29ALBS>\nこれアイキャッチとかはないんだっけ？",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "f9QmO",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\nこれアイキャッチとかはないんだっけ？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1764677929.026289",
+      "client_msg_id": "fafad598-e0b2-4cd3-a878-1f4e1813e796",
+      "text": "<@U010HFUC9V4>あーつくってないね\nなんか岡田さんが前のアイキャッチそのまま使って良さそうって言ってたからそれでもいいかも",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "yOiC9",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": "あーつくってないね\nなんか岡田さんが前のアイキャッチそのまま使って良さそうって言ってたからそれでもいいかも"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1764677942.723109",
+      "client_msg_id": "2f623b76-6f88-40e7-ae98-1c7bd752be31",
+      "text": "どこにあるんだ！",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "eLjtw",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "どこにあるんだ！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1764678272.783669",
+      "client_msg_id": "2b9b4726-41ce-4eed-a4cb-18b9d0895484",
+      "text": "<@U010HFUC9V4>投稿されてる動画笑",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "E3wkr",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": "投稿されてる動画笑"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1764683940.775149",
+      "client_msg_id": "31cf3f9d-cfb6-46f2-9e8d-504fc832f332",
+      "text": "<@U010F29ALBS> 切り取るってこと？",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DNWq5",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": " 切り取るってこと？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1764684016.842479",
+      "client_msg_id": "5aa9183a-5738-4868-97d5-2a706e351937",
+      "text": "<@U010HFUC9V4>そんな話してた気がするんだよね",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jVsYc",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": "そんな話してた気がするんだよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1764691731.928819",
+      "client_msg_id": "3f545996-10c4-4ae3-a2f5-86709f60d071",
+      "text": "<https://youtu.be/SfrYR47IvZc>",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1764691731.928819",
+      "reply_count": 12,
+      "reply_users_count": 2,
+      "latest_reply": "1764734063.446219",
+      "reply_users": [
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/SfrYR47IvZc",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/SfrYR47IvZc/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/SfrYR47IvZc?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① 初稿\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/SfrYR47IvZc",
+          "fallback": "YouTube Video: 千海華蘭さん対談① 初稿",
+          "title": "千海華蘭さん対談① 初稿",
+          "title_link": "https://youtu.be/SfrYR47IvZc",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "ga89h",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/SfrYR47IvZc"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764720998.576569",
+          "client_msg_id": "44efb38b-16da-4513-9744-a83917069ad1",
+          "text": "見た目的にロゴ表示しとく？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "YachN",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "見た目的にロゴ表示しとく？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1764721018.837569",
+          "client_msg_id": "3B8A4C2B-C912-4248-A570-0BE99A5F4C73",
+          "text": "左上とかに？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "D3qlC",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "左上とかに？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764721065.382839",
+          "client_msg_id": "372c63e1-190b-4c37-9231-b73b06745668",
+          "text": "今回はコスメ情報ないからタイトル左に持ってきて右にロゴでもいいかも。ちょっと透かしくらいで",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "yWDRr",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "今回はコスメ情報ないからタイトル左に持ってきて右にロゴでもいいかも。ちょっと透かしくらいで"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1764721092.959769",
+          "client_msg_id": "CF905501-F3BE-4929-B6AD-BFAD88133F5A",
+          "text": "おけ！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "BSP43",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "おけ！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "こんなんでいいかな",
+          "files": [
+            {
+              "id": "F0A0ZM03RJP",
+              "created": 1764723707,
+              "timestamp": 1764723707,
+              "name": "スクリーンショット 2025-12-03 100125.png",
+              "title": "スクリーンショット 2025-12-03 100125.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010HFUC9V4",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 3286825,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A0ZM03RJP/____________________________2025-12-03_100125.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A0ZM03RJP/download/____________________________2025-12-03_100125.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 196,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 261,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_720.png",
+              "thumb_720_w": 720,
+              "thumb_720_h": 391,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 435,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_960.png",
+              "thumb_960_w": 960,
+              "thumb_960_h": 522,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A0ZM03RJP-4ec6ac7a10/____________________________2025-12-03_100125_1024.png",
+              "thumb_1024_w": 1024,
+              "thumb_1024_h": 557,
+              "original_w": 2149,
+              "original_h": 1168,
+              "thumb_tiny": "AwAbADAgKosbdxz+OKckGOQ3Q5JxjrUEe5gmM8Yx/hVyJXIZSMGpL3Yq5UMVBJBXgd6jZxE4kdGUA+lOO6F0J5L8Ad6bcSghFkU/eGaBFqKZJk3L+IPUVHqH/Hm/4fzqCNo452VSQCowKlvnBtJAD6fzpiaMsOcAdq1LW4WWLLsFcHB561lYGBQOMHvTAtTXBa6JY5VTgYpJpFlYHj6ZquCeRk4Jp5UcDtnp+FAh5fLD5uKsTNvsGOc9M/nVcqGlOecjPWppVCWLBRgHB/UUMEf/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A0ZM03RJP/____________________________2025-12-03_100125.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A0ZM03RJP-80ef20e4cb",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010HFUC9V4",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "uTJP6",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "こんなんでいいかな"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1764723716.093649",
+          "client_msg_id": "6da9103c-6753-45b2-8213-05238d879fcf",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4"
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764723755.020429",
+          "client_msg_id": "968e0859-9330-4ffd-9007-4444ceb1ad3e",
+          "text": "透かさなくてもいいかもな",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Aya2d",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "透かさなくてもいいかもな"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "",
+          "files": [
+            {
+              "id": "F0A19L8HV7E",
+              "created": 1764723810,
+              "timestamp": 1764723810,
+              "name": "スクリーンショット 2025-12-03 100303a.png",
+              "title": "スクリーンショット 2025-12-03 100303a.png",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010HFUC9V4",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 3375382,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A19L8HV7E/____________________________2025-12-03_100303a.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A19L8HV7E/download/____________________________2025-12-03_100303a.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_360.png",
+              "thumb_360_w": 360,
+              "thumb_360_h": 201,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_480.png",
+              "thumb_480_w": 480,
+              "thumb_480_h": 268,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_720.png",
+              "thumb_720_w": 720,
+              "thumb_720_h": 402,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 447,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_960.png",
+              "thumb_960_w": 960,
+              "thumb_960_h": 536,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A19L8HV7E-49cef8bb50/____________________________2025-12-03_100303a_1024.png",
+              "thumb_1024_w": 1024,
+              "thumb_1024_h": 572,
+              "original_w": 2085,
+              "original_h": 1164,
+              "thumb_tiny": "AwAbADBsQUBGHXH9KlWIBTs6k55A5/wqumcKQxAAHercfmKy7xgntUl7say5dMZOOcCpCSWz5bjJHUe9Jhw+8jgHnmkkuHETB1PIPNAmiVLuN5dgDAnoT0qYKASwJ59zVCWVC8JPHOc4/SriyDaPpTEY6eY4woZgOuBmtCyaQgpKjDA+UkdPaqEUzwg+W2Mnnini7nA4fHU/dFMC3evIXCRo2wYJKg9ajuBJLz5bAdMYqFrqZZXVXwA3TaPWnfaZQMhgCSM8CgQjxy/wo/8A3zVy3yEwwYY9R1qs9zKucP8AoKsQuzjLHODQwR//2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A19L8HV7E/____________________________2025-12-03_100303a.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A19L8HV7E-a2c7729fd0",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010HFUC9V4",
+          "display_as_bot": false,
+          "type": "message",
+          "ts": "1764723819.667509",
+          "client_msg_id": "edf23978-fbc0-4cb9-bbb9-8e193e76aec2",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4"
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1764730948.318429",
+          "client_msg_id": "50b68562-01c7-4545-99f2-ee5246d038dd",
+          "text": "<https://youtu.be/Vm1OS6OTF48>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "attachments": [
+            {
+              "from_url": "https://youtu.be/Vm1OS6OTF48",
+              "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+              "thumb_url": "https://i.ytimg.com/vi/Vm1OS6OTF48/hqdefault.jpg",
+              "thumb_width": 120,
+              "thumb_height": 90,
+              "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/Vm1OS6OTF48?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① 初稿\"></iframe>",
+              "video_html_width": 400,
+              "video_html_height": 300,
+              "id": 1,
+              "original_url": "https://youtu.be/Vm1OS6OTF48",
+              "fallback": "YouTube Video: 千海華蘭さん対談① 初稿",
+              "title": "千海華蘭さん対談① 初稿",
+              "title_link": "https://youtu.be/Vm1OS6OTF48",
+              "author_name": "編集用⑧",
+              "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+              "service_name": "YouTube",
+              "service_url": "https://www.youtube.com/"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "AMAzx",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "link",
+                      "url": "https://youtu.be/Vm1OS6OTF48"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764731120.196749",
+          "client_msg_id": "799b5522-47b8-4c5b-9b88-72678a9ec77a",
+          "text": "あ、そういえば後編のダイジェストいれるんだっけ",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "JFnmg",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "あ、そういえば後編のダイジェストいれるんだっけ"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1764733770.578959",
+          "client_msg_id": "0F36B862-F041-4703-B3FF-7CA014779C57",
+          "text": "明後日後編編集するからそれ以降でもいいかなって",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "trA23",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "明後日後編編集するからそれ以降でもいいかなって"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764734038.401109",
+          "client_msg_id": "f879a2ff-ab69-45e4-bf9f-83505cbdf93c",
+          "text": "後編編集できたら付け足すって感じで伝える",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "1MyR0",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "後編編集できたら付け足すって感じで伝える"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1764734063.446219",
+          "client_msg_id": "47BDEE76-9B28-4A4B-92D9-FAE6455F84BA",
+          "text": "それで！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764691731.928819",
+          "parent_user_id": "U010HFUC9V4",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "ELdau",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "それで！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1764920944.401449",
+      "client_msg_id": "9c825705-94f6-4c1e-a5b7-e5328f83ad18",
+      "text": "<https://youtu.be/j1XhV5Hk0eQ>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/j1XhV5Hk0eQ",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/j1XhV5Hk0eQ/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/j1XhV5Hk0eQ?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① 修正1\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/j1XhV5Hk0eQ",
+          "fallback": "YouTube Video: 千海華蘭さん対談① 修正1",
+          "title": "千海華蘭さん対談① 修正1",
+          "title_link": "https://youtu.be/j1XhV5Hk0eQ",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uVCoS",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/j1XhV5Hk0eQ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "files": [
+        {
+          "id": "F0A2BK3SX5F",
+          "created": 1765011092,
+          "timestamp": 1765011092,
+          "name": "千海華蘭さん対談①サムネ.png",
+          "title": "千海華蘭さん対談①サムネ.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 2725312,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2BK3SX5F/____________________________________.png",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2BK3SX5F/download/____________________________________.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2BK3SX5F-7796c3505d/_____________________________________1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "original_w": 1920,
+          "original_h": 1080,
+          "thumb_tiny": "AwAbADB6uqqRvQAYGNo560CMuxDSbPQ9zx/T/wDVjqYBbtliVjYF92STkjnjpU0Y2RqoAXJOBnIHPT9anYe5IxQqcEbgvzc45xn+eKiLRhgC4B4wMfT8uc/h7U98JtyB/tD1qvHD5g35AJJzQOxfXCkI2CTkhvU/4/z61FGGX5mcEBs8cnoR+X+faltHbyyG6qcVODyPpRcVigNwV2QZ2jrjinGZJDHn9238XYD0NTXHywkDoBgflVW0djIFJyuMYIzwSB/IChLQL2JmTzGG0hu3FV4i3mvlsZOehOecZGPerh+5N38rJTPOOtZ6SuGB3cgYz+Of51SQNj4WeMjax2sccA4zV2OTcqnHHTPas1GKjjHX0q7aElXBJIHQE9KJLQSep//Z",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A2BK3SX5F/____________________________________.png",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A2BK3SX5F-c05149fd0e",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U010F29ALBS",
+      "display_as_bot": false,
+      "type": "message",
+      "ts": "1765011097.247749",
+      "client_msg_id": "443f1e16-633b-436b-b117-11ff78ec03d3"
+    },
+    {
+      "text": "",
+      "files": [
+        {
+          "id": "F0A2E9U52RX",
+          "created": 1765082396,
+          "timestamp": 1765082396,
+          "name": "千海華蘭さん対談①サムネ.png",
+          "title": "千海華蘭さん対談①サムネ.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 2793652,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2E9U52RX/____________________________________.png",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2E9U52RX/download/____________________________________.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A2E9U52RX-a6f6dc0ac3/_____________________________________1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "original_w": 1920,
+          "original_h": 1080,
+          "thumb_tiny": "AwAbADBVdVUjfGAMDGwc8GnLHvYhpNnoe54x+n/6sdTXEB+YlY2BfdyTkjnjpU0Q2xqoAXJOBnIHtS2HuSOUKkggMF+bJxzjP88VEWjDAbwDxgYznp+XOfw9qkfChcgc/eHrUEcHmLvyASTmgdi8mFIRuSSSG9T/AI/z61FGGX5mcEBs8cnoR+X+faltHYRlW6qcVYDcj6UCM1dwDsgJ2jrjipDMkhjB/dt/F2A9DUtz8sJA6AYH5VWtHYyBScrjGCM8EgfyAosGxMyeYw2kN24qCFm818tt3HPQnPOMjHvVs/cm7+VkpnnHWs9JXDA7uQMZ/HP86aQNj4WeMjax2sccA4zV2OXcqkg46Z7VmoxUcY6+lXbQkq4JJA6AnpTa0Jvqf//Z",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A2E9U52RX/____________________________________.png",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A2E9U52RX-f86f6eb007",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U010F29ALBS",
+      "display_as_bot": false,
+      "type": "message",
+      "ts": "1765082401.264719",
+      "client_msg_id": "b932e1dd-2121-442f-a15f-1a65c4979746"
+    },
+    {
+      "text": "",
+      "files": [
+        {
+          "id": "F0A1ZAKQM6Z",
+          "created": 1765118799,
+          "timestamp": 1765118799,
+          "name": "千海華蘭さん対談①サムネ2.png",
+          "title": "千海華蘭さん対談①サムネ2.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 2776472,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A1ZAKQM6Z/____________________________________2.png",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A1ZAKQM6Z/download/____________________________________2.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 203,
+          "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 270,
+          "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 405,
+          "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 450,
+          "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 540,
+          "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A1ZAKQM6Z-e0f083fc00/____________________________________2_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 576,
+          "original_w": 1920,
+          "original_h": 1080,
+          "thumb_tiny": "AwAbADBVdVUjfGAMDGwc8GnLHvYhpNnoe54x+n/6sdTXEB+YlY2BfdyTkjnjpU0Q2xqoAXJOBnIHtS2HuSOUKkggMF+bJxzjP88VEWjDAbwDxgYznp+XOfw9qkfChcgc/eHrUEcHmLvyASTmgdi8mFIRuSSSG9T/AI/z61FGGX5mcEBs8cnoR+X+faltHYRlW6qcVYDcj6UCM1dwDsgJ2jrjintPG+3P7sjG7jjpkf5//XU1z8sJA6AYH5VWtHYyBScrjGCM8EgfyAosGxKyeYylSDnj6VCrMkjkNu3c4VSScnHH41bP3Ju/lZKZ5x1rPSVwwO7kDGfxz/OmkDY+FnjA2MSGzwAevpVyKUsisQQCKzkYqOMdfSrtoSVcEkgdAT0ptaCvqf/Z",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A1ZAKQM6Z/____________________________________2.png",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A1ZAKQM6Z-122946abdd",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U010F29ALBS",
+      "display_as_bot": false,
+      "type": "message",
+      "ts": "1765118804.297819",
+      "client_msg_id": "d4f1b3f3-b2de-48af-b8f6-bbccb8db5edb"
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1765123834.437349",
+      "client_msg_id": "19f3634b-f921-46d8-ac47-dde6c505e873",
+      "text": "<https://youtu.be/gcwdfvSRyEU>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/gcwdfvSRyEU",
+          "thumb_url": "https://i.ytimg.com/vi/gcwdfvSRyEU/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/gcwdfvSRyEU?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① 修正2\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "id": 1,
+          "original_url": "https://youtu.be/gcwdfvSRyEU",
+          "fallback": "YouTube Video: 千海華蘭さん対談① 修正2",
+          "title": "千海華蘭さん対談① 修正2",
+          "title_link": "https://youtu.be/gcwdfvSRyEU",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "x+szL",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/gcwdfvSRyEU"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "text": "",
+      "files": [
+        {
+          "id": "F0A2FQ4T5HR",
+          "created": 1765345200,
+          "timestamp": 1765345200,
+          "name": "final.srt",
+          "title": "final.srt",
+          "mimetype": "application/octet-stream",
+          "filetype": "binary",
+          "pretty_type": "バイナリ",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 44634,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2FQ4T5HR/final.srt",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2FQ4T5HR/download/final.srt",
+          "media_display_type": "unknown",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A2FQ4T5HR/final.srt",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A2FQ4T5HR-db8981b3fd",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        },
+        {
+          "id": "F0A2L4Z4NCW",
+          "created": 1765345202,
+          "timestamp": 1765345202,
+          "name": "subtitles.xml",
+          "title": "subtitles.xml",
+          "mimetype": "text/plain",
+          "filetype": "xml",
+          "pretty_type": "XML",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 3699464,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2L4Z4NCW/subtitles.xml",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A2L4Z4NCW/download/subtitles.xml",
+          "media_display_type": "unknown",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A2L4Z4NCW/subtitles.xml",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A2L4Z4NCW-ba1c4913bd",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765345206.305039",
+      "client_msg_id": "0ff0d313-1d3b-4049-a01c-9f19ff0eef62"
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1765369440.224229",
+      "client_msg_id": "bc0e2bd6-8fd7-4cea-aea6-688354db1d99",
+      "text": "<https://youtu.be/-vwtzbyGJDs>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/-vwtzbyGJDs",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/-vwtzbyGJDs/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/-vwtzbyGJDs?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談② 初稿\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/-vwtzbyGJDs",
+          "fallback": "YouTube Video: 千海華蘭さん対談② 初稿",
+          "title": "千海華蘭さん対談② 初稿",
+          "title_link": "https://youtu.be/-vwtzbyGJDs",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "C9AhW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/-vwtzbyGJDs"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765432000.183479",
+      "client_msg_id": "8ec3e34e-0d6c-4b35-8ba2-75c6820c3d90",
+      "text": "<https://drive.google.com/drive/folders/1-ex2WrP8b94CuLBH61EDzF6PaGY8lRXN|https://drive.google.com/drive/folders/1-ex2WrP8b94CuLBH61EDzF6PaGY8lRXN>",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "pXo+T",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1-ex2WrP8b94CuLBH61EDzF6PaGY8lRXN",
+                  "text": "https://drive.google.com/drive/folders/1-ex2WrP8b94CuLBH61EDzF6PaGY8lRXN"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "pinned_to": [
+        "C09FRHS4ESY"
+      ],
+      "pinned_info": {
+        "channel": "C09FRHS4ESY",
+        "pinned_by": "U010F29ALBS",
+        "pinned_ts": 1765432019
+      }
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1765439673.575729",
+      "client_msg_id": "7a7f7735-e30d-49cd-8da9-936a0b0771cc",
+      "text": "<https://youtu.be/ydXo99wPAd4>\n\n<https://youtube.com/shorts/bWvPL6j6Jzo>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/ydXo99wPAd4",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/ydXo99wPAd4/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/ydXo99wPAd4?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① 修正3\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/ydXo99wPAd4",
+          "fallback": "YouTube Video: 千海華蘭さん対談① 修正3",
+          "title": "千海華蘭さん対談① 修正3",
+          "title_link": "https://youtu.be/ydXo99wPAd4",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        },
+        {
+          "from_url": "https://youtube.com/shorts/bWvPL6j6Jzo",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/bWvPL6j6Jzo/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/bWvPL6j6Jzo?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談① ショート1\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 2,
+          "original_url": "https://youtube.com/shorts/bWvPL6j6Jzo",
+          "fallback": "YouTube Video: 千海華蘭さん対談① ショート1",
+          "title": "千海華蘭さん対談① ショート1",
+          "title_link": "https://youtube.com/shorts/bWvPL6j6Jzo",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "6Q3aQ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/ydXo99wPAd4"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://youtube.com/shorts/bWvPL6j6Jzo"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "channel_join",
+      "user": "U0A3N8D768L",
+      "text": "<@U0A3N8D768L>さんがチャンネルに参加しました",
+      "inviter": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765760412.977719"
+    },
+    {
+      "text": "お疲れ様です！\nちはるさんの件に関してです！引き続き、作業はストップ頂いている状況ではあるものの\n進行スケジュール感について事前にすり合わせさせていただけると嬉しいです！:woman-bowing:\n\n企画内容的に12月中に公開したいものは、以下4本あります。\n ①【コラボ】千海華蘭さん対談　前編\n ②【コラボ】千海華蘭さん対談　後編\n ③プロが教える冬の最新トレンドメイク\n ④2025年ベスコスレビュー\n<https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636|https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636>\n\nそれぞれの進行状況について以下の認識で合っているかの確認と、それぞれ公開まで何日程で対応可能そうか教えていただけると嬉しいです！(スタッフ本人のお戻しは1日でカウントいただけると嬉しいです！)\n 企画①　修正稿編集依頼中（ちはるさんより明るさ調整の希望有り）サムネ/タイトルFIX  \n 企画②　初稿編集依頼中　サムネ/タイトル未定\n 企画③、④　編集前になりますか？\n\nまた、年末年始のお休みなどもしあれば事前に教えてくださいませ！",
+      "files": [
+        {
+          "id": "F0A3Y9U83H7",
+          "created": 1765772262,
+          "timestamp": 1765772262,
+          "name": "image-17.png",
+          "title": "image-17.png",
+          "mimetype": "image/png",
+          "filetype": "png",
+          "pretty_type": "PNG",
+          "user": "U010F29ALBS",
+          "user_team": "T010EJAAP7W",
+          "editable": false,
+          "size": 384041,
+          "mode": "hosted",
+          "is_external": false,
+          "external_type": "",
+          "is_public": false,
+          "public_url_shared": false,
+          "display_as_bot": false,
+          "username": "",
+          "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0A3Y9U83H7/image-17.png",
+          "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0A3Y9U83H7/download/image-17.png",
+          "media_display_type": "unknown",
+          "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_64.png",
+          "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_80.png",
+          "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_360.png",
+          "thumb_360_w": 360,
+          "thumb_360_h": 142,
+          "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_480.png",
+          "thumb_480_w": 480,
+          "thumb_480_h": 189,
+          "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_160.png",
+          "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_720.png",
+          "thumb_720_w": 720,
+          "thumb_720_h": 283,
+          "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_800.png",
+          "thumb_800_w": 800,
+          "thumb_800_h": 315,
+          "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_960.png",
+          "thumb_960_w": 960,
+          "thumb_960_h": 378,
+          "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0A3Y9U83H7-70dac41e18/image-17_1024.png",
+          "thumb_1024_w": 1024,
+          "thumb_1024_h": 403,
+          "original_w": 2190,
+          "original_h": 862,
+          "thumb_tiny": "AwATADDQ6KTzwe1KQSODiozHu3ep4pyqw5559ef60ACowUAyEkdT605hnjJGe9Hze35f/XpCGyP8P/r0AKMFj82fbPSgr6Ej8aTDe35f/XoO4Dtj6UAQTOwEwBxhMj2PNS5x6VBP/wAvH/XP/GpqYC5+n5UhJ3Dp+VFIfvCgB2fp+VIDkf8A1qKB0FAH/9k=",
+          "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0A3Y9U83H7/image-17.png",
+          "permalink_public": "https://slack-files.com/T010EJAAP7W-F0A3Y9U83H7-cc993f44cb",
+          "is_starred": false,
+          "skipped_shares": true,
+          "has_rich_preview": false,
+          "file_access": "visible"
+        }
+      ],
+      "upload": false,
+      "user": "U010F29ALBS",
+      "display_as_bot": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "oUQ2L",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "お疲れ様です！\nちはるさんの件に関してです！引き続き、作業はストップ頂いている状況ではあるものの\n進行スケジュール感について事前にすり合わせさせていただけると嬉しいです！"
+                },
+                {
+                  "type": "emoji",
+                  "name": "woman-bowing",
+                  "unicode": "1f647-200d-2640-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n企画内容的に12月中に公開したいものは、以下4本あります。\n ①【コラボ】千海華蘭さん対談　前編\n ②【コラボ】千海華蘭さん対談　後編\n ③プロが教える冬の最新トレンドメイク\n ④2025年ベスコスレビュー\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636",
+                  "text": "https://docs.google.com/spreadsheets/d/1EwcpBa6ZPCplw1cA5yqSRxIBCnLZ8ime93XLUXY04qo/edit?gid=430208636#gid=430208636"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\nそれぞれの進行状況について以下の認識で合っているかの確認と、それぞれ公開まで何日程で対応可能そうか教えていただけると嬉しいです！(スタッフ本人のお戻しは1日でカウントいただけると嬉しいです！)\n 企画①　修正稿編集依頼中（ちはるさんより明るさ調整の希望有り）サムネ/タイトルFIX  \n 企画②　初稿編集依頼中　サムネ/タイトル未定\n 企画③、④　編集前になりますか？\n\nまた、年末年始のお休みなどもしあれば事前に教えてくださいませ！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "type": "message",
+      "ts": "1765772266.326939",
+      "client_msg_id": "48c486c8-d0b3-4adc-b993-7e5be4ef5b5d",
+      "thread_ts": "1765772266.326939",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1765772683.659399",
+      "reply_users": [
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "replies_data": [
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1765772683.659399",
+          "client_msg_id": "79836965-DD89-4086-903D-1A2FB9FB0E44",
+          "text": "<@U010F29ALBS>\n企画①、②は今週中に修正提出\n企画③  12/19に初稿\n企画④  12/20に初稿",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772266.326939",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "r0RtP",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "企画①、②は今週中に修正提出"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "企画③  12/19に初稿"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "企画④  12/20に初稿"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1766130514.726029",
+      "client_msg_id": "5bbf08b4-9585-4ce3-b282-0f2c602bf1cc",
+      "text": "<@U010F29ALBS>\n【千海華蘭さん対談①_ショート2】\n<https://youtube.com/shorts/coS1gDULHac>\n\n【千海華蘭さん対談②_修正1】\n<https://youtu.be/P6d-iap4a9w>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/P6d-iap4a9w",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/P6d-iap4a9w/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/P6d-iap4a9w?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"千海華蘭さん対談② 修正1\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/P6d-iap4a9w",
+          "fallback": "YouTube Video: 千海華蘭さん対談② 修正1",
+          "title": "千海華蘭さん対談② 修正1",
+          "title_link": "https://youtu.be/P6d-iap4a9w",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "YTGm8",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\n【千海華蘭さん対談①_ショート2】\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://youtube.com/shorts/coS1gDULHac"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n【千海華蘭さん対談②_修正1】\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/P6d-iap4a9w"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1766131335.914849",
+      "client_msg_id": "0ab97cf9-4694-4a37-bfdc-e3effa429281",
+      "text": "<@U010F29ALBS>\nトランジションだけどうしらいいか聞いてもらえる！？\n過去動画はあんまり入ってないんだよね",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "kiG6t",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\nトランジションだけどうしらいいか聞いてもらえる！？\n過去動画はあんまり入ってないんだよね"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1766132333.992959",
+      "client_msg_id": "4b313041-e272-4a8b-9662-02689e8e0645",
+      "text": "<@U010HFUC9V4>どこに入れるやつー？",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "1jnrz",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010HFUC9V4"
+                },
+                {
+                  "type": "text",
+                  "text": "どこに入れるやつー？"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1766132465.095719",
+      "client_msg_id": "1cd5cf1a-7fc3-4c01-8ec4-b4e0bd971429",
+      "text": "<@U010F29ALBS>\nOPトークから本編に入るときはOP映像差し込むからいいんだけど、本編中の転回の時に必要な場合があるからそこに入れるトランジションが欲しい！\n過去動画見るとモーションエレメンツにあるようなダサめのテンプレートみたいなのは入ってた",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "p7KeV",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\nOPトークから本編に入るときはOP映像差し込むからいいんだけど、本編中の転回の時に必要な場合があるからそこに入れるトランジションが欲しい！\n過去動画見るとモーションエレメンツにあるようなダサめのテンプレートみたいなのは入ってた"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "reactions": [
+        {
+          "name": "raised_hands",
+          "users": [
+            "U010F29ALBS"
+          ],
+          "count": 1
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1766142507.249529",
+      "client_msg_id": "c85b4584-b8c9-4ee8-a959-f67420d289d1",
+      "text": "<@U010F29ALBS>\n【最新トレンドメイク_初稿】\n<https://youtu.be/4s8-9QmBkLg>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/4s8-9QmBkLg",
+          "thumb_url": "https://i.ytimg.com/vi/4s8-9QmBkLg/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/4s8-9QmBkLg?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"最新トレンドメイク 初稿\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "id": 1,
+          "original_url": "https://youtu.be/4s8-9QmBkLg",
+          "fallback": "YouTube Video: 最新トレンドメイク 初稿",
+          "title": "最新トレンドメイク 初稿",
+          "title_link": "https://youtu.be/4s8-9QmBkLg",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "wmnSU",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\n【最新トレンドメイク_初稿】\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/4s8-9QmBkLg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1766372275.152629",
+      "client_msg_id": "3000bae0-fa4d-4c9c-bdbe-ae2f2f31f919",
+      "text": "<@U010F29ALBS>\n【ベストコスメレビュー】\n<https://youtu.be/p8LU7vKAAcM>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://youtu.be/p8LU7vKAAcM",
+          "service_icon": "https://a.slack-edge.com/80588/img/unfurl_icons/youtube.png",
+          "thumb_url": "https://i.ytimg.com/vi/p8LU7vKAAcM/hqdefault.jpg",
+          "thumb_width": 120,
+          "thumb_height": 90,
+          "video_html": "<iframe width=\"400\" height=\"300\" src=\"https://www.youtube.com/embed/p8LU7vKAAcM?feature=oembed&autoplay=1&iv_load_policy=3\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen title=\"ベストコスメレビュー 初稿\"></iframe>",
+          "video_html_width": 400,
+          "video_html_height": 300,
+          "id": 1,
+          "original_url": "https://youtu.be/p8LU7vKAAcM",
+          "fallback": "YouTube Video: ベストコスメレビュー 初稿",
+          "title": "ベストコスメレビュー 初稿",
+          "title_link": "https://youtu.be/p8LU7vKAAcM",
+          "author_name": "編集用⑧",
+          "author_link": "https://www.youtube.com/@%E7%B7%A8%E9%9B%86%E7%94%A88",
+          "service_name": "YouTube",
+          "service_url": "https://www.youtube.com/"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "e9uc2",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": "\n【ベストコスメレビュー】\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://youtu.be/p8LU7vKAAcM"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

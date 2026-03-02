@@ -1,0 +1,12 @@
+{
+  "messages": [
+    {
+      "subtype": "channel_join",
+      "user": "U0A3N8D768L",
+      "text": "<@U0A3N8D768L>さんがチャンネルに参加しました",
+      "inviter": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761441.439649"
+    }
+  ]
+}

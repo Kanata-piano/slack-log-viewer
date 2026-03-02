@@ -1,0 +1,4707 @@
+{
+  "messages": [
+    {
+      "user": "U0747R2MQT0",
+      "type": "message",
+      "ts": "1764656784.648859",
+      "client_msg_id": "8768d899-f84c-4f0e-a8d3-bbd56e55c706",
+      "text": "積水ハウス様_見積もり",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1764656784.648859",
+      "reply_count": 21,
+      "reply_users_count": 2,
+      "latest_reply": "1765097624.663649",
+      "reply_users": [
+        "U0747R2MQT0",
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "MNoIa",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "積水ハウス様_見積もり"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764656925.621829",
+          "client_msg_id": "c5b98f93-ea0e-440b-800f-1e1900a49947",
+          "text": "<@U010F29ALBS>\nお世話になっております。\n表題につきまして、当日リハ1回と本番のみ実施する場合のお見積もりを頂いておりませんでしたので、こちら再度4パターンの金額をご教示いただけますでしょうか？\n※リハ2回の場合は1回目に一眼での素材撮影含む\nお手数ですが、宜しくお願い致します。\n\n*・OBS*\n①リハ2回（現地リハ1回、当日リハ）\n②リハ1回（当日リハのみ）\n\n*・iPhone*\n③リハ2回（現地リハ1回、当日リハ）\n④リハ1回（当日リハのみ）",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "cnaXo",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております。\n表題につきまして、当日リハ1回と本番のみ実施する場合のお見積もりを頂いておりませんでしたので、こちら再度4パターンの金額をご教示いただけますでしょうか？\n※リハ2回の場合は1回目に一眼での素材撮影含む\nお手数ですが、宜しくお願い致します。\n\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "・OBS",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n①リハ2回（現地リハ1回、当日リハ）\n②リハ1回（当日リハのみ）\n\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "・iPhone",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n③リハ2回（現地リハ1回、当日リハ）\n④リハ1回（当日リハのみ）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764657765.238419",
+          "client_msg_id": "cff54058-93b9-49dd-850b-1f47a6bdc8c3",
+          "text": "<@U0747R2MQT0> \nお疲れ様です！\n\n最低稼働費用でお受けしていますため、リハ1回ですと負担も大きく費用に影響ない形としたいです！\n\nリハ1-2回のOBS配信 20万円\nリハ1-2回のiphone配信15万円\n\n上記でお願い致します！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "wq2gC",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n\n最低稼働費用でお受けしていますため、リハ1回ですと負担も大きく費用に影響ない形としたいです！\n\nリハ1-2回のOBS配信 20万円\nリハ1-2回のiphone配信15万円\n\n上記でお願い致します！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764658621.336759",
+          "client_msg_id": "b62a52b7-8697-4d4d-94cc-65829b067e11",
+          "text": "<@U010F29ALBS>\nリハーサル回数について承知しました。\n以前にOBS初回は15万円、継続時は20万円とお伺いしているので、こちらは相違ないのですが、iPhone撮影が6万円から15万円と大幅に値上がりしているのは何故でしょうか？\nそちらを基に代理店に見積もりを出しているため、15万円だと弊社が赤字になってしまい、。\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "b3t/i",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nリハーサル回数について承知しました。\n以前にOBS初回は15万円、継続時は20万円とお伺いしているので、こちらは相違ないのですが、iPhone撮影が6万円から15万円と大幅に値上がりしているのは何故でしょうか？\nそちらを基に代理店に見積もりを出しているため、15万円だと弊社が赤字になってしまい、。\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764659299.448279",
+          "client_msg_id": "6c803f06-44c0-4fa6-b000-463b33a76f7e",
+          "text": "<@U0747R2MQT0> \niphone配信の見積もりですが、\n当初の想定より稼働コストがかなり大きいため相談させて頂きたいです:man-bowing::skin-tone-2:\n\nOBSの場合はうちの方でやらせて頂き、iphone配信になった場合はクライアント様の方でお願いする形で対応可能でしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "g5vhb",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \niphone配信の見積もりですが、\n当初の想定より稼働コストがかなり大きいため相談させて頂きたいです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\nOBSの場合はうちの方でやらせて頂き、iphone配信になった場合はクライアント様の方でお願いする形で対応可能でしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764659836.579669",
+          "client_msg_id": "d31cd2b1-256b-4205-92ba-9469a709563a",
+          "text": "なるほどです…！\n代理店に交渉の余地があるかもなので、一旦どのあたりが負担になっているか簡単にお電話でお伺いできますでしょうか？\nもし問題なければLINEから連絡致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "iD/X9",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "なるほどです…！\n代理店に交渉の余地があるかもなので、一旦どのあたりが負担になっているか簡単にお電話でお伺いできますでしょうか？\nもし問題なければLINEから連絡致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764661838.549659",
+          "client_msg_id": "6c481204-d8a2-49a1-bce2-0e918b76b2c6",
+          "text": "<@U0747R2MQT0> \nすみません:man-bowing::skin-tone-2:\n\n拘束時間や場所などもあるのですが一旦6万円+継続分として合計8万円で構いません:man-bowing::skin-tone-2:\n※リハ2回の場合10万円でご相談させてください",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "03WWp",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nすみません"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n拘束時間や場所などもあるのですが一旦6万円+継続分として合計8万円で構いません"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n※リハ2回の場合10万円でご相談させてください"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764663366.437209",
+          "edited": {
+            "user": "U0747R2MQT0",
+            "ts": "1764749472.000000"
+          },
+          "client_msg_id": "f23d5c28-6fd1-4231-87d3-512b2e2927cd",
+          "text": "<@U010F29ALBS>\nご連絡ありがとうございます。\n明確な理由がないと代理店にも交渉ができないため、6万円で据え置きでお願いできますでしょうか….？:man-bowing:\n（代理店に価格交渉を行う合理的な理由が立たず、弊社としても板挟みの状態となっております、、、。）\n一方で元々関東~東海圏内で日帰りができる地域での撮影との話だったため、関東~東海圏外で宿泊が伴う撮影（3回目の名古屋など）の撮影は出張費をお支払いいただくよう代理店に伝えております。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "HjVqe",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nご連絡ありがとうございます。\n明確な理由がないと代理店にも交渉ができないため、6万円で据え置きでお願いできますでしょうか….？"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-200d-2642-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n（代理店に価格交渉を行う合理的な理由が立たず、弊社としても板挟みの状態となっております、、、。）\n一方で元々関東~東海圏内で日帰りができる地域での撮影との話だったため、関東~東海圏外で宿泊が伴う撮影（3回目の名古屋など）の撮影は出張費をお支払いいただくよう代理店に伝えております。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764663896.622339",
+          "client_msg_id": "588b23cd-0e25-4487-b869-bb5c9403f539",
+          "text": "もしiPhone撮影が6万円での調整がどうしても難しいようであれば、今回は代理店請求ではなく弊社負担で1万円を追加し、計7万円でお支払いさせていただきます。（リハ1-2回）\n\n前回の撮影につきましても、本来対象外であった宿泊費を弊社負担にて調整させていただくなど、弊社もかなたさんチームに最大限寄り添えるよう、調整しているためご理解いただけますと嬉しいです、、:man-bowing:（普段から他の案件でかなたさんにお世話になっていることも考慮しております）\n\nつきましては、今回は上記金額にてご快諾いただけませんでしょうか、、。\nご確認のほど何卒宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "/CL/y",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "もしiPhone撮影が6万円での調整がどうしても難しいようであれば、今回は代理店請求ではなく弊社負担で1万円を追加し、計7万円でお支払いさせていただきます。（リハ1-2回）\n\n前回の撮影につきましても、本来対象外であった宿泊費を弊社負担にて調整させていただくなど、弊社もかなたさんチームに最大限寄り添えるよう、調整しているためご理解いただけますと嬉しいです、、"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-200d-2642-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "（普段から他の案件でかなたさんにお世話になっていることも考慮しております）\n\nつきましては、今回は上記金額にてご快諾いただけませんでしょうか、、。\nご確認のほど何卒宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764691184.783239",
+          "client_msg_id": "33e010d1-ec78-4132-a95f-1a5ddde5b04d",
+          "text": "<@U0747R2MQT0> \nかしこまりました！今回はそちらでよろしくお願いします！\n一点、金額的にリハは当日1回でギリギリ調整できるかなというところです:man-bowing::skin-tone-2::pray:\n※インサート動画撮影機材はiphoneにて対応",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "z1Z8W",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nかしこまりました！今回はそちらでよろしくお願いします！\n一点、金額的にリハは当日1回でギリギリ調整できるかなというところです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "pray",
+                      "unicode": "1f64f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n※インサート動画撮影機材はiphoneにて対応"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764749828.544889",
+          "client_msg_id": "432de716-fed1-4956-b8a1-78bf25512c33",
+          "text": "<@U010F29ALBS>\n金額を代理店と交渉したいのですが、いきなり値上げ要求を先方にはできないので、当初の6万円から上がった理由をお伺いできると嬉しいです！今ほどLINEで電話したのはそのためでした！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "TKQ4k",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n金額を代理店と交渉したいのですが、いきなり値上げ要求を先方にはできないので、当初の6万円から上がった理由をお伺いできると嬉しいです！今ほどLINEで電話したのはそのためでした！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764749906.295849",
+          "client_msg_id": "b73633b0-0acb-4502-801e-b1e10cd4bd84",
+          "text": "&gt; インサート動画撮影機材はiphoneにて対応\n弊社からミラーレスカメラや三脚をお持ちすればそちらで撮影いただけるのでしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "txLTk",
+              "elements": [
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "インサート動画撮影機材はiphoneにて対応"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "弊社からミラーレスカメラや三脚をお持ちすればそちらで撮影いただけるのでしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764750107.814379",
+          "client_msg_id": "170a995d-335c-4399-84e2-3b111c243d0b",
+          "text": "テキストだと伝えにくい部分もあるかと思うので、お電話できると嬉しいです！mtgでもOKです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "fXyhr",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "テキストだと伝えにくい部分もあるかと思うので、お電話できると嬉しいです！mtgでもOKです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764752868.835179",
+          "client_msg_id": "e03f2c49-63b3-4b55-871e-57499e80c83c",
+          "text": "別件でバタついておりましてやり取りの残る文面でお話しできますと幸いです:sob:\n\nインサート撮影はそちらで対応可能です！\n\n\n条件面シンプルにお伝えしますと以下になるかと思います！\n・リハ２回実施ですと稼働赤字になってしまう\n・iphone配信でテロップや画像出し無し条件→画像出し有になっている\n・初回金額での提示とさせていただいていた点（継続の場合OBS同様再見積もりの認識でおりました）",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "vACLE",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "別件でバタついておりましてやり取りの残る文面でお話しできますと幸いです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sob",
+                      "unicode": "1f62d"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\nインサート撮影はそちらで対応可能です！\n\n\n条件面シンプルにお伝えしますと以下になるかと思います！\n・リハ２回実施ですと稼働赤字になってしまう\n・iphone配信でテロップや画像出し無し条件→画像出し有になっている\n・初回金額での提示とさせていただいていた点（継続の場合OBS同様再見積もりの認識でおりました）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764777119.610859",
+          "client_msg_id": "830a495f-d5e6-4eed-ba84-fa0fbe40fd2c",
+          "text": "<@U010F29ALBS>\n&gt; 別件でバタついておりましてやり取りの残る文面でお話しできますと幸いです:sob:\nお忙しい中、失礼しました！\n上記承知しました！\n\nご回答ありがとうございます！\nおそらく代理店交渉材料は、下記かなと存じます。\n```iphone配信でテロップや画像出し無し条件→画像出し有になっている```\n但し練習などの工数感が大幅に増えるという訳ではなさそうなので、追加での代理店請求は難しいかと存じます…！ \n\niPhoneの場合カメラマン担当（こじまさん又はかなたさん）お一人でのご参加にすれば稼働費をご調整いただけるかと存じますが、いかがでしょうか、？\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "JxRGM",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "別件でバタついておりましてやり取りの残る文面でお話しできますと幸いです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sob",
+                      "unicode": "1f62d"
+                    }
+                  ],
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "お忙しい中、失礼しました！\n上記承知しました！\n\nご回答ありがとうございます！\nおそらく代理店交渉材料は、下記かなと存じます。\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_preformatted",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "iphone配信でテロップや画像出し無し条件→画像出し有になっている"
+                    }
+                  ],
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "\n但し練習などの工数感が大幅に増えるという訳ではなさそうなので、追加での代理店請求は難しいかと存じます…！"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\niPhoneの場合カメラマン担当（こじま"
+                    },
+                    {
+                      "type": "text",
+                      "text": "さん又はかなたさん）"
+                    },
+                    {
+                      "type": "text",
+                      "text": "お一人でのご参加"
+                    },
+                    {
+                      "type": "text",
+                      "text": "にすれば稼働費をご調整いただけるかと存じますが、いかがでしょうか、？\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764778812.307169",
+          "client_msg_id": "518f6424-63cd-4227-bb68-efef2104565a",
+          "text": "<@U0747R2MQT0> \n諸々再検討させていただきまして、iPhone配信の簡易的なオペレーションと、うちの最低稼働費用とのバランスが難しい点から、下記のように進めさせていただければと思います:man-bowing::skin-tone-2:\n\nOBS配信時 → 前回同様、こちらで対応\n\niPhone配信時 → 貴社側にてご対応（1名で対応可能とのことでしたので、こちらのチームを高いコストで稼働させる必要はないと思いました！）\n\n\nコスト面や継続性において、この形が双方最もスムーズに進行できると思いご提案いたしました。\nお手数おかけいたしますが、ご確認よろしくお願いいたします:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "EzGpI",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n諸々再検討させていただきまして、iPhone配信の簡易的なオペレーションと、うちの最低稼働費用とのバランスが難しい点から、下記のように進めさせていただければと思います"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\nOBS配信時 → 前回同様、こちらで対応\n\niPhone配信時 → 貴社側にてご対応（1名で対応可能とのことでしたので、こちらのチームを高いコストで稼働させる必要はないと思いました！）\n\n\nコスト面や継続性において、この形が双方最もスムーズに進行できると思いご提案いたしました。\nお手数おかけいたしますが、ご確認よろしくお願いいたします"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764821679.578069",
+          "client_msg_id": "7c1c11fa-4bb4-43d9-b570-e3e4cbf00f46",
+          "text": "<@U010F29ALBS>\nご提案ありがとうございます！\n下記観点からiPhone配信についても、かなたさんチームにご対応いただけますと幸いです:man-bowing:\n\n・OBS配信から直前にiPhone配信への切り替えが起こる事項が発生する可能性があり、その際、OBS配信のキャンセル料を代理店様に請求することが難しい\n・クライアントが2回目以降も1回目配信と同じ人員（技術・ディレクター・営業）を要望している\n\nそのため、iPhone配信の場合は、弊社側の持ち出しで以下内容にてご依頼させていただく形で問題ございませんでしょうか？\n・当日リハ、配信1回：70,000円（税抜）\n・別日リハ1回、当日リハ、配信1回：90,000円（税抜）\n\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "J5h9Q",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nご提案ありがとうございます！\n下記観点からiPhone配信についても、かなたさんチームにご対応いただけますと幸いです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-200d-2642-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n・OBS配信から直前にiPhone配信への切り替えが起こる事項が発生する可能性があり、その際、OBS配信のキャンセル料を代理店様に請求することが難しい\n・クライアントが2回目以降も1回目配信と同じ人員（技術・ディレクター・営業）を要望している\n\nそのため、iPhone配信の場合は、弊社側の持ち出しで以下内容にてご依頼させていただく形で問題ございませんでしょうか？\n・当日リハ、配信1回：70,000円（税抜）\n・別日リハ1回、当日リハ、配信1回：90,000円（税抜）\n\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1764852820.926619",
+          "client_msg_id": "a3a79dbe-f5d9-44ea-b6a7-ca3826ce5197",
+          "text": "<@U0747R2MQT0> \niphone配信の内容そちらで調整致します:man-bowing::skin-tone-2::sob:\n\n一点だけOBS前提での配信懸念があり、共有させてください。\n\n毎回配信場所が異なると、通信状況や混線など現地環境によるトラブルがどうしても発生し得ます。\nその際、原因がこちらの機材に起因するのか現地環境の影響なのか切り分けが難しく、OBS配信が成立せずiPhone配信へ切り替わった場合、\niPhone配信の予算のみですとリハや準備工数が赤字となってしまいます。\n\nそのため恐縮ですが、最低限の稼働保証として\nOBS配信費の60％（120,000円・税抜）を下限として設定させていただけますと幸いです。\n\nもしこちらが難しそうでしたらリスクが大きく、こちらとしても継続していくのが負担になってしまうためご検討いただけますと幸いです。\n引き続きよろしくお願いいたします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "sxApc",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \niphone配信の内容そちらで調整致します"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sob",
+                      "unicode": "1f62d"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n一点だけOBS前提での配信懸念があり、共有させてください。\n\n毎回配信場所が異なると、通信状況や混線など現地環境によるトラブルがどうしても発生し得ます。\nその際、原因がこちらの機材に起因するのか現地環境の影響なのか切り分けが難しく、OBS配信が成立せずiPhone配信へ切り替わった場合、\niPhone配信の予算のみですとリハや準備工数が赤字となってしまいます。\n\nそのため恐縮ですが、最低限の稼働保証として\nOBS配信費の60％（120,000円・税抜）を下限として設定させていただけますと幸いです。\n\nもしこちらが難しそうでしたらリスクが大きく、こちらとしても継続していくのが負担になってしまうためご検討いただけますと幸いです。\n引き続きよろしくお願いいたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1764945724.516169",
+          "client_msg_id": "82ee7ede-1470-4642-aef5-07d85c0d90ba",
+          "text": "<@U010F29ALBS>\niPhone配信の内容ご調整いただき誠にありがとうございますm\n\n&gt; OBS配信が成立せずiPhone配信へ切り替わった場合、iPhone配信の予算のみですとリハや準備工数が赤字となってしまいます。最低限の稼働保証としてOBS配信費の60％（120,000円・税抜）を下限として設定させていただけますと幸いです。\n上記承知いたしました。おっしゃる通りリハや本番に向けてご準備いただくことが多くあるかと思いますので、こちらはそのように実施させていただきます。\nまた上記弊社が代理店へ交渉するにあたり明確な線引きを行いたいのですが、どのタイミングからOBS配信費の60％以降がかかる認識でおればよろしいでしょうか？（OBS準備に入るリハ2日前まで　など）\n\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "aOnww",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\niPhone配信の内容ご調整いただき誠にありがとうございますm\n\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "OBS配信が成立せずiPhone配信へ切り替わった場合、iPhone配信の予算のみですとリハや準備工数が赤字となってしまいます。最低限の稼働保証としてOBS配信費の60％（120,000円・税抜）を下限として設定させていただけますと幸いです。"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "上記承知いたしました。おっしゃる通りリハや本番に向けてご準備いただくことが多くあるかと思いますので、こちらはそのように実施させていただきます。\nまた上記弊社が代理店へ交渉するにあたり明確な線引きを行いたいのですが、どのタイミングからOBS配信費の60％以降がかかる認識でおればよろしいでしょうか？（OBS準備に入るリハ2日前まで　など）\n\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765034522.083149",
+          "client_msg_id": "57ed9929-58b2-4267-ae8c-69176328ad16",
+          "text": "<@U0747R2MQT0> \nリハに使用する画像準備などがあると思うのでそちらが発生しない1日前であれば大丈夫です！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "1v90I",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nリハに使用する画像準備などがあると思うのでそちらが発生しない1日前であれば大丈夫です！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765090215.978239",
+          "client_msg_id": "76ded982-208c-4731-a1d9-98597f5a074b",
+          "text": "<@U010F29ALBS>\n承知いたしました！\n諸事項ご調整いただきありがとうございますm\nご記載の通り進めさせていただきます。\n引き続き何卒宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "3xkUK",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知いたしました！\n諸事項ご調整いただきありがとうございますm\nご記載の通り進めさせていただきます。\n引き続き何卒宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765097624.663649",
+          "client_msg_id": "0832972d-6748-4a00-8ca5-3cdc8feca57a",
+          "text": "<@U0747R2MQT0> \nお手数おかけいたしました:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1764656784.648859",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "NgQZA",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお手数おかけいたしました"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "man-bowing",
+              "users": [
+                "U0747R2MQT0"
+              ],
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "channel_join",
+      "user": "U0A3N8D768L",
+      "text": "<@U0A3N8D768L>さんがチャンネルに参加しました",
+      "inviter": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761315.906659"
+    },
+    {
+      "user": "U0747R2MQT0",
+      "type": "message",
+      "ts": "1765772681.225239",
+      "client_msg_id": "56dc7b07-4217-4356-8149-9bfef7817fe2",
+      "text": "ざっくりご相談_レイクウッズガーデン",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1765772681.225239",
+      "reply_count": 15,
+      "reply_users_count": 2,
+      "latest_reply": "1765879143.473559",
+      "reply_users": [
+        "U0747R2MQT0",
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "cgHXd",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "ざっくりご相談_レイクウッズガーデン"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765772884.139899",
+          "client_msg_id": "b64d45c3-9008-4f7a-b4ab-10dec19e07f3",
+          "text": "<@U010F29ALBS>\nお世話になっております！\n新規案件のご相談でご連絡いたしました。\n\n専任代理店経由で以下クライアントのYouTubeチャンネルの運用の相談が来ています。\nクライアント：レイクウッズガーデン\n<https://www.al-site.net/>\n\nかなたさんチームにYouTubeの運用をご相談することは可能でしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "MukGS",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております！\n新規案件のご相談でご連絡いたしました。\n\n専任代理店経由で以下クライアントのYouTubeチャンネルの運用の相談が来ています。\nクライアント：レイクウッズガーデン\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://www.al-site.net/"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\nかなたさんチームにYouTubeの運用をご相談することは可能でしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765772914.434039",
+          "client_msg_id": "3ad07629-c042-49a5-a817-4583f54b71ea",
+          "text": "【媒体】\n・YouTube（現在、YouTubeチャンネルは休眠状態です）\n <https://www.youtube.com/@lakewoodslabradoodles7967>\n\n【想定している要件】\n・投稿本数：\n月2本程度（長尺動画）+ショート動画2-3本（本編編への動線）\n・業務範囲：\n企画・構成、撮影、編集\n・大まかな企画イメージ（仮）\n　-今日のオーストラリアンラブラトゥール\n　-犬舎の清掃の様子\n　-飼育スタッフの一日\n　-子犬がドッグランで遊ぶ様子\n・その他\n撮影地は千葉県（ひめはるの里）となり、被写体は動物です。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "piUtX",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "【媒体】\n・YouTube（現在、YouTubeチャンネルは休眠状態です）\n "
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://www.youtube.com/@lakewoodslabradoodles7967"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n【想定している要件】\n・投稿本数：\n月2本程度（長尺動画）+ショート動画2-3本（本編編への動線）\n・業務範囲：\n企画・構成、撮影、編集\n・大まかな企画イメージ（仮）\n　-今日のオーストラリアンラブラトゥール\n　-犬舎の清掃の様子\n　-飼育スタッフの一日\n　-子犬がドッグランで遊ぶ様子\n・その他\n撮影地は千葉県（ひめはるの里）となり、被写体は動物です。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765774034.421689",
+          "client_msg_id": "02dd5278-789c-44d2-94a8-e36edad17b52",
+          "text": "<@U0747R2MQT0>お疲れ様です！\n企画については事業としてYouTubeの企画提案はしたことがないため問題なければということでお受けすることは可能です！\n※普段からリサーチなどはしております\n\n撮影編集は問題ないかと思います！\n\nまた、月2本ですと費用もコスパ悪くなってしまうかなと思っておりますが変動予定はありますでしょうか:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "dQb7e",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！\n企画については事業としてYouTubeの企画提案はしたことがないため問題なければということでお受けすることは可能です！\n※普段からリサーチなどはしております\n\n撮影編集は問題ないかと思います！\n\nまた、月2本ですと費用もコスパ悪くなってしまうかなと思っておりますが変動予定はありますでしょうか"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765776779.977389",
+          "client_msg_id": "639a311c-73e8-44af-a487-ce9247dfcfaf",
+          "text": "<@U010F29ALBS>\n承知いたしました！\n&gt; 企画については事業としてYouTubeの企画提案はしたことがないため問題なければということでお受けすることは可能です！\n企画書などの制作はInstagram運用で担当されておりますでしょうか？\n\n&gt; 月2本ですと費用もコスパ悪くなってしまうかなと思っておりますが変動予定はありますでしょうか\n投稿本数は月1~2本で変動可能性は低いのですが、毎月撮影でなくまとめ撮りができるならしたいとの要望です！\n1回の撮影だと長尺動画2本+ショート動画2-3本が限界ですよね、？\n（企画にもよると思いますが）",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "r2vCp",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知いたしました！\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "企画については事業としてYouTubeの企画提案はしたことがないため問題なければということでお受けすることは可能です！"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "企画書などの制作はInstagram運用で担当されておりますでしょうか？\n\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "月2本ですと費用もコスパ悪くなってしまうかなと思っておりますが変動予定はありますでしょうか"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "投稿本数は月1~2本で変動可能性は低いのですが、毎月撮影でなくまとめ撮りができるならしたいとの要望です！\n1回の撮影だと長尺動画2本+ショート動画2-3本が限界ですよね、？\n（企画にもよると思いますが）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765799104.733799",
+          "client_msg_id": "2fac5263-4482-49a0-afc4-66b0a1897ec8",
+          "text": "<@U0747R2MQT0> \n基本的にはTikTokの企画提案が多いです！\n企画によっては1日で多めにできる可能性はありますが動物が絡むと予想しにくい部分はありますね、、",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "vsrVQ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n基本的にはTikTokの企画提案が多いです！\n企画によっては1日で多めにできる可能性はありますが動物が絡むと予想しにくい部分はありますね、、"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765864072.739239",
+          "client_msg_id": "d814da55-3076-4117-853e-dd5bbb4d38da",
+          "text": "<@U010F29ALBS>\n承知いたしました！\n以下をご依頼する際のお見積もりも頂けますと幸いです。\n\n• 撮影（1日想定@千葉）\n    ◦ カメラマン\n    ◦ ディレクター\n        ▪︎ こちらの1日撮影動画（<https://www.youtube.com/watch?v=bk4DTDlunt4&amp;t=3s|URL>）のように声出演も含む\n• 企画（指定のフォーマットでの企画書や香盤の作成含む）\n    ◦ 長尺\n    ◦ ショート\n• 編集\n    ◦ 横型動画\n        ▪︎ ~20分\n    ◦ 横型サムネイル\n    ◦ ショート動画\n• 打ち合わせ\n    ◦ 月2回ほど",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "t8G83",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知いたしました！\n以下をご依頼する際のお見積もりも頂けますと幸いです。\n\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "撮影（1日想定@千葉）"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "カメラマン"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "ディレクター"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "こちらの1日撮影動画（"
+                        },
+                        {
+                          "type": "link",
+                          "url": "https://www.youtube.com/watch?v=bk4DTDlunt4&t=3s",
+                          "text": "URL"
+                        },
+                        {
+                          "type": "text",
+                          "text": "）のように声出演も含む"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 2,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "企画（指定のフォーマットでの企画書や香盤の作成含む）"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "長尺"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "ショート"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "編集"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "横型動画"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "~20分"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 2,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "横型サムネイル"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "ショート動画"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "打ち合わせ"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "月2回ほど"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765866299.969709",
+          "client_msg_id": "1e8cea05-431a-4259-a97c-1b5fd739edd2",
+          "text": "<@U0747R2MQT0>お疲れ様です！\n以下になってくるかと思います！\n\n1日撮影稼働費\n・最低２名稼働 10万円\n※交通費別\n※声出演はしておりませんが必要な場合は+3万円でお受けいたします！\n\n企画費\n・5万円(2本)\n\n編集費\n・長尺\n〜15分 2万円\n15〜20分 3万円\n\n・ショート\n5000-10000円\n\n案件増えておりまして割引等出来ず申し訳ないです、、:sob:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "AooYx",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！\n以下になってくるかと思います！\n\n1日撮影稼働費\n・最低２名稼働 10万円\n※交通費別\n※声出演はしておりませんが必要な場合は+3万円でお受けいたします！\n\n企画費\n・5万円(2本)\n\n編集費\n・長尺\n〜15分 2万円\n15〜20分 3万円\n\n・ショート\n5000-10000円\n\n案件増えておりまして割引等出来ず申し訳ないです、、"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sob",
+                      "unicode": "1f62d"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765866538.449889",
+          "client_msg_id": "75ef9cc2-463f-4335-bf4d-9f19ad4ad1b5",
+          "text": "<@U010F29ALBS>\n早速ありがとうございます！\n諸事項承知致しました。\n\n・声出演について\n+3万円に関しては、動画1本ではなく、1日撮影稼働費のオプションとしてという理解であっておりますでしょうか？\n\n・企画費について\n1本になる場合は単価計算で25,000円、3本の場合は75,000円になる理解であっておりますでしょうか？（長尺、ショートともに）\n\n・編集費について\nサムネイル制作も含まれておりますでしょうか？\n\n\nその他かかりそうな費用がありましたら、お伺いできますと幸いです！\n代理店案件になるため、後から請求することが難しいたいめ事前に想定しうるコストがあればお伺いしたい次第です。\n\nお手数ですが、宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "/3m8D",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n早速ありがとうございます！\n諸事項承知致しました。\n\n・声出演について\n+3万円に関しては、動画1本ではなく、1日撮影稼働費のオプションとしてという理解であっておりますでしょうか？\n\n・企画費について\n1本になる場合は単価計算で25,000円、3本の場合は75,000円になる理解であっておりますでしょうか？（長尺、ショートともに）\n\n・編集費について\nサムネイル制作も含まれておりますでしょうか？\n\n\nその他かかりそうな費用がありましたら、お伺いできますと幸いです！\n代理店案件になるため、後から請求することが難しいたいめ事前に想定しうるコストがあればお伺いしたい次第です。\n\nお手数ですが、宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765868886.348699",
+          "client_msg_id": "37601f28-31c5-42dc-b36f-be6453fc9d9c",
+          "text": "<@U0747R2MQT0> \n・声出演はその認識です！\n\n・企画費\nこちらは単価計算ではないため、3本目からは+2万円になります！\nショートは追加1本1万円で見ていただければと思います！\n\n・通常のサムネイル制作費含んでおります！\n\n費用発生の可能性としては、\n・撮影が午前中からの場合は別途宿泊費が必要になる可能性\n・その他企画によって通常撮影を超えると判断した場合の追加費用",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "cBvc+",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n・声出演はその認識です！\n\n・企画費\nこちらは単価計算ではないため、3本目からは+2万円になります！\nショートは追加1本1万円で見ていただければと思います！\n\n・通常のサムネイル制作費含んでおります！\n\n費用発生の可能性としては、\n・撮影が午前中からの場合は別途宿泊費が必要になる可能性\n・その他企画によって通常撮影を超えると判断した場合の追加費用"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765869253.964489",
+          "client_msg_id": "5c11e413-8145-41f4-b39b-cd2a30624641",
+          "text": "<@U010F29ALBS>\n・企画費\n&gt; こちらは単価計算ではないため、3本目からは+2万円になります！\n度々失礼いたします！\n私の理解不足で恐縮なのですが、長尺2本まで50,000円=1本でも50,000円という理解で合ってますか？（3本目以降の追加は+20,000円ごとに発生）\n\nまた長尺2本、ショート3本の場合は\n・長尺：50,000円\n・ショート：30,000円（3本×10,000円）\nの合計80,000円になりますでしょうか？\n\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "5qifR",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n・企画費\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "こちらは単価計算ではないため、3本目からは+2万円になります！"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "度々失礼いたします！\n私の理解不足で恐縮なのですが、長尺2本まで50,000円=1本でも50,000円という理解で合ってますか？（3本目以降の追加は+20,000円ごとに発生）\n\nまた長尺2本、ショート3本の場合は\n・長尺：50,000円\n・ショート：30,000円（3本×10,000円）\nの合計80,000円になりますでしょうか？\n\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765869434.205329",
+          "client_msg_id": "2b6a3eab-3d17-4814-8b2e-3f5b4aa57e29",
+          "text": "<@U0747R2MQT0> \n月1本になった場合もそのような形になってしまいます:man-bowing::skin-tone-2:\n\n企画費用についてはそちらの認識でお間違い無いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "oa571",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n月1本になった場合もそのような形になってしまいます"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n企画費用についてはそちらの認識でお間違い無いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765869477.974749",
+          "client_msg_id": "a5fcb933-7e62-4039-9ca4-a69a361aec74",
+          "text": "<@U010F29ALBS>\n承知しました！\n企画費用に積水ハウスさんのような台本も含まれますか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "hNHIm",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！\n企画費用に積水ハウスさんのような台本も含まれますか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765872546.804209",
+          "client_msg_id": "e60be6d9-1df9-484f-9c64-559c170ffdda",
+          "text": "<@U0747R2MQT0> \n企画構成はある程度固めてお渡しするのですが、\nセリフ台本を作成して、ある程度そのまま進める形になりそうでしょうか？\n※このケースですとあまり運用としてうまくいかなかったケースがかなり多い印象なので、、\n\n撮影シーンの指定までで、話すテーマを指示する形がいいかなと思っておりました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "2kPSE",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n企画構成はある程度固めてお渡しするのですが、\nセリフ台本を作成して、ある程度そのまま進める形になりそうでしょうか？\n※このケースですとあまり運用としてうまくいかなかったケースがかなり多い印象なので、、\n\n撮影シーンの指定までで、話すテーマを指示する形がいいかなと思っておりました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1765878505.457479",
+          "client_msg_id": "0c68447a-e317-4db6-a39b-7978d6188924",
+          "text": "<@U010F29ALBS>\n承知致しました。\n企画構成がある程度固まっていれば、問題ございません。\nまた代理店が事例を要望しているのですが、サイトに掲載してある動画以外にございますか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "sGn/1",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知致しました。\n企画構成がある程度固まっていれば、問題ございません。\nまた代理店が事例を要望しているのですが、サイトに掲載してある動画以外にございますか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1765879143.473559",
+          "client_msg_id": "09848ce0-a162-47b6-96ca-871c8650ce99",
+          "text": "<@U0747R2MQT0> \n掲載以外はお出しできずです！よろしくお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1765772681.225239",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "mlwVT",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n掲載以外はお出しできずです！よろしくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "+1",
+              "users": [
+                "U0747R2MQT0"
+              ],
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U0747R2MQT0",
+      "type": "message",
+      "ts": "1769744870.794559",
+      "client_msg_id": "dffb8271-6f69-4c3c-9482-88f5b0d1ed29",
+      "text": "積水ハウス様_4月ライブ配信",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1769744870.794559",
+      "reply_count": 21,
+      "reply_users_count": 2,
+      "latest_reply": "1772427196.792679",
+      "reply_users": [
+        "U0747R2MQT0",
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "AGR2U",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "積水ハウス様_4月ライブ配信"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1769744946.805539",
+          "client_msg_id": "bc9f6d88-d041-4ba4-95a7-f6af6b4cbe13",
+          "text": "<@U010F29ALBS>\nお疲れ様です！\n第4回の配信日程につきまして、 代理店がクライアントへ下記日程で提案したいとのことですが、かなたさんチームのご都合はいかがでしょうか？\n（3月は配信がないとのことです！）\n\n*■候補日程*\n・4/11(土)\n・4/18(土)\n\nお手数ですが、ご確認の程宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "SztCv",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお疲れ様です！\n第4回の配信日程につきまして、 代理店がクライアントへ下記日程で提案したいとのことですが、かなたさんチームのご都合はいかがでしょうか？\n（3月は配信がないとのことです！）\n\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "■候補日程",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n・4/11(土)\n・4/18(土)\n\nお手数ですが、ご確認の程宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1769744977.055909",
+          "client_msg_id": "7b58e51a-5be5-44ed-b37e-c5108b3e4be0",
+          "text": ":black_small_square:補足事項\n・当日はiPhone配信\n・場所は未定",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "fNXSz",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "emoji",
+                      "name": "black_small_square",
+                      "unicode": "25aa-fe0f"
+                    },
+                    {
+                      "type": "text",
+                      "text": "補足事項\n・当日はiPhone配信\n・場所は未定"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1769747241.605019",
+          "client_msg_id": "98fad8c8-7fb6-4fe3-85ba-41eb0d6e1986",
+          "text": "<@U0747R2MQT0> \n4/18でしたら可能です！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "7sVOL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n4/18でしたら可能です！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1769747289.449109",
+          "client_msg_id": "d45f9dcc-dc7f-4210-bc38-1ff0c4aa495a",
+          "text": "<@U010F29ALBS>\n承知しました！ありがとうございます！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "1zVIe",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！ありがとうございます！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1770856690.113789",
+          "client_msg_id": "44cc195f-4fa9-47f7-acbe-24d92219f7f8",
+          "text": "<@U010F29ALBS>\nお世話になります！\n４回目の撮影が4月18日（土）で決定しましたので、お知らせいたします。\n宜しくお願いいたします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "EogWZ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になります！\n４回目の撮影が4月18日（土）で決定しましたので、お知らせいたします。\n宜しくお願いいたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1770860683.766109",
+          "client_msg_id": "b5c159d0-4771-4371-b040-f4193651c883",
+          "text": "<@U0747R2MQT0>\nお世話になっております！\nスケジュールかしこまりました！\n近場前提での日程で抑えておりますので遠方になる際は早めに報告頂けますと幸いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "dsNsT",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております！\nスケジュールかしこまりました！\n近場前提での日程で抑えておりますので遠方になる際は早めに報告頂けますと幸いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1770892532.954509",
+          "client_msg_id": "de2f99b6-40a5-4de1-9b41-1e151d3db74f",
+          "text": "<@U010F29ALBS>\n承知しました！\nオーナー宅で未定とのことなので、分かり次第ご連絡いたします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "yoIya",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！\nオーナー宅で未定とのことなので、分かり次第ご連絡いたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "raised_hands",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771202366.983809",
+          "client_msg_id": "e6d3b0e7-8d69-4c3a-a11f-e635d0e3c5e8",
+          "text": "<@U010F29ALBS>\nお世話になっております！\n4月配信について、リハーサルを実施するようでして、以下日時よりご都合の良い日時をご教示いただけますと幸いです！\nお手数ですが、宜しくお願い致します。\n\n*■リハーサル候補日時*\n・3月30日 (月) 13:00〜18:00\n・3月31日 (火) 12:00〜17:00\n・4月 1日 (水) 11:00〜17:00\n・4月 3日 (金) 11:00〜16:00",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "XnZFL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております！\n4月配信について、リハーサルを実施するようでして、以下日時よりご都合の良い日時をご教示いただけますと幸いです！\nお手数ですが、宜しくお願い致します。\n\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "■リハーサル候補日時",
+                      "style": {
+                        "bold": true
+                      }
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n・3月30日 (月) 13:00〜18:00\n・3月31日 (火) 12:00〜17:00\n・4月 1日 (水) 11:00〜17:00\n・4月 3日 (金) 11:00〜16:00"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771213775.797249",
+          "client_msg_id": "839c30f4-44ca-4bfd-b0bc-6937ec7594b1",
+          "text": "<@U0747R2MQT0> \nお疲れ様です！\n4/3でお願いいたします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "iejKi",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n4/3でお願いいたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771213835.479559",
+          "edited": {
+            "user": "U0747R2MQT0",
+            "ts": "1771213840.000000"
+          },
+          "client_msg_id": "ba66722f-a4e5-43d3-be31-bd26ecfefe72",
+          "text": "<@U010F29ALBS>\n承知しました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "IMaU9",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771305617.834969",
+          "client_msg_id": "2F913FE5-7CD0-466F-BF48-A29B6E368E2D",
+          "text": "<@U010F29ALBS> \nすみません、代理店より以下メッセージをいただきましたので、3/18-30の間でかなたさんチームがご都合の良い日時を4日頂けますと幸いです！:pray:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "p95dJ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nすみません、代理店より以下メッセージをいただきましたので、3/18-"
+                    },
+                    {
+                      "type": "text",
+                      "text": "30の間でかなたさんチームがご都合の良い日時を4日頂けますと幸いです！"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "pray",
+                      "unicode": "1f64f"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "",
+          "files": [
+            {
+              "id": "F0AFS2RQ7J5",
+              "created": 1771305620,
+              "timestamp": 1771305620,
+              "name": "IMG_2876.jpg",
+              "title": "IMG_2876",
+              "mimetype": "image/jpeg",
+              "filetype": "jpg",
+              "pretty_type": "JPEG",
+              "user": "U0747R2MQT0",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 52826,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AFS2RQ7J5/img_2876.jpg",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AFS2RQ7J5/download/img_2876.jpg",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_64.jpg",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_80.jpg",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_360.jpg",
+              "thumb_360_w": 360,
+              "thumb_360_h": 144,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_480.jpg",
+              "thumb_480_w": 480,
+              "thumb_480_h": 192,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_160.jpg",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_720.jpg",
+              "thumb_720_w": 720,
+              "thumb_720_h": 288,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_800.jpg",
+              "thumb_800_w": 800,
+              "thumb_800_h": 320,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_960.jpg",
+              "thumb_960_w": 960,
+              "thumb_960_h": 384,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFS2RQ7J5-c41890234b/img_2876_1024.jpg",
+              "thumb_1024_w": 1024,
+              "thumb_1024_h": 410,
+              "original_w": 1179,
+              "original_h": 472,
+              "thumb_tiny": "AwAUADC4qSKWLnK7McMc5/z+NS8lvYfUc045wcdaYyZI28HO4nr7fyoAfnnFAORmo2KqCdwDDqSQM+xpqNITjO5cY3jHJ45/n/nqATUYpimRlBICE9VIzj9frTlyVGQQfegBaKKKACiiigAooooA/9k=",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AFS2RQ7J5/img_2876.jpg",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AFS2RQ7J5-1817250801",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U0747R2MQT0",
+          "display_as_bot": false,
+          "type": "message",
+          "ts": "1771305623.953959",
+          "client_msg_id": "6284476D-42AA-4901-A735-55653CF80035",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0"
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771305689.352559",
+          "client_msg_id": "7020F253-C287-46B3-8891-493B65969B41",
+          "text": "<@U010F29ALBS> \n私は今のところ予定はないため、ご都合の良い日時をご教示ください！\n他の予定もあるかと思うので、早めに確定するよう先方には伝えます。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "qCVT4",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n私は今のところ予定はないため、ご都合の良い日時をご教示ください！\n他の予定もあるかと思うので、早めに確定するよう先方には伝えます。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771311246.283899",
+          "client_msg_id": "1c0152f6-71f9-46d4-a96b-6a5c4796180d",
+          "text": "<@U0747R2MQT0> \n27.28.29.30でお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "II0s8",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n27.28.29.30でお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771311293.613639",
+          "client_msg_id": "B0FB37A2-6B56-4C53-9327-9D52B09853B1",
+          "text": "<@U010F29ALBS> \n承知しました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "spwZZ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n承知しました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772089119.813219",
+          "client_msg_id": "adef7f9c-f94c-4be6-a048-c2bc17895a9f",
+          "text": "<@U010F29ALBS>\nお疲れ様です！\n以下連絡がきているのですが、ご確認いただけますと幸いです。\n原文ママで失礼します。\n\n```編集会議の日程につきまして\nクライアントとの編集会議を実施したく、先方より以下の日程で希望をいただいております。\n・3月2日 (月) 16:00〜17:00\n上記の日程につきまして、ご都合はいかがでしょうか。 \nご参加が可能かスケジュールをご確認いただけますと幸いです。```",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "5g84h",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお疲れ様です！\n以下連絡がきているのですが、ご確認いただけますと幸いです。\n原文ママで失礼します。\n\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_preformatted",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "編集会議の日程につきまして\nクライアントとの編集会議を実施したく、先方より以下の日程で希望をいただいております。\n・3月2日 (月) 16:00〜17:00\n上記の日程につきまして、ご都合はいかがでしょうか。 \nご参加が可能かスケジュールをご確認いただけますと幸いです。"
+                    }
+                  ],
+                  "border": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772089194.901549",
+          "edited": {
+            "user": "U0747R2MQT0",
+            "ts": "1772089229.000000"
+          },
+          "client_msg_id": "b2865887-4e22-4ec8-86e1-02dedbd5f5ee",
+          "text": "編集会議=配信当日の流れなどを確認するmtgだと思うのですが、\n　・これまで弊社側で参加をしていない（ディレクター変更以降依頼が来た）\n　・これらのmtg費用を貰っていない（当初の弊社の対応範囲外）\nので前提として、参加は強制ではないです！\nかなたさんチームがmtgに参加した方が進めやすいのであれば、おっしゃってください！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "khv5U",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "編集会議=配信当日の流れなどを確認するmtgだと思うのですが、\n　・これまで弊社側で参加をしていない（ディレクター変更以降依頼が来た）\n　・これらのmtg費用を貰っていない（当初の弊社の対応範囲外）\nので前提として、参加は強制ではないです！\nかなたさんチームがmtgに参加した方が進めやすいのであれば、おっしゃってください！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772093584.100799",
+          "client_msg_id": "00561dc2-c1c5-4d84-a140-8f9ec4cb27f1",
+          "text": "<@U0747R2MQT0> \nお疲れ様です！\n必須でなければ参加見送らせていただけますと幸いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "DbZne",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n必須でなければ参加見送らせていただけますと幸いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772093617.477059",
+          "client_msg_id": "1597eede-421b-4aec-92d0-7d80180cbdd9",
+          "text": "了解です！\n空いてないと伝えますね！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "vSjPG",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "了解です！\n空いてないと伝えますね！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "bow",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772424318.040879",
+          "client_msg_id": "e5212bb0-4972-4e4a-88ff-c2f4a7741480",
+          "text": "<@U010F29ALBS>\nお疲れ様です！\nクライアントから次回配信のWiFiと有線LANの速度をそれぞれ頂いたのですが、どちらもOBSは厳しそうでしょうか？\nまたWiFiの速度を鑑みても厳しいのでは,,,と思うのですが、ポケットwifiの持ち込みなど打開策などありそうでしょうか？\n\n<https://drive.google.com/drive/folders/1-nFuR0613CPU_eZvdtX0NKM_tGJEiZip?usp=sharing>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "jAgp1",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお疲れ様です！\nクライアントから次回配信のWiFiと有線LANの速度をそれぞれ頂いたのですが、どちらもOBSは厳しそうでしょうか？\nまたWiFiの速度を鑑みても厳しいのでは,,,と思うのですが、ポケットwifiの持ち込みなど打開策などありそうでしょうか？\n\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://drive.google.com/drive/folders/1-nFuR0613CPU_eZvdtX0NKM_tGJEiZip?usp=sharing"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772427196.792679",
+          "client_msg_id": "57de9d8d-8cea-4e7b-8819-77ecd99fcdf7",
+          "text": "<@U0747R2MQT0> \n厳しい環境ではありますね、、\nもしかしたら前回お話していた様々な回線をまとめる方法が今後の運用方針的にも有効になってくるかもしれませんね:sweat_smile:\n\n上記が実現できると比較的ネット問題はクリアになってきてOBSでの配信の提案もしやすいかと思います！\n\nただテストが必要なので費用面やご協力が必要になってきそうです:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1769744870.794559",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "7BjpQ",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n厳しい環境ではありますね、、\nもしかしたら前回お話していた様々な回線をまとめる方法が今後の運用方針的にも有効になってくるかもしれませんね"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sweat_smile",
+                      "unicode": "1f605"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n上記が実現できると比較的ネット問題はクリアになってきてOBSでの配信の提案もしやすいかと思います！\n\nただテストが必要なので費用面やご協力が必要になってきそうです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U0747R2MQT0",
+      "type": "message",
+      "ts": "1771402091.314419",
+      "client_msg_id": "aecc60c3-46e1-4cba-84dc-cc0d411b0ec3",
+      "text": "【ご相談】メッセージ履歴保存のための環境移行について",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1771402091.314419",
+      "reply_count": 12,
+      "reply_users_count": 3,
+      "latest_reply": "1771410827.281269",
+      "reply_users": [
+        "U0747R2MQT0",
+        "U010F29ALBS",
+        "U010HFUC9V4"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "uMQKl",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "【ご相談】メッセージ履歴保存のための環境移行について"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771402125.776499",
+          "client_msg_id": "bcaf54da-5d74-4355-9089-84704b152fe6",
+          "text": "<@U010F29ALBS>\nお疲れ様です！\nSlackの運用についてご相談です。\n現在の環境下では、90日以上前のやり取りが自動的に見えなくなる制限（フリープラン仕様）がかかっております。\n今後、過去のログやファイルを遡れるようにしておきたいため、履歴が無制限に残る弊社のSlack環境へ移行（ご招待）させていただいてもよろしいでしょうか？\n\nご了承いただけましたら、招待メールをお送りします。\nお手数ですが、よろしくお願いいたします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "NaQeH",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお疲れ様です！\nSlackの運用についてご相談です。\n現在の環境下では、90日以上前のやり取りが自動的に見えなくなる制限（フリープラン仕様）がかかっております。\n今後、過去のログやファイルを遡れるようにしておきたいため、履歴が無制限に残る弊社のSlack環境へ移行（ご招待）させていただいてもよろしいでしょうか？\n\nご了承いただけましたら、招待メールをお送りします。\nお手数ですが、よろしくお願いいたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771402782.487569",
+          "client_msg_id": "b0297108-3137-4579-a4f7-518ae27e4518",
+          "text": "<@U0747R2MQT0>お疲れ様です！\nSlack移行かしこまりました！よろしくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "lzKhe",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！\nSlack移行かしこまりました！よろしくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771404631.307289",
+          "client_msg_id": "04efdd7f-2907-4272-9889-55d356a83418",
+          "text": "<@U010F29ALBS>\nありがとうございます！\nお二人を招待いたしましたのでお手隙の際にご確認のほど宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "VRdg4",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nありがとうございます！\nお二人を招待いたしましたのでお手隙の際にご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771407262.524079",
+          "client_msg_id": "164e4516-f9a1-457e-87b2-b9e583ae8e97",
+          "text": "<@U0747R2MQT0> \nフリープランのため参加ができずでして、、、",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "A3DcO",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nフリープランのため参加ができずでして、、、"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771407935.921149",
+          "client_msg_id": "58c2a40c-ed32-4225-956d-a56f99a829db",
+          "text": "<@U010F29ALBS>\nフリープランでも招待できるはずなのですが、エラー起きてたりしますか？\n<https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A8-Slack-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B|https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83[…]D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "attachments": [
+            {
+              "from_url": "https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A8-Slack-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B",
+              "thumb_url": "https://a.slack-edge.com/80588/marketing/img/meta/slack_hash_256.png",
+              "thumb_width": 256,
+              "thumb_height": 256,
+              "service_icon": "https://a.slack-edge.com/e6a93c1/img/icons/favicon-32.png",
+              "id": 1,
+              "original_url": "https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A8-Slack-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B",
+              "fallback": "Slack Help Center: フリープランを利用しているチームと Slack コネクトを使用する",
+              "text": "Enterprise オーガナイゼーションでは、相手がフリープランのチームでも、Slack コネクトを使用して社外の人との連携をよりシームレスにできます。...",
+              "title": "フリープランを利用しているチームと Slack コネクトを使用する",
+              "title_link": "https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A8-Slack-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B",
+              "service_name": "Slack Help Center"
+            }
+          ],
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "7Ga4j",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nフリープランでも招待できるはずなのですが、エラー起きてたりしますか？\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3%E3%82%92%E5%88%A9%E7%94%A8%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%81%A8-Slack-%E3%82%B3%E3%83%8D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B",
+                      "text": "https://slack.com/intl/ja-jp/help/articles/4409350616467-%E3%83%95%E3%83%AA%E3%83[…]D%E3%82%AF%E3%83%88%E3%82%92%E4%BD%BF%E7%94%A8%E3%81%99%E3%82%8B"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U0747R2MQT0>\nこんな表示になってしまい、、",
+          "files": [
+            {
+              "id": "F0AFJR638VB",
+              "created": 1771407998,
+              "timestamp": 1771407998,
+              "name": "Screenshot_20260218-184607.png",
+              "title": "id:21370",
+              "mimetype": "image/png",
+              "filetype": "png",
+              "pretty_type": "PNG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 119829,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AFJR638VB/screenshot_20260218-184607.png",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AFJR638VB/download/screenshot_20260218-184607.png",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_64.png",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_80.png",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_360.png",
+              "thumb_360_w": 164,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_480.png",
+              "thumb_480_w": 219,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_160.png",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_720.png",
+              "thumb_720_w": 329,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_800.png",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1751,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_960.png",
+              "thumb_960_w": 439,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AFJR638VB-eb4eaaf500/screenshot_20260218-184607_1024.png",
+              "thumb_1024_w": 468,
+              "thumb_1024_h": 1024,
+              "original_w": 1080,
+              "original_h": 2364,
+              "thumb_tiny": "AwAwABbScsB8gBPucf40LuK/MAD6A5paKAGqCGIx8vXO4k06iigCM+YSAAwBJyQRwOn/ANf/ADigI+STI4z2GOP0qSigBqkk9yOuSMf0p1FFABRVA6gu47ZYsdsq3+FH9oD/AJ6xf98t/hQIv0VSj1CLd+8lTH+yrf4VJ/aFr/z1/wDHT/hQM//Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AFJR638VB/screenshot_20260218-184607.png",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AFJR638VB-46793271a0",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "JLi0C",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nこんな表示になってしまい、、"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1771408003.825159",
+          "client_msg_id": "18c1f10d-65c1-4768-94ed-182128264f06",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "reactions": [
+            {
+              "name": "eyes",
+              "users": [
+                "U0747R2MQT0"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771409512.296419",
+          "client_msg_id": "40907063-c344-4807-bda0-56f2606ad820",
+          "text": "<@U010F29ALBS>\n再度招待をお送りしましたので、ご確認いただけますと幸いです！\n宜しくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "cVPJF",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n再度招待をお送りしましたので、ご確認いただけますと幸いです！\n宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771409660.886689",
+          "client_msg_id": "8f19677d-1ce1-4cf7-98a5-fc7a56c8abeb",
+          "text": "<@U0747R2MQT0>入れました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Z707i",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "入れました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771409732.976519",
+          "client_msg_id": "d77f076a-8c14-475c-88d9-9c3d779b3c47",
+          "text": "ありがとうございます！\n今後新規案件はそちらでご相談させていただきます。\n4月のライブ配信までは両チャンネルの利用となり、お手数おかけしますが宜しくお願い致します！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "pJiIy",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！\n今後新規案件はそちらでご相談させていただきます。\n4月のライブ配信までは両チャンネルの利用となり、お手数おかけしますが宜しくお願い致します！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1771410134.997479",
+          "client_msg_id": "e84d48c4-93b1-42a9-964a-533284556703",
+          "text": "<@U0747R2MQT0>かしこまりました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Cfbtp",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": "かしこまりました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010HFUC9V4",
+          "type": "message",
+          "ts": "1771410559.811639",
+          "client_msg_id": "00F526A3-CF82-4E92-8AE0-DEB959BA4116",
+          "text": "<@U0747R2MQT0> \n参加させていただきまきた！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "PaLer",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n参加させていただきまきた！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771410827.281269",
+          "client_msg_id": "364D39D7-B6FC-43A0-8308-17E2AA506693",
+          "text": "ありがとうございます！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771402091.314419",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "mDtEV",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U0747R2MQT0",
+      "type": "message",
+      "ts": "1771995643.705289",
+      "client_msg_id": "eae7d29d-959f-48e3-a83c-1632c5edb0f0",
+      "text": "積水ハウス様_2月ライブ配信（続）",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1771995643.705289",
+      "reply_count": 33,
+      "reply_users_count": 2,
+      "latest_reply": "1772422402.641479",
+      "reply_users": [
+        "U0747R2MQT0",
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "IXq2Z",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "積水ハウス様_2月ライブ配信（続）"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771995753.763669",
+          "client_msg_id": "15eefcd8-de43-4e61-9a39-4c986cb4c2d1",
+          "text": "<@U010F29ALBS>\n表題の過去スレッドに書き込みができなくなってしまったので、こちらで失礼いたします！\n下記共有をいたしますので、ご確認をお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "k1Oix",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n表題の過去スレッドに書き込みができなくなってしまったので、こちらで失礼いたします！\n下記共有をいたしますので、ご確認をお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771995833.417659",
+          "client_msg_id": "ba15c698-43ff-45c1-94f7-9fe3f9efdb43",
+          "text": "• 住所\n    ◦ 埼玉県鴻巣市加美2丁目6-44\n• スケジュール\n    ◦ 15:00–15:30　(30分)　機材準備\n    ◦  15:30–16:30　(1時間)　技術テスト/テクリハ\n    ◦  16:30–17:00　(30分) 照明/導線/画角確認\n    ◦  17:00–18:00　(1時間) リハーサル\n    ◦  18:00–18:30　(30分)　リハーサル振り返り（MTG）\n    ◦  18:30–19:30　(1時間)　2回目リハーサル\n    ◦  19:30–19:55　(25分) 最終調整\n    ◦  20:00– (45~60分)本番",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "5cWuB",
+              "elements": [
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "住所"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "埼玉県鴻巣市加美2丁目6-44"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "スケジュール"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "15:00–15:30　(30分)　機材準備"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 15:30–16:30　(1時間)　技術テスト/テクリハ"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 16:30–17:00　(30分) 照明/導線/画角確認"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 17:00–18:00　(1時間) リハーサル"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 18:00–18:30　(30分)　リハーサル振り返り（MTG）"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 18:30–19:30　(1時間)　2回目リハーサル"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 19:30–19:55　(25分) 最終調整"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": " 20:00– (45~60分)本番"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771996064.727499",
+          "client_msg_id": "40595d8a-5999-4cc3-b47d-4e8b3e6898ab",
+          "text": "また台本・構成案・配信で使用する画像をご共有させていただきます。\n下記ドライブをご確認ください。\n<https://drive.google.com/drive/folders/1nIS48vghjmky8zfeVB0LNG8W8tUFDagi?usp=sharing>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "cg8H/",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "また台本・構成案・配信で使用する画像をご共有させていただきます。\n下記ドライブをご確認ください。\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://drive.google.com/drive/folders/1nIS48vghjmky8zfeVB0LNG8W8tUFDagi?usp=sharing"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771996134.969659",
+          "client_msg_id": "a00c7acd-3ef9-48bf-a89e-88ce8a758791",
+          "text": "• *台本について*\n    ◦ 先方の方から木曜日に微調整するかもとのご共有を受けておりますが、大きな変更は特にないと認識しておりますので、一旦格納されているものをご確認ください。もし変更があった場合には再度共有させていただきます。\n• *構成案について*\n    ◦ 当日スケジュール等も改めて記載しておりますのでご確認ください。\n• *配信で使用する画像について*\n    ◦ 今回、iPhoneでの配信を想定しているため、「インターバル動画」「テロップ」「開始時・終了時の待機画像」はなしになり、画面共有で画像を写し出す形となります。使用画像は下記になります。\n        ▪︎ プレゼントキャンペーン画像\n        ▪︎ トラブル時の差し込み画像\n        ▪︎ イベント告知画像\n        ▪︎ 配信先のお家の「お昼の様子」の画像（インスタライブ中に差し込み）\nなお、差し込みタイミング等につきましては、台本をご確認いただけますと幸いです。\n\nお忙しいところ恐れ入りますが、ご確認よろしくお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "/AZrR",
+              "elements": [
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "台本について",
+                          "style": {
+                            "bold": true
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "先方の方から木曜日に微調整するかもとのご共有を受けておりますが、大きな変更は特にないと認識しておりますので、一旦格納されているものをご確認ください。もし変更があった場合には再度共有させていただきます。"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "構成案について",
+                          "style": {
+                            "bold": true
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "当日スケジュール等も改めて記載しておりますのでご確認ください。"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "配信で使用する画像について",
+                          "style": {
+                            "bold": true
+                          }
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 0,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "今回、iPhoneでの配信を想定しているため、「インターバル動画」「テロップ」「開始時・終了時の待機画像」はなしになり、画面共有で画像を写し出す形となります。使用画像は下記になります。"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 1,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_list",
+                  "elements": [
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "プレゼントキャンペーン画像"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "トラブル時の差し込み画像"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "イベント告知画像"
+                        }
+                      ]
+                    },
+                    {
+                      "type": "rich_text_section",
+                      "elements": [
+                        {
+                          "type": "text",
+                          "text": "配信先のお家の「お昼の様子」の画像（インスタライブ中に差し込み）"
+                        }
+                      ]
+                    }
+                  ],
+                  "style": "bullet",
+                  "indent": 2,
+                  "border": 0
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "なお、差し込みタイミング等につきましては、台本をご確認いただけますと幸いです。\n\nお忙しいところ恐れ入りますが、ご確認よろしくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1771996158.731719",
+          "client_msg_id": "e9b9b45c-3d58-4b6d-8a7f-a3b1053b091d",
+          "text": "また当日はクライアントさまのスマートフォン（iPhone17pro）を使用する形で決定しております。よろしくお願い致します。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "MWNMz",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "また当日はクライアントさまのスマートフォン（iPhone17pro）を使用する形で決定しております。よろしくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772010270.737929",
+          "client_msg_id": "4667b987-3c1d-4875-9310-d1acee0bb8a6",
+          "text": "<@U0747R2MQT0>お疲れ様です！\n諸々ありがとうございます:man-bowing::skin-tone-2:\n\n当日の配信iphoneに素材使用できる形で入れておいていただくようお願い致します！\n\nまた、こちらで配信テストができず(Androidのため画像出し機能が出てこずでテスト不可)可能でしたらどのように素材表示されるかテスト可能でしたらスクショなどしていただけますと助かります！\n※全画面表示、差し込み表示がどのように切り替わるか",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "PAkKL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！\n諸々ありがとうございます"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n当日の配信iphoneに素材使用できる形で入れておいていただくようお願い致します！\n\nまた、こちらで配信テストができず(Androidのため画像出し機能が出てこずでテスト不可)可能でしたらどのように素材表示されるかテスト可能でしたらスクショなどしていただけますと助かります！\n※全画面表示、差し込み表示がどのように切り替わるか"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772010366.110299",
+          "client_msg_id": "ec13e4ef-a9b9-40d6-92e5-7010b47205ef",
+          "text": "<@U010F29ALBS>\n承知しました！\n&gt; 当日の配信iphoneに素材使用できる形で入れておいていただくようお願い致します！\nこちらは台本順に画像が出せるよう、写真フォルダ内で画像を並べていただくよう伝えております！\n\n&gt; 可能でしたらどのように素材表示されるかテスト可能でしたらスクショなどしていただけますと助かります！\n私の方から明日中にキャプチャをお送りいたしますね！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "eccr3",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "当日の配信iphoneに素材使用できる形で入れておいていただくようお願い致します！"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "こちらは台本順に画像が出せるよう、写真フォルダ内で画像を並べていただくよう伝えております！\n\n"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_quote",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "可能でしたらどのように素材表示されるかテスト可能でしたらスクショなどしていただけますと助かります！"
+                    }
+                  ]
+                },
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "私の方から明日中にキャプチャをお送りいたしますね！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "man-bowing",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772013023.342659",
+          "client_msg_id": "71d88ed5-ce9d-43b0-bbba-6b8971bb9642",
+          "text": "<@U0747R2MQT0> \nありがとうございます！\n現地駐車場は使用可能でしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "eJn7f",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nありがとうございます！\n現地駐車場は使用可能でしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772078487.693099",
+          "client_msg_id": "84a24e6a-475e-4d08-b254-6dd536d04e77",
+          "text": "<@U010F29ALBS>\n駐車場に関しては近隣の駐車場を使用する形でお願いします。とのことでした！\nなお、これまで通り弊社側に請求いただければと存じます。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "f8TuK",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n駐車場に関しては近隣の駐車場を使用する形でお願いします。とのことでした！\nなお、これまで通り弊社側に請求いただければと存じます。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772082755.987779",
+          "client_msg_id": "7d9cc7b9-6d75-46ad-bfee-6ffec45c6feb",
+          "text": "<@U0747R2MQT0>かしこまりました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "1r92q",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "かしこまりました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772154921.889429",
+          "client_msg_id": "9b6425cf-157f-4ec8-80c8-b9a84691c560",
+          "text": "<@U0747R2MQT0>お疲れ様です！\n配信テストのスクショ頂けますと幸いです:man-bowing::skin-tone-2::pray:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "oYoev",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！\n配信テストのスクショ頂けますと幸いです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "pray",
+                      "unicode": "1f64f"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U010F29ALBS> \nすみません、共有が遅くなりました！\nこちらご確認宜しくお願いします！",
+          "files": [
+            {
+              "id": "F0AH9TUV5TM",
+              "created": 1772157291,
+              "timestamp": 1772157291,
+              "name": "ScreenRecording_02-27-2026 10-53-22_1.MP4",
+              "title": "ScreenRecording_02-27-2026 10-53-22_1",
+              "mimetype": "video/mp4",
+              "filetype": "mp4",
+              "pretty_type": "MPEG 4ビデオ",
+              "user": "U0747R2MQT0",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 14530878,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "is_transcription_region_supported": true,
+              "transcription": {
+                "status": "none"
+              },
+              "mp4": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AH9TUV5TM-cf7b67dffa/screenrecording_02-27-2026_10-53-22_1.mp4",
+              "url_private": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AH9TUV5TM-cf7b67dffa/screenrecording_02-27-2026_10-53-22_1.mp4",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AH9TUV5TM/download/screenrecording_02-27-2026_10-53-22_1.mp4",
+              "hls": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AH9TUV5TM-cf7b67dffa/file.m3u8?_xcb=a4bf9",
+              "hls_embed": "data:application/vnd.apple.mpegurl;base64,I0VYVE0zVQojRVhULVgtVkVSU0lPTjozCiNFWFQtWC1JTkRFUEVOREVOVC1TRUdNRU5UUwojRVhULVgtU1RSRUFNLUlORjpCQU5EV0lEVEg9OTE1NTIxLEFWRVJBR0UtQkFORFdJRFRIPTc1MjEwMCxDT0RFQ1M9ImF2YzEuNjQwMDFmLG1wNGEuNDAuNSIsUkVTT0xVVElPTj00OTh4MTA4MCxGUkFNRS1SQVRFPTI5Ljk3MApkYXRhOmFwcGxpY2F0aW9uL3ZuZC5hcHBsZS5tcGVndXJsO2Jhc2U2NCxJMFZZVkUwelZRb2pSVmhVTFZndFZrVlNVMGxQVGpvekNpTkZXRlF0V0MxVVFWSkhSVlJFVlZKQlZFbFBUam8zQ2lORldGUXRXQzFOUlVSSlFTMVRSVkZWUlU1RFJUb3hDaU5GV0ZRdFdDMVFURUZaVEVsVFZDMVVXVkJGT2xaUFJBb2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeE1FVktRVUZRTjFjdFJqQkJTRGxVVlZZMVZFMHRZMlkzWWpZM1pHWm1ZUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd01TNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhNRVZLUVVGUU4xY3RSakJCU0RsVVZWWTFWRTB0WTJZM1lqWTNaR1ptWVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdNaTUwY3dvalJWaFVTVTVHT2pZdU1EQTJMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4TUVWS1FVRlFOMWN0UmpCQlNEbFVWVlkxVkUwdFkyWTNZalkzWkdabVlTOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3TXk1MGN3b2pSVmhVU1U1R09qWXVNREEyTEFwb2RIUndjem92TDJacGJHVnpMbk5zWVdOckxtTnZiUzltYVd4bGN5MTBiV0l2VkRBeE1FVktRVUZRTjFjdFJqQkJTRGxVVlZZMVZFMHRZMlkzWWpZM1pHWm1ZUzltYVd4bFgwaGZNalkwWHpFNU1qQjRNVEE0TUY4Mk5UQXdTMEpRVTE4M1VWWkNVbDh3TURBd05DNTBjd29qUlZoVVNVNUdPall1TURBMkxBcG9kSFJ3Y3pvdkwyWnBiR1Z6TG5Oc1lXTnJMbU52YlM5bWFXeGxjeTEwYldJdlZEQXhNRVZLUVVGUU4xY3RSakJCU0RsVVZWWTFWRTB0WTJZM1lqWTNaR1ptWVM5bWFXeGxYMGhmTWpZMFh6RTVNakI0TVRBNE1GODJOVEF3UzBKUVUxODNVVlpDVWw4d01EQXdOUzUwY3dvalJWaFVTVTVHT2pNdU56TTNMQXBvZEhSd2N6b3ZMMlpwYkdWekxuTnNZV05yTG1OdmJTOW1hV3hsY3kxMGJXSXZWREF4TUVWS1FVRlFOMWN0UmpCQlNEbFVWVlkxVkUwdFkyWTNZalkzWkdabVlTOW1hV3hsWDBoZk1qWTBYekU1TWpCNE1UQTRNRjgyTlRBd1MwSlFVMTgzVVZaQ1VsOHdNREF3Tmk1MGN3b2pSVmhVTFZndFJVNUVURWxUVkFvPQo=",
+              "mp4_low": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AH9TUV5TM-cf7b67dffa/screenrecording_02-27-2026_10-53-22_1_trans.mp4",
+              "duration_ms": 33767,
+              "media_display_type": "video",
+              "thumb_video": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AH9TUV5TM-cf7b67dffa/screenrecording_02-27-2026_10-53-22_1_thumb_video.jpeg",
+              "thumb_video_w": 720,
+              "thumb_video_h": 1560,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AH9TUV5TM/screenrecording_02-27-2026_10-53-22_1.mp4",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AH9TUV5TM-40bc69ab2c",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U0747R2MQT0",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "gM+3Z",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nすみません、共有が遅くなりました！\nこちらご確認宜しくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1772157350.390229",
+          "client_msg_id": "412647AE-8082-403D-98F5-1DE9E88C1EA9",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "reactions": [
+            {
+              "name": "man-bowing",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            },
+            {
+              "name": "raised_hands",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        },
+        {
+          "text": "<@U010F29ALBS>\nお世話になっております！\n先方より台本のfix版を頂きましたので、共有いたします！\n\n--------------------------------\n台本がFIXいたしましたのでご共有させていただきます。\n以前お送りしたシートの別ページに「FIX版」として新しくデータを追加しておりますのでご確認いただけますと幸いです。\n\n下記、画像表示に関するアップデート部分になります。\n※細かい文章表現でのアップデートもありますが抜粋しての記載は省略させていただきます。\n\n①質問コーナーを行う前に「住まいの参観日」の紹介を入れ込むことになりました。（47列）\n②プレゼントキャンペーンで使用する画像をシート内に添付いたしました。（59列）\n③最後の「住まいの参観日」の紹介ではこれまでとは違った画像を表示することになりました。ドライブにも新しく使用する画像を格納いたしましたのでご確認ください。（61列）\n\nご共有がギリギリとなってしまいまして大変申し訳ございません。\n何卒よろしくお願いします。\n\n--------------------------------\n\n前日に申し訳ございません…！\nお手数ですが、ご確認のほど宜しくお願い致します。",
+          "files": [
+            {
+              "id": "F0AHGA5L9U6",
+              "created": 1772184116,
+              "timestamp": 1772184116,
+              "name": "「第3回 埼玉社員宅」台本  .xlsx",
+              "title": "「第3回 埼玉社員宅」台本  .xlsx",
+              "mimetype": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+              "filetype": "xlsx",
+              "pretty_type": "Excel スプレッドシート",
+              "user": "U0747R2MQT0",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 6443156,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHGA5L9U6/______3______________________________.xlsx",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHGA5L9U6/download/______3______________________________.xlsx",
+              "media_display_type": "unknown",
+              "converted_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHGA5L9U6-35d5029f38/______3_______________________________converted.pdf",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHGA5L9U6-35d5029f38/______3_______________________________thumb_pdf.png",
+              "thumb_pdf_w": 1286,
+              "thumb_pdf_h": 909,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AHGA5L9U6/______3______________________________.xlsx",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AHGA5L9U6-49fcd8d902",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U0747R2MQT0",
+          "display_as_bot": false,
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "h9eBu",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております！\n先方より台本のfix版を頂きましたので、共有いたします！\n\n--------------------------------\n台本がFIXいたしましたのでご共有させていただきます。\n以前お送りしたシートの別ページに「FIX版」として新しくデータを追加しておりますのでご確認いただけますと幸いです。\n\n下記、画像表示に関するアップデート部分になります。\n※細かい文章表現でのアップデートもありますが抜粋しての記載は省略させていただきます。\n\n①質問コーナーを行う前に「住まいの参観日」の紹介を入れ込むことになりました。（47列）\n②プレゼントキャンペーンで使用する画像をシート内に添付いたしました。（59列）\n③最後の「住まいの参観日」の紹介ではこれまでとは違った画像を表示することになりました。ドライブにも新しく使用する画像を格納いたしましたのでご確認ください。（61列）\n\nご共有がギリギリとなってしまいまして大変申し訳ございません。\n何卒よろしくお願いします。\n\n--------------------------------\n\n前日に申し訳ございません…！\nお手数ですが、ご確認のほど宜しくお願い致します。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1772187467.186869",
+          "edited": {
+            "user": "U0747R2MQT0",
+            "ts": "1772187479.000000"
+          },
+          "client_msg_id": "fad846ea-e954-4f29-b761-279657fedb3b",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0"
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772187641.303539",
+          "client_msg_id": "d5e74b02-63e3-4d0a-8f4e-f5f1599851ed",
+          "text": "ドライブアップデートしております！\n<https://drive.google.com/drive/u/0/folders/1nIS48vghjmky8zfeVB0LNG8W8tUFDagi>",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "BXKbi",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ドライブアップデートしております！\n"
+                    },
+                    {
+                      "type": "link",
+                      "url": "https://drive.google.com/drive/u/0/folders/1nIS48vghjmky8zfeVB0LNG8W8tUFDagi"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772187668.343999",
+          "client_msg_id": "f1f309d3-006b-450e-a03f-d899f788fbe2",
+          "text": "<@U0747R2MQT0>ありがとうございます！\n\nこちらでは特にドライブからダウンロードする作業や配信機材等はないため配信用端末に落としておいていただければ問題ないです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "FMqKe",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！\n\nこちらでは特にドライブからダウンロードする作業や配信機材等はないため配信用端末に落としておいていただければ問題ないです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772187757.226929",
+          "client_msg_id": "2dff2bf8-6396-4900-a177-6b82a8aaf3da",
+          "text": "了解です！\n一応積水ハウス側が配信端末にDLしていない場合のための共有です！\n（DL依頼はかけてます）",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "zVzQg",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "了解です！\n一応積水ハウス側が配信端末にDLしていない場合のための共有です！\n（DL依頼はかけてます）"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772187788.689879",
+          "client_msg_id": "806c72f3-4cd4-4efb-aeb0-8494672f80a0",
+          "text": "<@U010F29ALBS>\n加えて、明日弊社から持参した方が良い機材はございますか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "QZlhG",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n加えて、明日弊社から持参した方が良い機材はございますか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772188506.499189",
+          "client_msg_id": "b8890dae-3645-4cac-94e6-9642d252ba0c",
+          "text": "<@U0747R2MQT0> \n当日はPCの用意がないためご了承ください:man-bowing::skin-tone-2:\nいつも通りマイクと照明で大丈夫です！！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "1k54F",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n当日はPCの用意がないためご了承ください"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nいつも通りマイクと照明で大丈夫です！！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772188692.540489",
+          "client_msg_id": "e24aa277-3bbd-4657-bbc9-fd016ae0e518",
+          "text": "<@U010F29ALBS>\n承知しました！\nPCは私が持参しますね！\nカメラ以外の三脚や照明、ジンバルはお持ちいただける認識でよろしいでしょうか??",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0TI7H",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知しました！\nPCは私が持参しますね！\nカメラ以外の三脚や照明、ジンバルはお持ちいただける認識でよろしいでしょうか??"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772188784.607949",
+          "client_msg_id": "47025d2f-7894-49bc-8a43-1c34bee55779",
+          "text": "<@U0747R2MQT0> \n大丈夫です！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "zPoMx",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n大丈夫です！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772188791.053889",
+          "client_msg_id": "ac15ebb8-0be9-4a6d-92de-3f8c40288900",
+          "text": "ありがとうございます！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "8u64v",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772189377.122279",
+          "client_msg_id": "436f1b7f-fc0e-485b-90f1-63905c23c26c",
+          "text": "<@U0747R2MQT0> \n当日の駐車場が近くになく、現地から徒歩10分以上の場所になってくるため近いパーキングからタクシーで現地へ向かう形でも大丈夫でしょうか:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "4MJGL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n当日の駐車場が近くになく、現地から徒歩10分以上の場所になってくるため近いパーキングからタクシーで現地へ向かう形でも大丈夫でしょうか"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772189431.765889",
+          "client_msg_id": "eeef0458-e024-4cbd-ac87-b50dd1712183",
+          "text": "もちろんです！\n領収書だけお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0Yj0J",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "もちろんです！\n領収書だけお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772193600.323789",
+          "client_msg_id": "8f7b3a86-d0b9-4931-947e-a363a39795f7",
+          "text": "<@U0747R2MQT0>ありがとうございます！かしこまりました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "iqvPP",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！かしこまりました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772258276.093319",
+          "client_msg_id": "0FBE4F0F-95DD-4C9B-9E1B-E29B37FCFEB9",
+          "text": "<@U010F29ALBS> \nそろそろ着きそうですか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "pA3lt",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nそろそろ着きそうですか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772258330.079249",
+          "client_msg_id": "98f2254e-60f1-479d-9ce5-9923b5f42bc8",
+          "text": "<@U0747R2MQT0> \n今タクシーで向かっておりまして4分くらいで到着予定です:man-bowing::skin-tone-2:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "bvw89",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n今タクシーで向かっておりまして4分くらいで到着予定です"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772258570.613629",
+          "edited": {
+            "user": "U0747R2MQT0",
+            "ts": "1772259949.000000"
+          },
+          "client_msg_id": "F831CEB4-F63D-444C-8215-FF0E9BC28D83",
+          "text": "<@U010F29ALBS> \n到着したら連絡ください！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "V4w7O",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n到着したら連絡ください！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772340384.964279",
+          "client_msg_id": "5aa19252-ca5d-4c1e-bf4a-4756c64acb75",
+          "text": "<@U0747R2MQT0> \nお疲れ様です！\n昨日はお疲れ様でした:man-bowing::skin-tone-2:\n\n2/28配信稼動は2月分請求で大丈夫でしょうか！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "eSmrX",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお疲れ様です！\n昨日はお疲れ様でした"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n\n2/28配信稼動は2月分請求で大丈夫でしょうか！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772340443.536639",
+          "client_msg_id": "9D9CD1D2-9F64-4E9B-9C9C-24305D83E3E1",
+          "text": "<@U010F29ALBS> \nお疲れ様です！昨日もありがとうございました！\n二月請求分で大丈夫です！\nご請求書は明日中に頂けますと幸いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "6EQzb",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "お疲れ様です！昨日もありがとうございました！\n二月請求分で大丈夫です！\nご請求書は明日中に頂けますと幸いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772346478.549369",
+          "client_msg_id": "0242c881-b256-4721-9c8c-e4a63109b493",
+          "text": "<@U0747R2MQT0>お送りしました！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "7/EPm",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "お送りしました！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772414849.061909",
+          "client_msg_id": "B75FCD7F-6FAC-409F-8FF8-79E89AE35DCE",
+          "text": "ありがとうございます！\n領収書はかなたさんチームの方で経費として切っていただければと思うのですが、証票としてクライアントに求められているためキャプチャをお送り頂けますと幸いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "v2bPl",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！\n領収書はかなたさんチームの方で経費として切っていただければと思うのですが、証票としてクライアントに求められているためキャプチャをお送り頂けますと幸いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "text": "<@U0747R2MQT0>こちらでお願いいたします！",
+          "files": [
+            {
+              "id": "F0AJQG6L1AL",
+              "created": 1772418240,
+              "timestamp": 1772418240,
+              "name": "2026.02.28高速利用費.pdf",
+              "title": "2026.02.28高速利用費.pdf",
+              "mimetype": "application/pdf",
+              "filetype": "pdf",
+              "pretty_type": "PDF",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 70966,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AJQG6L1AL/2026.02.28_______________.pdf",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AJQG6L1AL/download/2026.02.28_______________.pdf",
+              "media_display_type": "unknown",
+              "thumb_pdf": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJQG6L1AL-097190f174/2026.02.28________________thumb_pdf.png",
+              "thumb_pdf_w": 909,
+              "thumb_pdf_h": 1285,
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AJQG6L1AL/2026.02.28_______________.pdf",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AJQG6L1AL-0d23ca8ead",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0AHSV85S8M",
+              "created": 1772420676,
+              "timestamp": 1772420676,
+              "name": "2026.02.28タクシー経費.jpg",
+              "title": "2026.02.28タクシー経費.jpg",
+              "mimetype": "image/jpeg",
+              "filetype": "jpg",
+              "pretty_type": "JPEG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 291919,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHSV85S8M/2026.02.28__________________.jpg",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AHSV85S8M/download/2026.02.28__________________.jpg",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________64.jpg",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________80.jpg",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________360.jpg",
+              "thumb_360_w": 203,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________480.jpg",
+              "thumb_480_w": 271,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________160.jpg",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________720.jpg",
+              "thumb_720_w": 406,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________800.jpg",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1418,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________960.jpg",
+              "thumb_960_w": 541,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AHSV85S8M-3ba70a715d/2026.02.28___________________1024.jpg",
+              "thumb_1024_w": 578,
+              "thumb_1024_h": 1024,
+              "original_w": 2256,
+              "original_h": 4000,
+              "thumb_tiny": "AwAwAByYdBS0DpQKQwpppxyVz045BptADhSdPU0dKb8uf4hjA74oAcRw3J5ptKx+U03cPWmIfTADj5gCR0/z+VLmkpDFJPl8jB9KizUjdKipoTP/2Q==",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AHSV85S8M/2026.02.28__________________.jpg",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AHSV85S8M-52eba33c14",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            },
+            {
+              "id": "F0AJ00NTBLL",
+              "created": 1772420681,
+              "timestamp": 1772420681,
+              "name": "2026.02.28.パーキング経費.jpg",
+              "title": "2026.02.28.パーキング経費.jpg",
+              "mimetype": "image/jpeg",
+              "filetype": "jpg",
+              "pretty_type": "JPEG",
+              "user": "U010F29ALBS",
+              "user_team": "T010EJAAP7W",
+              "editable": false,
+              "size": 967671,
+              "mode": "hosted",
+              "is_external": false,
+              "external_type": "",
+              "is_public": false,
+              "public_url_shared": false,
+              "display_as_bot": false,
+              "username": "",
+              "url_private": "https://files.slack.com/files-pri/T010EJAAP7W-F0AJ00NTBLL/2026.02.28._____________________.jpg",
+              "url_private_download": "https://files.slack.com/files-pri/T010EJAAP7W-F0AJ00NTBLL/download/2026.02.28._____________________.jpg",
+              "media_display_type": "unknown",
+              "thumb_64": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________64.jpg",
+              "thumb_80": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________80.jpg",
+              "thumb_360": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________360.jpg",
+              "thumb_360_w": 203,
+              "thumb_360_h": 360,
+              "thumb_480": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________480.jpg",
+              "thumb_480_w": 271,
+              "thumb_480_h": 480,
+              "thumb_160": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________160.jpg",
+              "thumb_720": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________720.jpg",
+              "thumb_720_w": 406,
+              "thumb_720_h": 720,
+              "thumb_800": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________800.jpg",
+              "thumb_800_w": 800,
+              "thumb_800_h": 1418,
+              "thumb_960": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________960.jpg",
+              "thumb_960_w": 541,
+              "thumb_960_h": 960,
+              "thumb_1024": "https://files.slack.com/files-tmb/T010EJAAP7W-F0AJ00NTBLL-ab904aaa18/2026.02.28.______________________1024.jpg",
+              "thumb_1024_w": 578,
+              "thumb_1024_h": 1024,
+              "original_w": 2256,
+              "original_h": 4000,
+              "thumb_tiny": "AwAwAByFYZJMsikr65ANPFrKRyvPYZFT2WfJYAc7iP0qfBwCGxzyM8f5/wD1UAUxaSdcqOBxUI+mPzrSHLkg5HTrWd8o6sB+tAFizJELADkk8Z+lWVwSoztIGSOM1BASLYFQc88D61ZB4BPH1piEwFb5Rjv9azpWxK+1QfmPb3rRDZfhgQegH+fpWdMD5z7h/EaQye3dRCqs4VsHuM0rSRcAzKffG7/PSs9ySvbn9KB6NyemKANJZ4lAJkLHoDiq08u6UsiqynGDn2qLO0A5GTQQvcgUAf/Z",
+              "permalink": "https://studio-kanata.slack.com/files/U0A3N8D768L/F0AJ00NTBLL/2026.02.28._____________________.jpg",
+              "permalink_public": "https://slack-files.com/T010EJAAP7W-F0AJ00NTBLL-5e1df17d4e",
+              "is_starred": false,
+              "skipped_shares": true,
+              "has_rich_preview": false,
+              "file_access": "visible"
+            }
+          ],
+          "upload": false,
+          "user": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "kJ3Am",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0747R2MQT0",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "こちらでお願いいたします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "type": "message",
+          "ts": "1772420691.841319",
+          "client_msg_id": "dd2e2abd-1fb6-4597-8b40-e20af6c0e46a",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0"
+        },
+        {
+          "user": "U0747R2MQT0",
+          "type": "message",
+          "ts": "1772422402.641479",
+          "client_msg_id": "2bd018a8-2da3-45d6-a495-b5387cb6fac7",
+          "text": "ありがとうございます！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1771995643.705289",
+          "parent_user_id": "U0747R2MQT0",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "8u64v",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "text",
+                      "text": "ありがとうございます！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

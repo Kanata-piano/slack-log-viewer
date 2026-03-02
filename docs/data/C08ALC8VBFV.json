@@ -1,0 +1,469 @@
+{
+  "messages": [
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765435897.936929",
+      "client_msg_id": "008c7c70-2a2e-4ecb-8f4e-97e1474a2631",
+      "text": "<https://48.gigafile.nu/0321-b1a2b205bc63cc928d596f7080a6fe532>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://48.gigafile.nu/0321-b1a2b205bc63cc928d596f7080a6fe532",
+          "service_icon": "https://48.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://48.gigafile.nu/0321-b1a2b205bc63cc928d596f7080a6fe532",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://48.gigafile.nu/0321-b1a2b205bc63cc928d596f7080a6fe532",
+          "service_name": "48.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "i4qga",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://48.gigafile.nu/0321-b1a2b205bc63cc928d596f7080a6fe532"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1765442790.891329",
+      "client_msg_id": "b896b78a-87f6-4146-81b3-ba63387c423b",
+      "text": "<https://53.gigafile.nu/0321-j4aa1024d90630ef8b85bd61a865e8a43>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://53.gigafile.nu/0321-j4aa1024d90630ef8b85bd61a865e8a43",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://53.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://53.gigafile.nu/0321-j4aa1024d90630ef8b85bd61a865e8a43",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://53.gigafile.nu/0321-j4aa1024d90630ef8b85bd61a865e8a43",
+          "service_name": "53.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "3IBcC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://53.gigafile.nu/0321-j4aa1024d90630ef8b85bd61a865e8a43"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761225.898349",
+      "client_msg_id": "a75d43b1-9b5b-415a-a7bf-ffe0a361e7c7",
+      "text": "<@U0A3N8D768L>",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HDtG+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0A3N8D768L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "subtype": "channel_join",
+      "user": "U0A3N8D768L",
+      "text": "<@U0A3N8D768L>さんがチャンネルに参加しました",
+      "inviter": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765761482.763699"
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765766353.638709",
+      "client_msg_id": "f7b53b2b-7986-4f4f-9b91-ddf4ddfe4428",
+      "text": "<https://94.gigafile.nu/0325-d8c38d333bd3d5aa1822d4f8c80af1c41>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://94.gigafile.nu/0325-d8c38d333bd3d5aa1822d4f8c80af1c41",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://94.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://94.gigafile.nu/0325-d8c38d333bd3d5aa1822d4f8c80af1c41",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://94.gigafile.nu/0325-d8c38d333bd3d5aa1822d4f8c80af1c41",
+          "service_name": "94.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "jR2q0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://94.gigafile.nu/0325-d8c38d333bd3d5aa1822d4f8c80af1c41"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1765875237.662119",
+      "client_msg_id": "a6426fa4-38f7-42d6-9f3f-ca7de613d7cc",
+      "text": "あ",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fJloC",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "text",
+                  "text": "あ"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1769764858.504119",
+      "client_msg_id": "6603de4f-e00e-4867-a136-72c838bcba1e",
+      "text": "<https://19.gigafile.nu/0510-f1921c5b1b3faf25aab141b9a664aeabc>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://19.gigafile.nu/0510-f1921c5b1b3faf25aab141b9a664aeabc",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://19.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://19.gigafile.nu/0510-f1921c5b1b3faf25aab141b9a664aeabc",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://19.gigafile.nu/0510-f1921c5b1b3faf25aab141b9a664aeabc",
+          "service_name": "19.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "XYwbJ",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://19.gigafile.nu/0510-f1921c5b1b3faf25aab141b9a664aeabc"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1769992873.883209",
+      "client_msg_id": "bfa47328-a3f8-4ebc-a14b-4d87c0a2fda4",
+      "text": "<https://65.gigafile.nu/0513-me443f5c442f85ead67e756c52569fcca>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://65.gigafile.nu/0513-me443f5c442f85ead67e756c52569fcca",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://65.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://65.gigafile.nu/0513-me443f5c442f85ead67e756c52569fcca",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://65.gigafile.nu/0513-me443f5c442f85ead67e756c52569fcca",
+          "service_name": "65.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "fK24N",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://65.gigafile.nu/0513-me443f5c442f85ead67e756c52569fcca"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1770863628.714059",
+      "client_msg_id": "510a93df-b187-4b2d-af5c-28e9871a7324",
+      "text": "<https://98.gigafile.nu/0523-kfefc61eb46a09c694aba08fcdce7f2ba>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://98.gigafile.nu/0523-kfefc61eb46a09c694aba08fcdce7f2ba",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://98.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://98.gigafile.nu/0523-kfefc61eb46a09c694aba08fcdce7f2ba",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://98.gigafile.nu/0523-kfefc61eb46a09c694aba08fcdce7f2ba",
+          "service_name": "98.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "zxmf1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://98.gigafile.nu/0523-kfefc61eb46a09c694aba08fcdce7f2ba"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1770900259.775679",
+      "client_msg_id": "6fa9a3e8-00c6-4a6c-93b8-8f3b9e5e2f0f",
+      "text": "<https://121.gigafile.nu/0523-ne0f9900eb73ace1b43bfb8e4d96f91a5>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://121.gigafile.nu/0523-ne0f9900eb73ace1b43bfb8e4d96f91a5",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://121.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://121.gigafile.nu/0523-ne0f9900eb73ace1b43bfb8e4d96f91a5",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://121.gigafile.nu/0523-ne0f9900eb73ace1b43bfb8e4d96f91a5",
+          "service_name": "121.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "HJuU6",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://121.gigafile.nu/0523-ne0f9900eb73ace1b43bfb8e4d96f91a5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1770900682.090779",
+      "client_msg_id": "422f1234-29b4-4cf1-bc3d-b6dc69407101",
+      "text": "<https://121.gigafile.nu/0523-w40437a02d5cbebba090b8e13e74cd964>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://121.gigafile.nu/0523-w40437a02d5cbebba090b8e13e74cd964",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://121.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://121.gigafile.nu/0523-w40437a02d5cbebba090b8e13e74cd964",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://121.gigafile.nu/0523-w40437a02d5cbebba090b8e13e74cd964",
+          "service_name": "121.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "qhztu",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://121.gigafile.nu/0523-w40437a02d5cbebba090b8e13e74cd964"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1771218025.344359",
+      "client_msg_id": "c3b775c7-8a53-4f53-9470-e6c0eacf5e3f",
+      "text": "<https://25.gigafile.nu/0527-n5a56c4e23c19de09a7e500e3f71e0ab1>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://25.gigafile.nu/0527-n5a56c4e23c19de09a7e500e3f71e0ab1",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://25.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://25.gigafile.nu/0527-n5a56c4e23c19de09a7e500e3f71e0ab1",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://25.gigafile.nu/0527-n5a56c4e23c19de09a7e500e3f71e0ab1",
+          "service_name": "25.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "V+o5d",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://25.gigafile.nu/0527-n5a56c4e23c19de09a7e500e3f71e0ab1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010HFUC9V4",
+      "type": "message",
+      "ts": "1771319653.826459",
+      "client_msg_id": "3e68a6bd-dc2c-4d1d-81b6-32723ce8c0ce",
+      "text": "<https://89.gigafile.nu/0528-kf5b9411d2428113e741cec1150a825c5>",
+      "team": "T010EJAAP7W",
+      "attachments": [
+        {
+          "from_url": "https://89.gigafile.nu/0528-kf5b9411d2428113e741cec1150a825c5",
+          "thumb_url": "https://src.gigafile.nu/images/og_new_200_60.png",
+          "thumb_width": 250,
+          "thumb_height": 250,
+          "service_icon": "https://89.gigafile.nu/favicon.ico",
+          "id": 1,
+          "original_url": "https://89.gigafile.nu/0528-kf5b9411d2428113e741cec1150a825c5",
+          "fallback": "GigaFile（ギガファイル）便",
+          "text": "無料大容量 ファイル転送サービス GigaFile（ギガファイル）便！「３日～１００日」選べる７種類のファイルの保持期限に加え、１ファイル300Gまでアップロード、共有可能！もちろん容量無制限でアンチウイルス装備。会員登録も不要です。",
+          "title": "GigaFile（ギガファイル）便",
+          "title_link": "https://89.gigafile.nu/0528-kf5b9411d2428113e741cec1150a825c5",
+          "service_name": "89.gigafile.nu"
+        }
+      ],
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/7lV7",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "link",
+                  "url": "https://89.gigafile.nu/0528-kf5b9411d2428113e741cec1150a825c5"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

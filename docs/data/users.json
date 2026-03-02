@@ -1,0 +1,458 @@
+{
+  "USLACKBOT": {
+    "name": "Slackbot",
+    "display_name": "Slackbot",
+    "avatar": "https://a.slack-edge.com/80588/img/slackbot_48.png",
+    "is_bot": false
+  },
+  "U0102DZMDJN": {
+    "name": "Ryo",
+    "display_name": "sato.ryo",
+    "avatar": "https://avatars.slack-edge.com/2020-03-21/1003887899299_996cfb3ebace9149fab1_48.png",
+    "is_bot": false
+  },
+  "U010F29ALBS": {
+    "name": "かなた",
+    "display_name": "かなた",
+    "avatar": "https://avatars.slack-edge.com/2020-03-21/1003615399011_e3b0ae1c8baf623e0715_48.png",
+    "is_bot": false
+  },
+  "U010HFUC9V4": {
+    "name": "SHONO",
+    "display_name": "SHONO(Studio Kanata)",
+    "avatar": "https://avatars.slack-edge.com/2021-04-07/1921468299543_82474cccb441b2018467_48.png",
+    "is_bot": false
+  },
+  "U0291LK8FN2": {
+    "name": "27daichi524",
+    "display_name": "27daichi524",
+    "avatar": "https://avatars.slack-edge.com/2021-07-27/2340018047968_49ee3831b1194dd36256_48.png",
+    "is_bot": false
+  },
+  "U02974EEPQ9": {
+    "name": "yonghuixiaoma",
+    "display_name": "yonghuixiaoma",
+    "avatar": "https://secure.gravatar.com/avatar/6aef9148345889ba19a3cef5f80c9911.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0001-48.png",
+    "is_bot": false
+  },
+  "U0298LW0XL1": {
+    "name": "524.yusuke",
+    "display_name": "524.yusuke",
+    "avatar": "https://avatars.slack-edge.com/2021-08-27/2447978587504_0352da36f5274a567248_48.png",
+    "is_bot": false
+  },
+  "U029DL2EF2L": {
+    "name": "8615kaede",
+    "display_name": "かえで",
+    "avatar": "https://secure.gravatar.com/avatar/1ec33c0072fdf6f20beff294120f4178.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0012-48.png",
+    "is_bot": false
+  },
+  "U029U1DCJ80": {
+    "name": "Akari N",
+    "display_name": "Akari N",
+    "avatar": "https://avatars.slack-edge.com/2021-07-25/2304107211382_e956a062e399528437c1_48.png",
+    "is_bot": false
+  },
+  "U029XUFLAQN": {
+    "name": "kiita101812",
+    "display_name": "kiita101812",
+    "avatar": "https://avatars.slack-edge.com/2021-08-04/2357362034513_18d630e1f7b68be167ca_48.png",
+    "is_bot": false
+  },
+  "U02A4P459NX": {
+    "name": "suteacountdesugananik",
+    "display_name": "suteacountdesugananik",
+    "avatar": "https://secure.gravatar.com/avatar/eb70887a1264eb37fa24ef134118c67d.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-48.png",
+    "is_bot": false
+  },
+  "U02AQ9XA1NG": {
+    "name": "kumw17ry",
+    "display_name": "kumw17ry",
+    "avatar": "https://secure.gravatar.com/avatar/60a61c32847340823b7dd92281dd1e87.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-48.png",
+    "is_bot": false
+  },
+  "U02BHPHQYET": {
+    "name": "Google Drive",
+    "display_name": "googledrive",
+    "avatar": "https://avatars.slack-edge.com/2024-05-03/7067147213923_8881f2e3dbf9ace45ef8_48.png",
+    "is_bot": true
+  },
+  "U02LB0GC953": {
+    "name": "y.kojima1031",
+    "display_name": "Yo_Koji",
+    "avatar": "https://secure.gravatar.com/avatar/21f72b6833585c850e74998eac3e21aa.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-48.png",
+    "is_bot": false
+  },
+  "U02UZ1C81BP": {
+    "name": "satou.m377",
+    "display_name": "satou.m377",
+    "avatar": "https://secure.gravatar.com/avatar/c6296be66d16fc3652d3041c054365de.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+    "is_bot": false
+  },
+  "U02V68DLSVB": {
+    "name": "oza.ki32",
+    "display_name": "ozaki megumi",
+    "avatar": "https://avatars.slack-edge.com/2022-01-24/2988560918422_55b5b9da044a8086ec54_48.png",
+    "is_bot": false
+  },
+  "U02VB2ACAAX": {
+    "name": "daioh0723",
+    "display_name": "Dai",
+    "avatar": "https://secure.gravatar.com/avatar/860e7184adf92e6dae57245768de1f5f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0006-48.png",
+    "is_bot": false
+  },
+  "U030M10K9RU": {
+    "name": "rikito1544",
+    "display_name": "りきと",
+    "avatar": "https://avatars.slack-edge.com/2022-01-30/3030573978308_d21d3a9a94493aa00f18_48.png",
+    "is_bot": false
+  },
+  "U036E2Q7AJ2": {
+    "name": "登坂颯斗",
+    "display_name": "登坂颯斗",
+    "avatar": "https://avatars.slack-edge.com/2022-03-10/3237349669073_cb0e4120df2d33bbb856_48.png",
+    "is_bot": false
+  },
+  "U038CDPS7N3": {
+    "name": "kit.yoiyoi",
+    "display_name": "kit.yoiyoi",
+    "avatar": "https://avatars.slack-edge.com/2022-03-26/3292436553174_f0731de19f95bb3e3124_48.png",
+    "is_bot": false
+  },
+  "U039C8Q4UQY": {
+    "name": "kit.yoiyo",
+    "display_name": "kit.yoiyo",
+    "avatar": "https://secure.gravatar.com/avatar/3b7f03f98e8ef7ad5a8771ae712b8d3f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0013-48.png",
+    "is_bot": false
+  },
+  "U03BLUBM2KA": {
+    "name": "ゆうと",
+    "display_name": "ゆうと",
+    "avatar": "https://avatars.slack-edge.com/2022-08-19/3959660016213_ccbb2c88abb9c143c04a_48.png",
+    "is_bot": false
+  },
+  "U03EH4PG4SW": {
+    "name": "1926shoheimusashi",
+    "display_name": "むさし",
+    "avatar": "https://avatars.slack-edge.com/2022-05-08/3491230736469_4e79d1a9eb86a1ba7570_48.jpg",
+    "is_bot": false
+  },
+  "U03HP5JQUSH": {
+    "name": "Hiroki Omotegi",
+    "display_name": "表木 寛生",
+    "avatar": "https://avatars.slack-edge.com/2022-05-31/3616773739937_8ac392f4d43767326e52_48.jpg",
+    "is_bot": false
+  },
+  "U03MH5YL0SH": {
+    "name": "mywroks001",
+    "display_name": "k tak",
+    "avatar": "https://avatars.slack-edge.com/2022-06-28/3757887861904_021eb5cd2e072553bce4_48.png",
+    "is_bot": false
+  },
+  "U03N0M8TML5": {
+    "name": "moditoroom.11",
+    "display_name": "福留友希",
+    "avatar": "https://avatars.slack-edge.com/2022-07-02/3754054411476_47c3135e8a272862f14b_48.jpg",
+    "is_bot": false
+  },
+  "U03RFV0DUJ2": {
+    "name": "keita.yuki0502",
+    "display_name": "けった",
+    "avatar": "https://avatars.slack-edge.com/2022-07-30/3872533739155_e42ccd41ca258501f71d_48.png",
+    "is_bot": false
+  },
+  "U03SCAQKSQH": {
+    "name": "caracal042",
+    "display_name": "古謝拓磨",
+    "avatar": "https://avatars.slack-edge.com/2022-08-03/3887046025827_fb9b939dd069aaa84056_48.jpg",
+    "is_bot": false
+  },
+  "U03SGS84517": {
+    "name": "秋元玲来",
+    "display_name": "kinoko324www",
+    "avatar": "https://avatars.slack-edge.com/2022-08-03/3885451790453_6fedd2c67637e76ffe7f_48.png",
+    "is_bot": false
+  },
+  "U03VA0SEGDC": {
+    "name": "conotame.movie",
+    "display_name": "山元",
+    "avatar": "https://avatars.slack-edge.com/2022-08-29/4002645352610_bfe6376f6da049686ee8_48.jpg",
+    "is_bot": false
+  },
+  "U0400DQAA6N": {
+    "name": "goldrush0216",
+    "display_name": "石橋優輝(ばっしー)",
+    "avatar": "https://avatars.slack-edge.com/2022-08-27/4000427127587_2834fcae6bc9d73aa675_48.jpg",
+    "is_bot": false
+  },
+  "U04056RA1C5": {
+    "name": "muuvie.muu",
+    "display_name": "muuvie.muu",
+    "avatar": "https://avatars.slack-edge.com/2022-08-30/4005261434597_20aeaeda3f21548edab0_48.png",
+    "is_bot": false
+  },
+  "U041H6T1EJK": {
+    "name": "kenjimon0223",
+    "display_name": "kenjimon0223",
+    "avatar": "https://avatars.slack-edge.com/2022-09-12/4051239369623_1226ab11aa6dcb4c52d7_48.jpg",
+    "is_bot": false
+  },
+  "U043ZDNEN6N": {
+    "name": "shotakeda.douga",
+    "display_name": "武田翔",
+    "avatar": "https://avatars.slack-edge.com/2022-09-27/4121440184663_194e120720bb99df931e_48.jpg",
+    "is_bot": false
+  },
+  "U046MDN86V6": {
+    "name": "rmori726",
+    "display_name": "森 亮太",
+    "avatar": "https://avatars.slack-edge.com/2022-10-10/4195202755190_736df9ba03513cdc7ebc_48.jpg",
+    "is_bot": false
+  },
+  "U04D3CH4ZRA": {
+    "name": "岩田周平",
+    "display_name": "iwata.shuuu",
+    "avatar": "https://avatars.slack-edge.com/2022-12-03/4464810205924_c64264bd8811f284b0a7_48.png",
+    "is_bot": false
+  },
+  "U04ESP92JF2": {
+    "name": "杉原隆起",
+    "display_name": "ryuki109691019",
+    "avatar": "https://avatars.slack-edge.com/2022-12-07/4502814618608_a0e7c24c1296dbc4e83e_48.png",
+    "is_bot": false
+  },
+  "U04FG5S263A": {
+    "name": "humaken0211",
+    "display_name": "勇気",
+    "avatar": "https://avatars.slack-edge.com/2022-12-12/4502440270419_f93d5989eabdbc617db6_48.png",
+    "is_bot": false
+  },
+  "U04JGMWC20L": {
+    "name": "玉井　徳孝",
+    "display_name": "たまい",
+    "avatar": "https://secure.gravatar.com/avatar/06664f6872dbd3d7aa5975a15d1d9d07.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0025-48.png",
+    "is_bot": false
+  },
+  "U04JLP2LUSU": {
+    "name": "h204045z",
+    "display_name": "h204045z",
+    "avatar": "https://secure.gravatar.com/avatar/17b4f945ef5a349d4e0f317a0c81ddc1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-48.png",
+    "is_bot": false
+  },
+  "U04MRT3DP16": {
+    "name": "横山",
+    "display_name": "maki.maxie",
+    "avatar": "https://avatars.slack-edge.com/2023-01-30/4739965909264_b9b6f8480d2119cba578_48.png",
+    "is_bot": false
+  },
+  "U04MZMWD093": {
+    "name": "荻野史太",
+    "display_name": "荻野史太",
+    "avatar": "https://avatars.slack-edge.com/2023-02-04/4753242591236_db53314e46e799302d95_48.jpg",
+    "is_bot": false
+  },
+  "U04N8NM9R4H": {
+    "name": "岡亮汰",
+    "display_name": "oryosub",
+    "avatar": "https://avatars.slack-edge.com/2023-02-03/4744252075986_e7b9376503b345ebf4ed_48.jpg",
+    "is_bot": false
+  },
+  "U04RNV7AYEM": {
+    "name": "斎藤　徳義",
+    "display_name": "tokuyoshi45232000",
+    "avatar": "https://avatars.slack-edge.com/2023-02-26/4873011072577_ba452f073dc964d07457_48.jpg",
+    "is_bot": false
+  },
+  "U04RS48CUR1": {
+    "name": "mari.tam.tam76",
+    "display_name": "mari.tam.tam76",
+    "avatar": "https://avatars.slack-edge.com/2023-03-01/4888924895457_6f774647f297c089de89_48.png",
+    "is_bot": false
+  },
+  "U0507HJNZ9D": {
+    "name": "kazupera",
+    "display_name": "cgkazu78",
+    "avatar": "https://avatars.slack-edge.com/2023-03-29/5048756111712_52825342cfb5efb1265f_48.png",
+    "is_bot": false
+  },
+  "U0510J1BJ81": {
+    "name": "奥村柚月",
+    "display_name": "奥村柚月",
+    "avatar": "https://avatars.slack-edge.com/2023-03-28/5045724993152_dcd4ad711e89293f63c6_48.jpg",
+    "is_bot": false
+  },
+  "U052D53CJPJ": {
+    "name": "水島一樹",
+    "display_name": "mizukazu1213",
+    "avatar": "https://avatars.slack-edge.com/2023-04-04/5060012929572_020189d528b7e7ede47b_48.png",
+    "is_bot": false
+  },
+  "U05G0BW962J": {
+    "name": "伊藤陽一",
+    "display_name": "伊藤陽一",
+    "avatar": "https://avatars.slack-edge.com/2023-07-10/5551083408594_65f437671d0ad55f6809_48.jpg",
+    "is_bot": false
+  },
+  "U05HLSFFXNV": {
+    "name": "DataExport",
+    "display_name": "dataexport",
+    "avatar": "https://secure.gravatar.com/avatar/5860154531c2200b0ba312ee86342cdc.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0022-48.png",
+    "is_bot": true
+  },
+  "U05JJGDP2GP": {
+    "name": "中井　翔",
+    "display_name": "中井　翔",
+    "avatar": "https://avatars.slack-edge.com/2023-07-27/5638490588646_1595ef6ae1c7d78e79e6_48.png",
+    "is_bot": false
+  },
+  "U05NK0AACJZ": {
+    "name": "長谷川莉杏",
+    "display_name": "rian.movie.etc",
+    "avatar": "https://avatars.slack-edge.com/2023-08-20/5793674153600_c161b841bfda00ecca34_48.png",
+    "is_bot": false
+  },
+  "U05PAV0NHCZ": {
+    "name": "お題メーカー",
+    "display_name": "youtubeuproad",
+    "avatar": "https://secure.gravatar.com/avatar/bf1a25931799d5f4d8845f9ff39ea6c8.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+    "is_bot": true
+  },
+  "U05QJRWJ1MH": {
+    "name": "graph830.0216",
+    "display_name": "ばっしー(石橋)",
+    "avatar": "https://avatars.slack-edge.com/2023-09-02/5825418822679_cdeab3eeb94f6d0f0ddc_48.png",
+    "is_bot": false
+  },
+  "U05RZA2ALJ0": {
+    "name": "岸田拓也",
+    "display_name": "takuyavx0715",
+    "avatar": "https://avatars.slack-edge.com/2023-09-12/5881015854274_10e2373067438fda980e_48.png",
+    "is_bot": false
+  },
+  "U062Y6NL03Z": {
+    "name": "村上 怜央",
+    "display_name": "leohomerun",
+    "avatar": "https://secure.gravatar.com/avatar/ab5a5f2c4e6a8f9c0e78ae6b2e38192b.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0005-48.png",
+    "is_bot": false
+  },
+  "U06BGLQ29QU": {
+    "name": "土居野潤",
+    "display_name": "どいのじゅん",
+    "avatar": "https://avatars.slack-edge.com/2023-12-23/6385635682837_eba85e7bebc271e7d378_48.png",
+    "is_bot": false
+  },
+  "U0747R2MQT0": {
+    "name": "Yusuke Ono",
+    "display_name": "yusuke.o",
+    "avatar": "https://secure.gravatar.com/avatar/aa4c7d6ee99ccd3a067369968385d27a.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-48.png",
+    "is_bot": false
+  },
+  "U07H80HFDRQ": {
+    "name": "井上健太",
+    "display_name": "井上健太",
+    "avatar": "https://secure.gravatar.com/avatar/fc66e6c797086aa74c5a975b25d3a0e7.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+    "is_bot": false
+  },
+  "U07K1LRQ3NK": {
+    "name": "内藤(GRIT GROUP)",
+    "display_name": "内藤(GRIT GROUP)",
+    "avatar": "https://secure.gravatar.com/avatar/83f2de85fcddc8a3274a9b55c31af49f.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0020-48.png",
+    "is_bot": false
+  },
+  "U07KUTD6A73": {
+    "name": "岡田(GRIT GROUP)",
+    "display_name": "岡田(GRIT GROUP)",
+    "avatar": "https://avatars.slack-edge.com/2025-03-31/8678975587941_e247e7b15bbb511610a0_48.png",
+    "is_bot": false
+  },
+  "U07SJQ66KBJ": {
+    "name": "藤木太賀 GRIT GROUP",
+    "display_name": "藤木太賀 GRITGROUP",
+    "avatar": "https://secure.gravatar.com/avatar/a20549d70cc329ca2bbc20c25616c150.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0021-48.png",
+    "is_bot": false
+  },
+  "U080FQ80RR9": {
+    "name": "Ryo",
+    "display_name": "Ryo",
+    "avatar": "https://avatars.slack-edge.com/2024-11-12/8013198017781_ddd1c55c82fafbd94243_48.png",
+    "is_bot": false
+  },
+  "U087CE5MA9H": {
+    "name": "鈴木哲晶",
+    "display_name": "ts2321127",
+    "avatar": "https://avatars.slack-edge.com/2025-01-07/8250686980710_6188f950a32d702df5f2_48.png",
+    "is_bot": false
+  },
+  "U087R1RC273": {
+    "name": "鈴木哲晶",
+    "display_name": "鈴木哲晶",
+    "avatar": "https://secure.gravatar.com/avatar/8c3f85a436c7dc30873db8680cb203f7.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+    "is_bot": false
+  },
+  "U08880J5PDG": {
+    "name": "Taisuke Nakamura",
+    "display_name": "Taisuke Nakamura",
+    "avatar": "https://secure.gravatar.com/avatar/06d89cb0cc312d09a1f77f162e0307db.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0003-48.png",
+    "is_bot": false
+  },
+  "U08AF6B4Q3E": {
+    "name": "HubSpot",
+    "display_name": "hubspot",
+    "avatar": "https://avatars.slack-edge.com/2025-01-26/8349857804389_8c3ea3a03703f0a33dc8_48.png",
+    "is_bot": true
+  },
+  "U08KYRZK7SR": {
+    "name": "谷口 圭介 (GRIT GROUP)",
+    "display_name": "谷口 圭介 (GRIT GROUP)",
+    "avatar": "https://avatars.slack-edge.com/2025-03-31/8704544484528_9cab89782598d56fc435_48.png",
+    "is_bot": false
+  },
+  "U08L3QFFHK6": {
+    "name": "戸崎(株)GRIT GROUP",
+    "display_name": "戸崎(株)GRIT GROUP",
+    "avatar": "https://avatars.slack-edge.com/2025-03-31/8683377881235_442e2b54fca1b84d380c_48.png",
+    "is_bot": false
+  },
+  "U08Q6NNFS9E": {
+    "name": "茉奈美",
+    "display_name": "manamio3377",
+    "avatar": "https://avatars.slack-edge.com/2025-04-24/8791742919814_00a1d2dc43ee3637af0a_48.jpg",
+    "is_bot": false
+  },
+  "U096QHP9XL3": {
+    "name": "よしおか れな",
+    "display_name": "reeena4201",
+    "avatar": "https://avatars.slack-edge.com/2025-07-22/9236405110756_713a1df33a3046ae7146_48.png",
+    "is_bot": false
+  },
+  "U0A3N8D768L": {
+    "name": "slack backup",
+    "display_name": "slack_backup",
+    "avatar": "https://secure.gravatar.com/avatar/fdd4d96aa6913cf281f0b395d68f45ab.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0023-48.png",
+    "is_bot": true
+  },
+  "U0AC1BM8JHX": {
+    "name": "後藤",
+    "display_name": "highstahighsta1988",
+    "avatar": "https://secure.gravatar.com/avatar/6225f4d46932c99730edfb20ee1fe165.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-48.png",
+    "is_bot": false
+  },
+  "U0AC24LUNLR": {
+    "name": "三橋亮介",
+    "display_name": "ryosuke3284",
+    "avatar": "https://avatars.slack-edge.com/2026-01-29/10394407227253_1cdbea38ec7aa7fa6603_48.png",
+    "is_bot": false
+  },
+  "U0AC5PD8ULB": {
+    "name": "菊地恭輔",
+    "display_name": "菊地恭輔",
+    "avatar": "https://avatars.slack-edge.com/2026-02-02/10419017251366_cad7403a89c9a45bfd8e_48.png",
+    "is_bot": false
+  },
+  "U0AGMG6JXU6": {
+    "name": "イワモトカンナ",
+    "display_name": "yellow.kan17",
+    "avatar": "https://secure.gravatar.com/avatar/b9bddf58e2c8831841a2be3e5f48eaf1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-48.png",
+    "is_bot": false
+  }
+}
