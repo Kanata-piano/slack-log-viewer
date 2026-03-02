@@ -26,151 +26,44 @@
 --tag-bg: #2c3e5e;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-font-family: 'Lato', sans-serif;
-background: var(--bg);
-color: var(--text);
-height: 100vh;
-display: flex;
-flex-direction: column;
-overflow: hidden;
-}
-#password-screen {
-position: fixed;
-inset: 0;
-background: #0f1014;
-display: flex;
-align-items: center;
-justify-content: center;
-z-index: 9999;
-flex-direction: column;
-}
-.pw-box {
-background: #1a1d21;
-border: 1px solid #333;
-border-radius: 12px;
-padding: 48px 52px;
-width: 420px;
-text-align: center;
-}
+body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text); height: 100vh; display: flex; flex-direction: column; overflow: hidden; }
+#password-screen { position: fixed; inset: 0; background: #0f1014; display: flex; align-items: center; justify-content: center; z-index: 9999; flex-direction: column; }
+.pw-box { background: #1a1d21; border: 1px solid #333; border-radius: 12px; padding: 48px 52px; width: 420px; text-align: center; }
 .pw-logo { font-size: 42px; margin-bottom: 8px; }
 .pw-title { font-size: 22px; font-weight: 900; color: var(--text-bright); margin-bottom: 6px; letter-spacing: -0.5px; }
 .pw-subtitle { font-size: 14px; color: var(--text-muted); margin-bottom: 32px; }
-.pw-input {
-width: 100%;
-padding: 12px 16px;
-background: var(--input-bg);
-border: 1px solid #3d3d3d;
-border-radius: 8px;
-color: var(--text-bright);
-font-size: 16px;
-font-family: 'IBM Plex Mono', monospace;
-outline: none;
-margin-bottom: 16px;
-transition: border-color 0.2s;
-text-align: center;
-letter-spacing: 4px;
-}
+.pw-input { width: 100%; padding: 12px 16px; background: var(--input-bg); border: 1px solid #3d3d3d; border-radius: 8px; color: var(--text-bright); font-size: 16px; font-family: 'IBM Plex Mono', monospace; outline: none; margin-bottom: 16px; transition: border-color 0.2s; text-align: center; letter-spacing: 4px; }
 .pw-input:focus { border-color: var(--accent); }
-.pw-btn {
-width: 100%;
-padding: 12px;
-background: var(--accent);
-color: white;
-border: none;
-border-radius: 8px;
-font-size: 15px;
-font-weight: 700;
-cursor: pointer;
-transition: opacity 0.2s;
-}
+.pw-btn { width: 100%; padding: 12px; background: var(--accent); color: white; border: none; border-radius: 8px; font-size: 15px; font-weight: 700; cursor: pointer; transition: opacity 0.2s; }
 .pw-btn:hover { opacity: 0.88; }
 .pw-error { color: var(--accent2); font-size: 13px; margin-top: 12px; display: none; }
 #app { display: none; height: 100vh; flex-direction: column; }
 #app.visible { display: flex; }
-.workspace-bar {
-background: #0f0c13;
-display: flex;
-align-items: center;
-padding: 0 16px;
-height: 40px;
-border-bottom: 1px solid #2a2a2a;
-gap: 12px;
-flex-shrink: 0;
-}
+.workspace-bar { background: #0f0c13; display: flex; align-items: center; padding: 0 16px; height: 40px; border-bottom: 1px solid #2a2a2a; gap: 12px; flex-shrink: 0; }
 .workspace-name { font-size: 14px; font-weight: 900; color: var(--text-bright); letter-spacing: -0.3px; }
 .workspace-badge { background: var(--green); color: white; font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 10px; }
 .workspace-bar-right { margin-left: auto; display: flex; align-items: center; gap: 8px; }
 .last-updated { font-size: 11px; color: var(--text-muted); font-family: 'IBM Plex Mono', monospace; }
 .main-layout { display: flex; flex: 1; overflow: hidden; }
-.sidebar {
-width: 240px;
-min-width: 200px;
-background: var(--sidebar-bg);
-border-right: 1px solid var(--border);
-display: flex;
-flex-direction: column;
-overflow: hidden;
-flex-shrink: 0;
-}
+.sidebar { width: 240px; min-width: 200px; background: var(--sidebar-bg); border-right: 1px solid var(--border); display: flex; flex-direction: column; overflow: hidden; flex-shrink: 0; }
 .sidebar-section { padding: 20px 12px 8px; }
-.sidebar-section-title {
-font-size: 11px;
-font-weight: 700;
-color: var(--text-muted);
-text-transform: uppercase;
-letter-spacing: 0.8px;
-padding: 0 8px 8px;
-display: flex;
-align-items: center;
-justify-content: space-between;
-}
+.sidebar-section-title { font-size: 11px; font-weight: 700; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.8px; padding: 0 8px 8px; display: flex; align-items: center; justify-content: space-between; }
 .channel-count { font-size: 11px; background: var(--sidebar-active); color: var(--text-muted); padding: 1px 6px; border-radius: 10px; }
 .sidebar-channels { flex: 1; overflow-y: auto; padding: 0 12px 12px; }
 .sidebar-channels::-webkit-scrollbar { width: 4px; }
 .sidebar-channels::-webkit-scrollbar-thumb { background: #333; border-radius: 2px; }
-.channel-item {
-display: flex;
-align-items: center;
-gap: 6px;
-padding: 5px 8px;
-border-radius: 6px;
-cursor: pointer;
-font-size: 14px;
-color: var(--text-muted);
-transition: background 0.1s, color 0.1s;
-white-space: nowrap;
-overflow: hidden;
-text-overflow: ellipsis;
-}
+.channel-item { display: flex; align-items: center; gap: 6px; padding: 5px 8px; border-radius: 6px; cursor: pointer; font-size: 14px; color: var(--text-muted); transition: background 0.1s, color 0.1s; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .channel-item:hover { background: var(--sidebar-hover); color: var(--text); }
 .channel-item.active { background: var(--sidebar-active); color: var(--text-bright); font-weight: 700; }
 .channel-item .ch-icon { font-size: 13px; opacity: 0.6; flex-shrink: 0; }
 .channel-item.active .ch-icon { opacity: 1; }
 .sidebar-search { padding: 12px; border-bottom: 1px solid var(--border); flex-shrink: 0; }
-.search-input {
-width: 100%;
-background: var(--input-bg);
-border: 1px solid transparent;
-border-radius: 6px;
-padding: 6px 10px;
-color: var(--text);
-font-size: 13px;
-outline: none;
-font-family: 'Lato', sans-serif;
-}
+.search-input { width: 100%; background: var(--input-bg); border: 1px solid transparent; border-radius: 6px; padding: 6px 10px; color: var(--text); font-size: 13px; outline: none; font-family: 'Lato', sans-serif; }
 .search-input:focus { border-color: var(--accent); }
 .search-input::placeholder { color: var(--text-muted); }
+.global-search-mode .sidebar-channels { opacity: 0.4; pointer-events: none; }
 .main-content { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
-.channel-header {
-padding: 12px 20px;
-border-bottom: 1px solid var(--border);
-display: flex;
-align-items: center;
-gap: 10px;
-flex-shrink: 0;
-background: var(--main-bg);
-}
+.channel-header { padding: 12px 20px; border-bottom: 1px solid var(--border); display: flex; align-items: center; gap: 10px; flex-shrink: 0; background: var(--main-bg); }
 .channel-header-name { font-size: 16px; font-weight: 900; color: var(--text-bright); letter-spacing: -0.3px; }
 .channel-header-info { font-size: 13px; color: var(--text-muted); margin-left: auto; font-family: 'IBM Plex Mono', monospace; }
 .messages-container { flex: 1; overflow-y: auto; padding: 20px 20px 40px; scroll-behavior: smooth; }
@@ -178,18 +71,15 @@ background: var(--main-bg);
 .messages-container::-webkit-scrollbar-thumb { background: #333; border-radius: 3px; }
 .msg-group { display: flex; gap: 10px; padding: 4px 8px; border-radius: 8px; transition: background 0.1s; margin-bottom: 2px; }
 .msg-group:hover { background: var(--hover-bg); }
-.msg-avatar {
-width: 36px; height: 36px; border-radius: 6px;
-background: linear-gradient(135deg, var(--accent), #6c47ff);
-flex-shrink: 0; display: flex; align-items: center; justify-content: center;
-font-size: 14px; font-weight: 900; color: white; overflow: hidden; margin-top: 2px;
-}
+.msg-avatar { width: 36px; height: 36px; border-radius: 6px; background: linear-gradient(135deg, var(--accent), #6c47ff); flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 14px; font-weight: 900; color: white; overflow: hidden; margin-top: 2px; }
 .msg-avatar img { width: 100%; height: 100%; object-fit: cover; }
 .msg-body { flex: 1; min-width: 0; }
 .msg-header { display: flex; align-items: baseline; gap: 8px; margin-bottom: 2px; }
 .msg-name { font-size: 14px; font-weight: 700; color: var(--text-bright); cursor: pointer; }
 .msg-name:hover { text-decoration: underline; }
 .msg-time { font-size: 11px; color: var(--text-muted); font-family: 'IBM Plex Mono', monospace; }
+.msg-channel-tag { font-size: 11px; background: var(--tag-bg); color: var(--accent); padding: 1px 6px; border-radius: 4px; font-weight: 700; cursor: pointer; }
+.msg-channel-tag:hover { opacity: 0.8; }
 .bot-tag { font-size: 10px; background: var(--tag-bg); color: var(--accent); padding: 1px 5px; border-radius: 3px; font-weight: 700; }
 .msg-text { font-size: 14px; line-height: 1.6; color: var(--text); word-break: break-word; white-space: pre-wrap; }
 .msg-text a { color: var(--accent); text-decoration: none; }
@@ -204,12 +94,7 @@ font-size: 14px; font-weight: 900; color: white; overflow: hidden; margin-top: 2
 .thread-replies.open { display: block; }
 .reply-msg { display: flex; gap: 8px; padding: 3px 6px; border-radius: 6px; transition: background 0.1s; margin-bottom: 1px; }
 .reply-msg:hover { background: var(--hover-bg); }
-.reply-avatar {
-width: 24px; height: 24px; border-radius: 4px;
-background: linear-gradient(135deg, #e01e5a, #6c47ff);
-flex-shrink: 0; display: flex; align-items: center; justify-content: center;
-font-size: 10px; font-weight: 900; color: white; overflow: hidden; margin-top: 2px;
-}
+.reply-avatar { width: 24px; height: 24px; border-radius: 4px; background: linear-gradient(135deg, #e01e5a, #6c47ff); flex-shrink: 0; display: flex; align-items: center; justify-content: center; font-size: 10px; font-weight: 900; color: white; overflow: hidden; margin-top: 2px; }
 .reply-avatar img { width: 100%; height: 100%; object-fit: cover; }
 .reply-body { flex: 1; min-width: 0; }
 .reply-header { display: flex; align-items: baseline; gap: 6px; margin-bottom: 1px; }
@@ -225,20 +110,10 @@ font-size: 10px; font-weight: 900; color: white; overflow: hidden; margin-top: 2
 .empty-state .icon { font-size: 40px; margin-bottom: 12px; }
 .empty-state p { font-size: 14px; }
 .msg-search-bar { padding: 8px 20px; border-bottom: 1px solid var(--border); flex-shrink: 0; }
-.msg-search-input {
-background: var(--input-bg);
-border: 1px solid transparent;
-border-radius: 6px;
-padding: 6px 12px;
-color: var(--text);
-font-size: 13px;
-outline: none;
-font-family: 'Lato', sans-serif;
-width: 320px;
-max-width: 100%;
-}
+.msg-search-input { background: var(--input-bg); border: 1px solid transparent; border-radius: 6px; padding: 6px 12px; color: var(--text); font-size: 13px; outline: none; font-family: 'Lato', sans-serif; width: 320px; max-width: 100%; }
 .msg-search-input:focus { border-color: var(--accent); }
 .msg-search-input::placeholder { color: var(--text-muted); }
+.global-search-status { font-size: 12px; color: var(--text-muted); padding: 4px 20px 0; }
 </style>
 </head>
 <body>
@@ -263,9 +138,9 @@ max-width: 100%;
     </div>
   </div>
   <div class="main-layout">
-    <div class="sidebar">
+    <div class="sidebar" id="sidebar">
       <div class="sidebar-search">
-        <input class="search-input" placeholder="🔍 チャンネルを検索..." id="channel-search" oninput="filterChannels()" />
+        <input class="search-input" placeholder="🔍 全検索..." id="global-search" oninput="onGlobalSearch()" />
       </div>
       <div class="sidebar-section">
         <div class="sidebar-section-title">
@@ -282,8 +157,9 @@ max-width: 100%;
         <span class="channel-header-info" id="channel-header-info"></span>
       </div>
       <div class="msg-search-bar" id="msg-search-bar" style="display:none">
-        <input class="msg-search-input" placeholder="🔍 メッセージを検索..." id="msg-search" oninput="filterMessages()" />
+        <input class="msg-search-input" placeholder="🔍 このチャンネル内を検索..." id="msg-search" oninput="filterMessages()" />
       </div>
+      <div class="global-search-status" id="global-search-status" style="display:none"></div>
       <div class="messages-container" id="messages-container">
         <div class="empty-state">
           <div class="icon">💬</div>
@@ -297,6 +173,9 @@ max-width: 100%;
 <script>
 const PASSWORD_HASH = "";
 let allChannels = {}, allUsers = {}, currentChannel = null, currentMessages = [], allChannelItems = [];
+let allChannelData = {}; // 全チャンネルのメッセージキャッシュ
+let globalSearchTimer = null;
+let isGlobalSearching = false;
 
 async function generateHash(pw) {
   const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(pw));
@@ -369,15 +248,141 @@ function renderChannelList(channels) {
     const icon = meta.is_private ? "🔒" : "#";
     el.innerHTML = `<span class="ch-icon">${icon}</span><span>${escapeHtml(meta.name)}</span>`;
     if (meta.archived) el.style.opacity = "0.5";
-    el.onclick = () => selectChannel(id, meta);
+    el.onclick = () => {
+      document.getElementById("global-search").value = "";
+      exitGlobalSearch();
+      selectChannel(id, meta);
+    };
     list.appendChild(el);
     allChannelItems.push(el);
   }
 }
 
-function filterChannels() {
-  const q = document.getElementById("channel-search").value.toLowerCase();
-  for (const el of allChannelItems) el.style.display = el.dataset.name.toLowerCase().includes(q) ? "" : "none";
+// ===== 全検索 =====
+async function onGlobalSearch() {
+  const q = document.getElementById("global-search").value.trim();
+  clearTimeout(globalSearchTimer);
+  if (!q) {
+    exitGlobalSearch();
+    return;
+  }
+  globalSearchTimer = setTimeout(() => runGlobalSearch(q), 300);
+}
+
+function exitGlobalSearch() {
+  isGlobalSearching = false;
+  document.getElementById("sidebar").classList.remove("global-search-mode");
+  document.getElementById("global-search-status").style.display = "none";
+  // チャンネルリストを全表示に戻す
+  for (const el of allChannelItems) el.style.display = "";
+}
+
+async function runGlobalSearch(q) {
+  isGlobalSearching = true;
+  document.getElementById("sidebar").classList.add("global-search-mode");
+  const statusEl = document.getElementById("global-search-status");
+  statusEl.style.display = "block";
+  statusEl.textContent = "検索中...";
+
+  // 全チャンネルのデータを読み込む（キャッシュ済みのものは再利用）
+  const channelIds = Object.keys(allChannels);
+  await Promise.all(channelIds.map(async id => {
+    if (!allChannelData[id]) {
+      const data = await fetchJSON(`data/${id}.json`);
+      allChannelData[id] = data?.messages || [];
+    }
+  }));
+
+  const ql = q.toLowerCase();
+  const results = []; // { channelId, channelName, msg, matchedReply }
+
+  for (const id of channelIds) {
+    const meta = allChannels[id];
+    const messages = allChannelData[id] || [];
+    for (const msg of messages) {
+      if (msg.subtype === "channel_join" || msg.subtype === "channel_leave") continue;
+      const msgText = (msg.text || "").toLowerCase();
+      const user = allUsers[msg.user];
+      const msgName = (user?.display_name || user?.name || "").toLowerCase();
+      const msgHit = msgText.includes(ql) || msgName.includes(ql);
+
+      // スレッド返信の検索
+      const replies = msg.replies_data || [];
+      const matchedReplies = replies.filter(r => {
+        const rt = (r.text || "").toLowerCase();
+        const ru = allUsers[r.user];
+        const rn = (ru?.display_name || ru?.name || "").toLowerCase();
+        return rt.includes(ql) || rn.includes(ql);
+      });
+
+      if (msgHit || matchedReplies.length > 0) {
+        results.push({ channelId: id, channelName: meta.name, msg, matchedReplies, msgHit });
+      }
+    }
+  }
+
+  // 現在の検索クエリと一致するか確認（非同期の間に変わった場合に備える）
+  if (document.getElementById("global-search").value.trim() !== q) return;
+
+  statusEl.textContent = `全チャンネル検索: ${results.length} 件ヒット`;
+
+  // メインエリアに結果を表示
+  document.getElementById("channel-header").style.display = "flex";
+  document.getElementById("channel-header-name").textContent = `全検索: "${q}"`;
+  document.getElementById("channel-header-info").textContent = `${results.length} 件`;
+  document.getElementById("msg-search-bar").style.display = "none";
+
+  renderGlobalResults(results, ql);
+}
+
+function renderGlobalResults(results, ql) {
+  const container = document.getElementById("messages-container");
+  container.innerHTML = "";
+
+  if (results.length === 0) {
+    container.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>該当するメッセージが見つかりませんでした</p></div>';
+    return;
+  }
+
+  let lastChannel = null;
+  for (const { channelId, channelName, msg, matchedReplies, msgHit } of results) {
+    if (channelName !== lastChannel) {
+      const divider = document.createElement("div");
+      divider.className = "date-divider";
+      divider.textContent = "# " + channelName;
+      container.appendChild(divider);
+      lastChannel = channelName;
+    }
+    const group = buildMsgGroupEl(msg, { showChannelTag: false, openReplies: matchedReplies.length > 0, highlightReplies: matchedReplies });
+    container.appendChild(group);
+  }
+  container.scrollTop = 0;
+}
+
+// ===== チャンネル内検索 =====
+function filterMessages() {
+  const q = document.getElementById("msg-search").value.toLowerCase().trim();
+  if (!q) { renderMessages(currentMessages); return; }
+
+  // 親メッセージまたはスレッド返信がヒットするものを抽出
+  const filtered = currentMessages.filter(m => {
+    if (m.subtype === "channel_join" || m.subtype === "channel_leave") return false;
+    const text = (m.text || "").toLowerCase();
+    const user = allUsers[m.user];
+    const name = (user?.display_name || user?.name || "").toLowerCase();
+    if (text.includes(q) || name.includes(q)) return true;
+    // スレッド返信も検索
+    const replies = m.replies_data || [];
+    return replies.some(r => {
+      const rt = (r.text || "").toLowerCase();
+      const ru = allUsers[r.user];
+      const rn = (ru?.display_name || ru?.name || "").toLowerCase();
+      return rt.includes(q) || rn.includes(q);
+    });
+  });
+
+  // ヒットした返信があるメッセージはスレッドを自動展開してレンダリング
+  renderMessages(filtered, q);
 }
 
 async function selectChannel(id, meta) {
@@ -387,22 +392,30 @@ async function selectChannel(id, meta) {
   currentChannel = id;
   document.getElementById("channel-header").style.display = "flex";
   document.getElementById("msg-search-bar").style.display = "block";
+  document.getElementById("global-search-status").style.display = "none";
   document.getElementById("channel-header-name").textContent = meta.name;
   document.getElementById("channel-header-info").textContent = "読み込み中...";
   document.getElementById("msg-search").value = "";
   document.getElementById("messages-container").innerHTML = '<div class="loading"><div class="spinner"></div>メッセージを読み込んでいます...</div>';
-  const data = await fetchJSON(`data/${id}.json`);
-  if (!data || !data.messages?.length) {
+
+  // キャッシュがあれば使う
+  if (!allChannelData[id]) {
+    const data = await fetchJSON(`data/${id}.json`);
+    allChannelData[id] = data?.messages || [];
+  }
+  const messages = allChannelData[id];
+
+  if (!messages.length) {
     document.getElementById("messages-container").innerHTML = '<div class="empty-state"><div class="icon">📝</div><p>メッセージがありません</p></div>';
     document.getElementById("channel-header-info").textContent = "0 件";
     return;
   }
-  currentMessages = data.messages;
+  currentMessages = messages;
   document.getElementById("channel-header-info").textContent = `${currentMessages.length.toLocaleString()} 件のメッセージ`;
   renderMessages(currentMessages);
 }
 
-function renderMessages(messages) {
+function renderMessages(messages, highlightQuery) {
   const container = document.getElementById("messages-container");
   container.innerHTML = "";
   let lastDate = null;
@@ -417,20 +430,48 @@ function renderMessages(messages) {
       container.appendChild(divider);
       lastDate = dateStr;
     }
-    const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: !!msg.bot_id };
-    const name = user.display_name || user.name || "不明";
-    const avatarContent = user.avatar
-      ? `<img src="${escapeHtml(user.avatar)}" alt="${escapeHtml(name)}" onerror="this.style.display='none'">`
-      : name.charAt(0).toUpperCase();
-    const timeStr = date.toLocaleTimeString("ja-JP", {hour:"2-digit",minute:"2-digit"});
-    const text = formatText(msg.text || "");
-    const replies = msg.replies_data || [], replyCount = replies.length;
-    const group = document.createElement("div");
-    group.className = "msg-group";
-    group.innerHTML = `<div class="msg-avatar">${avatarContent}</div><div class="msg-body"><div class="msg-header"><span class="msg-name">${escapeHtml(name)}</span>${user.is_bot ? '<span class="bot-tag">BOT</span>' : ''}<span class="msg-time">${timeStr}</span></div><div class="msg-text">${text}</div>${replyCount > 0 ? `<button class="thread-toggle" onclick="toggleThread(this)">💬 <span class="reply-count">${replyCount}</span> 件の返信</button><div class="thread-replies">${replies.map(r => renderReply(r)).join("")}</div>` : ""}</div>`;
+    // スレッド返信にヒットがあるか確認
+    let matchedReplies = [];
+    if (highlightQuery) {
+      const q = highlightQuery.toLowerCase();
+      matchedReplies = (msg.replies_data || []).filter(r => {
+        const rt = (r.text || "").toLowerCase();
+        const ru = allUsers[r.user];
+        const rn = (ru?.display_name || ru?.name || "").toLowerCase();
+        return rt.includes(q) || rn.includes(q);
+      });
+    }
+    const group = buildMsgGroupEl(msg, { openReplies: matchedReplies.length > 0 });
     container.appendChild(group);
   }
   container.scrollTop = container.scrollHeight;
+}
+
+function buildMsgGroupEl(msg, opts = {}) {
+  const { openReplies = false } = opts;
+  const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: !!msg.bot_id };
+  const name = user.display_name || user.name || "不明";
+  const avatarContent = user.avatar
+    ? `<img src="${escapeHtml(user.avatar)}" alt="${escapeHtml(name)}" onerror="this.style.display='none'">`
+    : name.charAt(0).toUpperCase();
+  const ts = parseFloat(msg.ts || 0), date = new Date(ts * 1000);
+  const timeStr = date.toLocaleTimeString("ja-JP", {hour:"2-digit",minute:"2-digit"});
+  const text = formatText(msg.text || "");
+  const replies = msg.replies_data || [];
+  const replyCount = replies.length;
+
+  const group = document.createElement("div");
+  group.className = "msg-group";
+
+  let repliesHtml = "";
+  if (replyCount > 0) {
+    const openClass = openReplies ? " open" : "";
+    const icon = openReplies ? "📜" : "💬";
+    repliesHtml = `<button class="thread-toggle" onclick="toggleThread(this)">${icon} <span class="reply-count">${replyCount}</span> 件の返信</button><div class="thread-replies${openClass}">${replies.map(r => renderReply(r)).join("")}</div>`;
+  }
+
+  group.innerHTML = `<div class="msg-avatar">${avatarContent}</div><div class="msg-body"><div class="msg-header"><span class="msg-name">${escapeHtml(name)}</span>${user.is_bot ? '<span class="bot-tag">BOT</span>' : ''}<span class="msg-time">${timeStr}</span></div><div class="msg-text">${text}</div>${repliesHtml}</div>`;
+  return group;
 }
 
 function renderReply(msg) {
@@ -449,17 +490,6 @@ function toggleThread(btn) {
   replies.classList.toggle("open");
   const isOpen = replies.classList.contains("open"), count = btn.querySelector(".reply-count").textContent;
   btn.innerHTML = `${isOpen ? "📜" : "💬"} <span class="reply-count">${count}</span> 件の返信`;
-}
-
-function filterMessages() {
-  const q = document.getElementById("msg-search").value.toLowerCase().trim();
-  if (!q) { renderMessages(currentMessages); return; }
-  const filtered = currentMessages.filter(m => {
-    const text = (m.text || "").toLowerCase(), user = allUsers[m.user];
-    const name = (user?.display_name || user?.name || "").toLowerCase();
-    return text.includes(q) || name.includes(q);
-  });
-  renderMessages(filtered);
 }
 
 function escapeHtml(str) {
