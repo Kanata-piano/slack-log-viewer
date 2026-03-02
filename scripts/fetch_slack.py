@@ -2,8 +2,10 @@
 """
 Slack Log Fetcher
 - 全チャンネルのメッセージ＋スレッド返信を取得
+- リアクション取得対応
+- カスタム絵文字画像をダウンロード・保存
 - レート制限対策済み
-- 差分取得（前回取得済みのものはスキップ）
+- 差分取得
 """
 
 import os
@@ -15,12 +17,12 @@ from pathlib import Path
 
 SLACK_TOKEN = os.environ["SLACK_BOT_TOKEN"]
 DATA_DIR = Path("docs/data")
+EMOJI_DIR = Path("docs/emoji")
 STATE_FILE = DATA_DIR / "state.json"
 
 HEADERS = {"Authorization": f"Bearer {SLACK_TOKEN}"}
 
 def slack_get(endpoint, params=None, retry=5):
-    """Slack API GET with rate limit handling"""
     url = f"https://slack.com/api/{endpoint}"
     for attempt in range(retry):
         resp = requests.get(url, headers=HEADERS, params=params or {})
@@ -38,15 +40,10 @@ def slack_get(endpoint, params=None, retry=5):
     return None
 
 def get_all_channels():
-    """全チャンネル一覧取得（パブリック＋プライベート）"""
     channels = []
     cursor = None
     while True:
-        params = {
-            "types": "public_channel,private_channel",
-            "limit": 200,
-            "exclude_archived": False,
-        }
+        params = {"types": "public_channel,private_channel", "limit": 200, "exclude_archived": False}
         if cursor:
             params["cursor"] = cursor
         data = slack_get("conversations.list", params)
@@ -60,7 +57,6 @@ def get_all_channels():
     return channels
 
 def get_channel_messages(channel_id, oldest=None):
-    """チャンネルのメッセージ取得（差分）"""
     messages = []
     cursor = None
     while True:
@@ -80,7 +76,6 @@ def get_channel_messages(channel_id, oldest=None):
     return messages
 
 def get_thread_replies(channel_id, thread_ts):
-    """スレッド返信取得"""
     replies = []
     cursor = None
     while True:
@@ -91,7 +86,6 @@ def get_thread_replies(channel_id, thread_ts):
         if not data:
             break
         msgs = data.get("messages", [])
-        # 最初の要素は親メッセージなのでスキップ
         replies.extend(msgs[1:] if not cursor else msgs)
         if not data.get("has_more"):
             break
@@ -100,7 +94,6 @@ def get_thread_replies(channel_id, thread_ts):
     return replies
 
 def get_users():
-    """ユーザー情報取得"""
     users = {}
     cursor = None
     while True:
@@ -122,6 +115,41 @@ def get_users():
             break
         time.sleep(1)
     return users
+
+def get_and_save_custom_emojis():
+    """カスタム絵文字を取得してダウンロード保存"""
+    data = slack_get("emoji.list")
+    if not data:
+        return {}
+    emojis = data.get("emoji", {})
+    if not emojis:
+        return {}
+
+    EMOJI_DIR.mkdir(parents=True, exist_ok=True)
+    emoji_map = {}
+
+    url_emojis = {k: v for k, v in emojis.items() if not v.startswith("alias:")}
+    alias_emojis = {k: v for k, v in emojis.items() if v.startswith("alias:")}
+
+    for name, url in url_emojis.items():
+        ext = url.split("?")[0].split(".")[-1]
+        if ext not in ("png", "jpg", "jpeg", "gif", "webp"):
+            ext = "png"
+        local_path = EMOJI_DIR / f"{name}.{ext}"
+        if not local_path.exists():
+            try:
+                resp = requests.get(url, headers=HEADERS, timeout=10)
+                if resp.status_code == 200:
+                    local_path.write_bytes(resp.content)
+            except Exception as e:
+                print(f"  Failed to download emoji {name}: {e}")
+        emoji_map[name] = f"emoji/{name}.{ext}"
+
+    for name, alias_str in alias_emojis.items():
+        target = alias_str.replace("alias:", "")
+        emoji_map[name] = emoji_map.get(target)  # Noneならビルトイン絵文字
+
+    return emoji_map
 
 def load_state():
     if STATE_FILE.exists():
@@ -147,13 +175,16 @@ def main():
 
     state = load_state()
 
-    # ユーザー情報取得・保存
     print("Fetching users...")
     users = get_users()
     (DATA_DIR / "users.json").write_text(json.dumps(users, ensure_ascii=False, indent=2))
     print(f"  {len(users)} users fetched")
 
-    # チャンネル一覧取得
+    print("Fetching custom emojis...")
+    emoji_map = get_and_save_custom_emojis()
+    (DATA_DIR / "emoji_map.json").write_text(json.dumps(emoji_map, ensure_ascii=False, indent=2))
+    print(f"  {len(emoji_map)} custom emojis processed")
+
     print("Fetching channels...")
     channels = get_all_channels()
     channel_meta = {c["id"]: {"name": c["name"], "is_private": c.get("is_private", False), "archived": c.get("is_archived", False)} for c in channels}
@@ -176,7 +207,6 @@ def main():
             print(f"  No new messages")
             continue
 
-        # 既存データ読み込み
         existing = load_channel_data(cid)
         existing_ts = {m["ts"] for m in existing["messages"]}
 
@@ -185,24 +215,18 @@ def main():
             ts = msg.get("ts", "")
             if ts in existing_ts:
                 continue
-
-            # スレッド返信取得
             if msg.get("reply_count", 0) > 0:
                 time.sleep(1)
                 replies = get_thread_replies(cid, ts)
                 msg["replies_data"] = replies
-
             new_msgs.append(msg)
             existing_ts.add(ts)
 
         if new_msgs:
             existing["messages"].extend(new_msgs)
-            # タイムスタンプでソート
             existing["messages"].sort(key=lambda m: float(m.get("ts", 0)))
             save_channel_data(cid, existing)
             print(f"  +{len(new_msgs)} new messages")
-
-            # 最新tsを記録
             latest_ts = max(float(m["ts"]) for m in new_msgs)
             state["channels"].setdefault(cid, {})["last_ts"] = str(latest_ts)
         else:
