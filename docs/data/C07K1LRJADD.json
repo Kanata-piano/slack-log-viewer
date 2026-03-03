@@ -18008,6 +18008,98 @@
           ]
         }
       ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772516959.412679",
+      "client_msg_id": "3b1bb6fb-8484-4702-80f8-15c40be0e50d",
+      "text": "<@U08L3QFFHK6> \nお世話になっております！\nサラさんの動画の編集依頼となります。\n今回コラボ動画でして、スウォッチや物撮りは分けて撮影しております。\nお手数ですがご確認のほどよろしくお願いいたします。\n\n▼春のプチプラコスメ（水越さん、小田切さんコラボ）\n<https://drive.google.com/drive/folders/1pyjY2ICnImGGt9E3fj9B8qbN-fi86Oeu?usp=sharing|https://drive.google.com/drive/folders/1pyjY2ICnImGGt9E3fj9B8qbN-fi86Oeu?usp=sharing>\n\n初稿：3/10\n公開：4/4",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772516959.412679",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1772517320.691939",
+      "reply_users": [
+        "U08KYRZK7SR"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "nH0KP",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08L3QFFHK6",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \nお世話になっております！\nサラさんの動画の編集依頼となります。\n今回コラボ動画でして、スウォッチや物撮りは分けて撮影しております。\nお手数ですがご確認のほどよろしくお願いいたします。\n\n▼春のプチプラコスメ（水越さん、小田切さんコラボ）\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1pyjY2ICnImGGt9E3fj9B8qbN-fi86Oeu?usp=sharing",
+                  "text": "https://drive.google.com/drive/folders/1pyjY2ICnImGGt9E3fj9B8qbN-fi86Oeu?usp=sharing",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n初稿：3/10\n公開：4/4"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U08KYRZK7SR",
+          "type": "message",
+          "ts": "1772517320.691939",
+          "client_msg_id": "4542a695-36a5-4510-a490-045d71248fc8",
+          "text": "<@U010F29ALBS>\nご依頼ありがとうございます。\nこちら3/10(火)初稿提出で進行いたします。\nよろしくお願いいたします。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772516959.412679",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "sNqip",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nご依頼ありがとうございます。\nこちら3/10(火)初稿提出で進行いたします。\nよろしくお願いいたします。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "reactions": [
+            {
+              "name": "man-bowing",
+              "users": [
+                "U010F29ALBS"
+              ],
+              "count": 1
+            }
+          ]
+        }
+      ]
     }
   ]
 }

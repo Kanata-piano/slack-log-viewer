@@ -454,5 +454,11 @@
     "display_name": "yellow.kan17",
     "avatar": "https://secure.gravatar.com/avatar/b9bddf58e2c8831841a2be3e5f48eaf1.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0008-48.png",
     "is_bot": false
+  },
+  "U0AJM37HGAV": {
+    "name": "claude Bot",
+    "display_name": "claude_bot",
+    "avatar": "https://secure.gravatar.com/avatar/d5b20701e6535449319aae8fa62ac051.jpg?s=48&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0018-48.png",
+    "is_bot": true
   }
 }

@@ -16724,6 +16724,99 @@
           ]
         }
       ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772507216.962829",
+      "client_msg_id": "8ca3eeed-1f59-4d77-a78e-2068074614a0",
+      "text": "<@U06BGLQ29QU> \nお疲れ様です:bangbang:\n下記編集依頼可能でしょうか？\n\n【企画タイトル】ロンハクサプライズ旅行\n【チャンネル名】おさき日記\n【動画URL】<https://drive.google.com/drive/folders/1Tfh7FDO6Au-n6s63qXygpi8UROdvS2XR|https://drive.google.com/drive/folders/1Tfh7FDO6Au-n6s63qXygpi8UROdvS2XR>\n【編集期限（希望納期）】\n3/5\n【公開予定日】\n3/6",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772507216.962829",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1772550352.250009",
+      "reply_users": [
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "/ScO0",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U06BGLQ29QU",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です"
+                },
+                {
+                  "type": "emoji",
+                  "name": "bangbang",
+                  "unicode": "203c-fe0f"
+                },
+                {
+                  "type": "text",
+                  "text": "\n下記編集依頼可能でしょうか？\n\n【企画タイトル】ロンハクサプライズ旅行\n【チャンネル名】おさき日記\n【動画URL】"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1Tfh7FDO6Au-n6s63qXygpi8UROdvS2XR",
+                  "text": "https://drive.google.com/drive/folders/1Tfh7FDO6Au-n6s63qXygpi8UROdvS2XR",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n【編集期限（希望納期）】\n3/5\n【公開予定日】\n3/6"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772550352.250009",
+          "client_msg_id": "8965f281-5f21-45a2-9b15-11569eafe1c5",
+          "text": "<@U06BGLQ29QU>こちらいかがでしょうか！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772507216.962829",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "0tfVu",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U06BGLQ29QU",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "こちらいかがでしょうか！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
