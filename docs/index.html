@@ -210,11 +210,14 @@ function unlock() {
   init();
 }
 
-(async () => {
-  if (!PASSWORD_HASH) { unlock(); return; }
-  const saved = sessionStorage.getItem("slv_auth");
-  if (saved && saved === PASSWORD_HASH) { unlock(); }
-})();
+if (!PASSWORD_HASH) {
+  unlock();
+} else {
+  (async () => {
+    const saved = sessionStorage.getItem("slv_auth");
+    if (saved && saved === PASSWORD_HASH) { unlock(); }
+  })();
+}
 
 async function fetchJSON(path) {
   try { const r = await fetch(path); if (!r.ok) return null; return await r.json(); } catch { return null; }
