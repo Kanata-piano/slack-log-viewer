@@ -87,7 +87,6 @@ body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text
 .msg-text code { background: #2d2d2d; padding: 1px 5px; border-radius: 3px; font-family: 'IBM Plex Mono', monospace; font-size: 12px; color: #e06c75; }
 .msg-text pre { background: #1e1e1e; border: 1px solid #333; border-radius: 6px; padding: 10px 12px; margin: 4px 0; overflow-x: auto; }
 .msg-text pre code { background: none; padding: 0; color: #abb2bf; font-size: 12px; }
-.hit-word { color: var(--accent2); font-weight: 700; }
 .thread-toggle { display: inline-flex; align-items: center; gap: 5px; margin-top: 5px; font-size: 12px; color: var(--accent); cursor: pointer; padding: 3px 0; border: none; background: none; font-family: 'Lato', sans-serif; }
 .thread-toggle:hover { text-decoration: underline; }
 .thread-toggle .reply-count { font-weight: 700; }
@@ -115,12 +114,11 @@ body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text
 .msg-search-input:focus { border-color: var(--accent); }
 .msg-search-input::placeholder { color: var(--text-muted); }
 .global-search-status { font-size: 12px; color: var(--text-muted); padding: 4px 20px 0; }
-.global-search-status { font-size: 12px; color: var(--text-muted); padding: 4px 20px 0; }
 </style>
 </head>
 <body>
 
-<div id="password-screen" style="display:none">
+<div id="password-screen">
   <div class="pw-box">
     <div class="pw-logo">💬</div>
     <div class="pw-title">Slack Log Viewer</div>
@@ -131,7 +129,7 @@ body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text
   </div>
 </div>
 
-<div id="app" class="visible">
+<div id="app">
   <div class="workspace-bar">
     <span class="workspace-name" id="workspace-name">Slack Logs</span>
     <span class="workspace-badge">archived</span>
@@ -162,7 +160,6 @@ body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text
         <input class="msg-search-input" placeholder="🔍 このチャンネル内を検索..." id="msg-search" oninput="filterMessages()" />
       </div>
       <div class="global-search-status" id="global-search-status" style="display:none"></div>
-      <div class="global-search-status" id="global-search-status" style="display:none"></div>
       <div class="messages-container" id="messages-container">
         <div class="empty-state">
           <div class="icon">💬</div>
@@ -176,8 +173,6 @@ body { font-family: 'Lato', sans-serif; background: var(--bg); color: var(--text
 <script>
 const PASSWORD_HASH = "";
 let allChannels = {}, allUsers = {}, currentChannel = null, currentMessages = [], allChannelItems = [];
-let allChannelData = {};
-let globalSearchTimer = null;
 let allChannelData = {}; // 全チャンネルのメッセージキャッシュ
 let globalSearchTimer = null;
 let isGlobalSearching = false;
@@ -210,26 +205,29 @@ function unlock() {
   init();
 }
 
-if (!PASSWORD_HASH) {
-  unlock();
-} else {
-  (async () => {
-    const saved = sessionStorage.getItem("slv_auth");
-    if (saved && saved === PASSWORD_HASH) { unlock(); }
-  })();
-}
+(async () => {
+  if (!PASSWORD_HASH) { unlock(); return; }
+  const saved = sessionStorage.getItem("slv_auth");
+  if (saved && saved === PASSWORD_HASH) { unlock(); }
+})();
 
 async function fetchJSON(path) {
-  try { const r = await fetch(path); if (!r.ok) return null; return await r.json(); } catch { return null; }
+  try {
+    const r = await fetch(path);
+    if (!r.ok) return null;
+    return await r.json();
+  } catch { return null; }
 }
 
 async function init() {
   const [channels, users, state] = await Promise.all([
-    fetchJSON("data/channels.json"), fetchJSON("data/users.json"), fetchJSON("data/state.json")
+    fetchJSON("data/channels.json"),
+    fetchJSON("data/users.json"),
+    fetchJSON("data/state.json")
   ]);
   allUsers = users || {};
   allChannels = channels || {};
-  if (state && state.last_run) {
+  if (state?.last_run) {
     const d = new Date(state.last_run);
     document.getElementById("last-updated").textContent = "最終更新: " + d.toLocaleString("ja-JP", {month:"numeric",day:"numeric",hour:"2-digit",minute:"2-digit"});
   }
@@ -248,11 +246,11 @@ function renderChannelList(channels) {
     el.dataset.id = id;
     el.dataset.name = meta.name;
     const icon = meta.is_private ? "🔒" : "#";
-    el.innerHTML = '<span class="ch-icon">' + icon + '</span><span>' + escapeHtml(meta.name) + '</span>';
+    el.innerHTML = `<span class="ch-icon">${icon}</span><span>${escapeHtml(meta.name)}</span>`;
     if (meta.archived) el.style.opacity = "0.5";
-    el.onclick = function() {
+    el.onclick = () => {
       document.getElementById("global-search").value = "";
-      document.getElementById("global-search-status").style.display = "none";
+      exitGlobalSearch();
       selectChannel(id, meta);
     };
     list.appendChild(el);
@@ -260,150 +258,170 @@ function renderChannelList(channels) {
   }
 }
 
-function onGlobalSearch() {
+// ===== 全検索 =====
+async function onGlobalSearch() {
   const q = document.getElementById("global-search").value.trim();
   clearTimeout(globalSearchTimer);
   if (!q) {
-    document.getElementById("global-search-status").style.display = "none";
+    exitGlobalSearch();
     return;
   }
-  globalSearchTimer = setTimeout(function() { runGlobalSearch(q); }, 300);
+  globalSearchTimer = setTimeout(() => runGlobalSearch(q), 300);
+}
+
+function exitGlobalSearch() {
+  isGlobalSearching = false;
+  document.getElementById("sidebar").classList.remove("global-search-mode");
+  document.getElementById("global-search-status").style.display = "none";
+  // チャンネルリストを全表示に戻す
+  for (const el of allChannelItems) el.style.display = "";
 }
 
 async function runGlobalSearch(q) {
+  isGlobalSearching = true;
+  document.getElementById("sidebar").classList.add("global-search-mode");
   const statusEl = document.getElementById("global-search-status");
   statusEl.style.display = "block";
   statusEl.textContent = "検索中...";
+
+  // 全チャンネルのデータを読み込む（キャッシュ済みのものは再利用）
   const channelIds = Object.keys(allChannels);
-  await Promise.all(channelIds.map(async function(id) {
+  await Promise.all(channelIds.map(async id => {
     if (!allChannelData[id]) {
-      const data = await fetchJSON("data/" + id + ".json");
-      allChannelData[id] = (data && data.messages) ? data.messages : [];
+      const data = await fetchJSON(`data/${id}.json`);
+      allChannelData[id] = data?.messages || [];
     }
   }));
-  if (document.getElementById("global-search").value.trim() !== q) return;
+
   const ql = q.toLowerCase();
-  const results = [];
+  const results = []; // { channelId, channelName, msg, matchedReply }
+
   for (const id of channelIds) {
     const meta = allChannels[id];
     const messages = allChannelData[id] || [];
     for (const msg of messages) {
       if (msg.subtype === "channel_join" || msg.subtype === "channel_leave") continue;
       const msgText = (msg.text || "").toLowerCase();
-      const msgUser = allUsers[msg.user];
-      const msgName = ((msgUser && (msgUser.display_name || msgUser.name)) || "").toLowerCase();
-      const parentHit = msgText.includes(ql) || msgName.includes(ql);
+      const user = allUsers[msg.user];
+      const msgName = (user?.display_name || user?.name || "").toLowerCase();
+      const msgHit = msgText.includes(ql) || msgName.includes(ql);
+
+      // スレッド返信の検索
       const replies = msg.replies_data || [];
-      const hitReplies = replies.filter(function(r) {
+      const matchedReplies = replies.filter(r => {
         const rt = (r.text || "").toLowerCase();
         const ru = allUsers[r.user];
-        const rn = ((ru && (ru.display_name || ru.name)) || "").toLowerCase();
+        const rn = (ru?.display_name || ru?.name || "").toLowerCase();
         return rt.includes(ql) || rn.includes(ql);
       });
-      if (parentHit) {
-        results.push({ channelName: meta.name, msg: msg, showReplies: [] });
-      } else if (hitReplies.length > 0) {
-        results.push({ channelName: meta.name, msg: msg, showReplies: hitReplies });
+
+      if (msgHit || matchedReplies.length > 0) {
+        results.push({ channelId: id, channelName: meta.name, msg, matchedReplies, msgHit });
       }
     }
   }
-  statusEl.textContent = "全チャンネル検索: " + results.length + " 件ヒット";
+
+  // 現在の検索クエリと一致するか確認（非同期の間に変わった場合に備える）
+  if (document.getElementById("global-search").value.trim() !== q) return;
+
+  statusEl.textContent = `全チャンネル検索: ${results.length} 件ヒット`;
+
+  // メインエリアに結果を表示
   document.getElementById("channel-header").style.display = "flex";
-  document.getElementById("channel-header-name").textContent = '全検索: "' + q + '"';
-  document.getElementById("channel-header-info").textContent = results.length + " 件";
+  document.getElementById("channel-header-name").textContent = `全検索: "${q}"`;
+  document.getElementById("channel-header-info").textContent = `${results.length} 件`;
   document.getElementById("msg-search-bar").style.display = "none";
+
+  renderGlobalResults(results, ql);
+}
+
+function renderGlobalResults(results, ql) {
   const container = document.getElementById("messages-container");
   container.innerHTML = "";
+
   if (results.length === 0) {
     container.innerHTML = '<div class="empty-state"><div class="icon">🔍</div><p>該当するメッセージが見つかりませんでした</p></div>';
     return;
   }
+
   let lastChannel = null;
-  for (const item of results) {
-    if (item.channelName !== lastChannel) {
+  for (const { channelId, channelName, msg, matchedReplies, msgHit } of results) {
+    if (channelName !== lastChannel) {
       const divider = document.createElement("div");
       divider.className = "date-divider";
-      divider.textContent = "# " + item.channelName;
+      divider.textContent = "# " + channelName;
       container.appendChild(divider);
-      lastChannel = item.channelName;
+      lastChannel = channelName;
     }
-    container.appendChild(buildMsgEl(item.msg, ql, item.showReplies));
+    const group = buildMsgGroupEl(msg, { showChannelTag: false, openReplies: matchedReplies.length > 0, highlightReplies: matchedReplies });
+    container.appendChild(group);
   }
   container.scrollTop = 0;
 }
 
+// ===== チャンネル内検索 =====
 function filterMessages() {
   const q = document.getElementById("msg-search").value.toLowerCase().trim();
   if (!q) { renderMessages(currentMessages); return; }
-  const container = document.getElementById("messages-container");
-  container.innerHTML = "";
-  let lastDate = null;
-  let count = 0;
-  for (const msg of currentMessages) {
-    if (msg.subtype === "channel_join" || msg.subtype === "channel_leave") continue;
-    const msgText = (msg.text || "").toLowerCase();
-    const msgUser = allUsers[msg.user];
-    const msgName = ((msgUser && (msgUser.display_name || msgUser.name)) || "").toLowerCase();
-    const parentHit = msgText.includes(q) || msgName.includes(q);
-    const replies = msg.replies_data || [];
-    const hitReplies = replies.filter(function(r) {
+
+  // 親メッセージまたはスレッド返信がヒットするものを抽出
+  const filtered = currentMessages.filter(m => {
+    if (m.subtype === "channel_join" || m.subtype === "channel_leave") return false;
+    const text = (m.text || "").toLowerCase();
+    const user = allUsers[m.user];
+    const name = (user?.display_name || user?.name || "").toLowerCase();
+    if (text.includes(q) || name.includes(q)) return true;
+    // スレッド返信も検索
+    const replies = m.replies_data || [];
+    return replies.some(r => {
       const rt = (r.text || "").toLowerCase();
       const ru = allUsers[r.user];
-      const rn = ((ru && (ru.display_name || ru.name)) || "").toLowerCase();
+      const rn = (ru?.display_name || ru?.name || "").toLowerCase();
       return rt.includes(q) || rn.includes(q);
     });
-    if (!parentHit && hitReplies.length === 0) continue;
-    const ts = parseFloat(msg.ts || 0);
-    const date = new Date(ts * 1000);
-    const dateStr = date.toLocaleDateString("ja-JP", {year:"numeric",month:"long",day:"numeric",weekday:"short"});
-    if (dateStr !== lastDate) {
-      const divider = document.createElement("div");
-      divider.className = "date-divider";
-      divider.textContent = dateStr;
-      container.appendChild(divider);
-      lastDate = dateStr;
-    }
-    const onlyReplies = parentHit ? [] : hitReplies;
-    container.appendChild(buildMsgEl(msg, q, onlyReplies));
-    count++;
-  }
-  document.getElementById("channel-header-info").textContent = count + " 件ヒット";
-  container.scrollTop = 0;
+  });
+
+  // ヒットした返信があるメッセージはスレッドを自動展開してレンダリング
+  renderMessages(filtered, q);
 }
 
 async function selectChannel(id, meta) {
   for (const el of allChannelItems) el.classList.remove("active");
-  const active = document.querySelector('.channel-item[data-id="' + id + '"]');
+  const active = document.querySelector(`.channel-item[data-id="${id}"]`);
   if (active) active.classList.add("active");
   currentChannel = id;
   document.getElementById("channel-header").style.display = "flex";
   document.getElementById("msg-search-bar").style.display = "block";
+  document.getElementById("global-search-status").style.display = "none";
   document.getElementById("channel-header-name").textContent = meta.name;
   document.getElementById("channel-header-info").textContent = "読み込み中...";
   document.getElementById("msg-search").value = "";
   document.getElementById("messages-container").innerHTML = '<div class="loading"><div class="spinner"></div>メッセージを読み込んでいます...</div>';
+
+  // キャッシュがあれば使う
   if (!allChannelData[id]) {
-    const data = await fetchJSON("data/" + id + ".json");
-    allChannelData[id] = (data && data.messages) ? data.messages : [];
+    const data = await fetchJSON(`data/${id}.json`);
+    allChannelData[id] = data?.messages || [];
   }
-  currentMessages = allChannelData[id];
-  if (!currentMessages.length) {
+  const messages = allChannelData[id];
+
+  if (!messages.length) {
     document.getElementById("messages-container").innerHTML = '<div class="empty-state"><div class="icon">📝</div><p>メッセージがありません</p></div>';
     document.getElementById("channel-header-info").textContent = "0 件";
     return;
   }
-  document.getElementById("channel-header-info").textContent = currentMessages.length.toLocaleString() + " 件のメッセージ";
+  currentMessages = messages;
+  document.getElementById("channel-header-info").textContent = `${currentMessages.length.toLocaleString()} 件のメッセージ`;
   renderMessages(currentMessages);
 }
 
-function renderMessages(messages) {
+function renderMessages(messages, highlightQuery) {
   const container = document.getElementById("messages-container");
   container.innerHTML = "";
   let lastDate = null;
   for (const msg of messages) {
     if (msg.subtype === "channel_join" || msg.subtype === "channel_leave") continue;
-    const ts = parseFloat(msg.ts || 0);
-    const date = new Date(ts * 1000);
+    const ts = parseFloat(msg.ts || 0), date = new Date(ts * 1000);
     const dateStr = date.toLocaleDateString("ja-JP", {year:"numeric",month:"long",day:"numeric",weekday:"short"});
     if (dateStr !== lastDate) {
       const divider = document.createElement("div");
@@ -412,77 +430,66 @@ function renderMessages(messages) {
       container.appendChild(divider);
       lastDate = dateStr;
     }
-    container.appendChild(buildMsgEl(msg, "", null));
+    // スレッド返信にヒットがあるか確認
+    let matchedReplies = [];
+    if (highlightQuery) {
+      const q = highlightQuery.toLowerCase();
+      matchedReplies = (msg.replies_data || []).filter(r => {
+        const rt = (r.text || "").toLowerCase();
+        const ru = allUsers[r.user];
+        const rn = (ru?.display_name || ru?.name || "").toLowerCase();
+        return rt.includes(q) || rn.includes(q);
+      });
+    }
+    const group = buildMsgGroupEl(msg, { openReplies: matchedReplies.length > 0 });
+    container.appendChild(group);
   }
   container.scrollTop = container.scrollHeight;
 }
 
-function buildMsgEl(msg, highlightQuery, onlyReplies) {
+function buildMsgGroupEl(msg, opts = {}) {
+  const { openReplies = false } = opts;
   const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: !!msg.bot_id };
   const name = user.display_name || user.name || "不明";
   const avatarContent = user.avatar
-    ? '<img src="' + escapeHtml(user.avatar) + '" alt="' + escapeHtml(name) + '" onerror="this.style.display=\'none\'">'
+    ? `<img src="${escapeHtml(user.avatar)}" alt="${escapeHtml(name)}" onerror="this.style.display='none'">`
     : name.charAt(0).toUpperCase();
-  const ts = parseFloat(msg.ts || 0);
-  const date = new Date(ts * 1000);
+  const ts = parseFloat(msg.ts || 0), date = new Date(ts * 1000);
   const timeStr = date.toLocaleTimeString("ja-JP", {hour:"2-digit",minute:"2-digit"});
-  const rawText = formatText(msg.text || "");
-  const text = highlightQuery ? highlightText(rawText, highlightQuery) : rawText;
+  const text = formatText(msg.text || "");
+  const replies = msg.replies_data || [];
+  const replyCount = replies.length;
+
   const group = document.createElement("div");
   group.className = "msg-group";
+
   let repliesHtml = "";
-  if (onlyReplies === null) {
-    const replies = msg.replies_data || [];
-    if (replies.length > 0) {
-      repliesHtml = '<button class="thread-toggle" onclick="toggleThread(this)">💬 <span class="reply-count">' + replies.length + '</span> 件の返信</button>'
-        + '<div class="thread-replies">' + replies.map(function(r) { return renderReply(r, ""); }).join("") + '</div>';
-    }
-  } else if (onlyReplies.length === 0) {
-    repliesHtml = "";
-  } else {
-    repliesHtml = '<div class="thread-replies open">' + onlyReplies.map(function(r) { return renderReply(r, highlightQuery); }).join("") + '</div>';
+  if (replyCount > 0) {
+    const openClass = openReplies ? " open" : "";
+    const icon = openReplies ? "📜" : "💬";
+    repliesHtml = `<button class="thread-toggle" onclick="toggleThread(this)">${icon} <span class="reply-count">${replyCount}</span> 件の返信</button><div class="thread-replies${openClass}">${replies.map(r => renderReply(r)).join("")}</div>`;
   }
-  group.innerHTML = '<div class="msg-avatar">' + avatarContent + '</div>'
-    + '<div class="msg-body"><div class="msg-header"><span class="msg-name">' + escapeHtml(name) + '</span>'
-    + (user.is_bot ? '<span class="bot-tag">BOT</span>' : '')
-    + '<span class="msg-time">' + timeStr + '</span></div>'
-    + '<div class="msg-text">' + text + '</div>' + repliesHtml + '</div>';
+
+  group.innerHTML = `<div class="msg-avatar">${avatarContent}</div><div class="msg-body"><div class="msg-header"><span class="msg-name">${escapeHtml(name)}</span>${user.is_bot ? '<span class="bot-tag">BOT</span>' : ''}<span class="msg-time">${timeStr}</span></div><div class="msg-text">${text}</div>${repliesHtml}</div>`;
   return group;
 }
 
-function renderReply(msg, highlightQuery) {
+function renderReply(msg) {
   const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: false };
   const name = user.display_name || user.name || "不明";
   const avatarContent = user.avatar
-    ? '<img src="' + escapeHtml(user.avatar) + '" alt="' + escapeHtml(name) + '" onerror="this.style.display=\'none\'">'
+    ? `<img src="${escapeHtml(user.avatar)}" alt="${escapeHtml(name)}" onerror="this.style.display='none'">`
     : name.charAt(0).toUpperCase();
-  const ts = parseFloat(msg.ts || 0);
-  const date = new Date(ts * 1000);
+  const ts = parseFloat(msg.ts || 0), date = new Date(ts * 1000);
   const timeStr = date.toLocaleTimeString("ja-JP", {hour:"2-digit",minute:"2-digit"});
-  const rawText = formatText(msg.text || "");
-  const text = highlightQuery ? highlightText(rawText, highlightQuery) : rawText;
-  return '<div class="reply-msg"><div class="reply-avatar">' + avatarContent + '</div>'
-    + '<div class="reply-body"><div class="reply-header"><span class="reply-name">' + escapeHtml(name) + '</span>'
-    + '<span class="reply-time">' + timeStr + '</span></div>'
-    + '<div class="reply-text">' + text + '</div></div></div>';
+  return `<div class="reply-msg"><div class="reply-avatar">${avatarContent}</div><div class="reply-body"><div class="reply-header"><span class="reply-name">${escapeHtml(name)}</span><span class="reply-time">${timeStr}</span></div><div class="reply-text">${formatText(msg.text || "")}</div></div></div>`;
 }
 
 function toggleThread(btn) {
   const replies = btn.nextElementSibling;
   replies.classList.toggle("open");
-  const isOpen = replies.classList.contains("open");
-  const count = btn.querySelector(".reply-count").textContent;
-  btn.innerHTML = (isOpen ? "📜" : "💬") + ' <span class="reply-count">' + count + '</span> 件の返信';
-}
-
-function highlightText(html, query) {
-  if (!query) return html;
-  const escaped = query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const regex = new RegExp('(' + escaped + ')', 'gi');
-  return html.replace(/(<[^>]+>)|([^<]+)/g, function(m, tag, txt) {
-    if (tag) return tag;
-    return txt.replace(regex, '<span class="hit-word">$1</span>');
-  });
+  const isOpen = replies.classList.contains("open"), count = btn.querySelector(".reply-count").textContent;
+  btn.innerHTML = `${isOpen ? "📜" : "💬"} <span class="reply-count">${count}</span> 件の返信`;
 }
 
 function escapeHtml(str) {
@@ -497,9 +504,9 @@ function formatText(text) {
   t = t.replace(/_(\S[^_]*)_/g, "<em>$1</em>");
   t = t.replace(/&lt;(https?:\/\/[^|&]+)\|([^&]+)&gt;/g, '<a href="$1" target="_blank" rel="noopener">$2</a>');
   t = t.replace(/&lt;(https?:\/\/[^&]+)&gt;/g, '<a href="$1" target="_blank" rel="noopener">$1</a>');
-  t = t.replace(/&lt;@([A-Z0-9]+)&gt;/g, function(_, uid) {
+  t = t.replace(/&lt;@([A-Z0-9]+)&gt;/g, (_, uid) => {
     const u = allUsers[uid];
-    return '<strong style="color:var(--accent)">@' + escapeHtml(u ? (u.display_name||u.name) : uid) + '</strong>';
+    return `<strong style="color:var(--accent)">@${escapeHtml(u ? (u.display_name||u.name) : uid)}</strong>`;
   });
   t = t.replace(/&lt;#([A-Z0-9]+)\|([^&]+)&gt;/g, '<strong style="color:var(--accent)">#$2</strong>');
   return t;
