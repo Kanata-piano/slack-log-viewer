@@ -109,6 +109,30 @@
       border-radius: 2px;
       padding: 0 2px;
     }
+    /* ジャンプボタン */
+    .jump-btn {
+      margin-left: auto;
+      font-size: 11px;
+      color: var(--accent);
+      cursor: pointer;
+      padding: 2px 7px;
+      border-radius: 4px;
+      border: 1px solid var(--accent);
+      background: none;
+      opacity: 0.7;
+      transition: opacity 0.15s;
+      white-space: nowrap;
+      font-family: 'Lato', sans-serif;
+    }
+    .jump-btn:hover { opacity: 1; }
+    .reply-header .jump-btn { font-size: 10px; padding: 1px 5px; }
+    /* フラッシュアニメーション */
+    @keyframes msg-flash {
+      0%   { background: rgba(74, 158, 237, 0.28); }
+      70%  { background: rgba(74, 158, 237, 0.10); }
+      100% { background: transparent; }
+    }
+    .msg-flash { animation: msg-flash 2s ease-out forwards !important; border-radius: 8px; }
   </style>
 </head>
 <body>
@@ -168,6 +192,7 @@
     let allChannelData = {};
     let globalSearchTimer = null;
     let isGlobalSearching = false;
+    let pendingScroll = null; // { parentTs, replyTs }
 
     async function generateHash(pw) {
       const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(pw));
@@ -330,6 +355,24 @@
       renderGlobalResults(results, q);
     }
 
+    // ===== ジャンプ機能 =====
+    async function navigateToMessage(channelId, parentTs, replyTs) {
+      pendingScroll = { parentTs, replyTs: replyTs || null };
+      // グローバカ検索をクリア
+      document.getElementById("global-search").value = "";
+      exitGlobalSearch();
+      const meta = allChannels[channelId];
+      if (!meta) return;
+      if (currentChannel === channelId) {
+        // すでに同じチャンネルにいる場合：検索をクリアして再描画
+        document.getElementById("msg-search").value = "";
+        renderMessages(currentMessages);
+      } else {
+        // 別チャンネルに移動
+        await selectChannel(channelId, meta);
+      }
+    }
+
     function renderGlobalResults(results, q) {
       const container = document.getElementById("messages-container");
       container.innerHTML = "";
@@ -351,7 +394,8 @@
           openReplies: matchedReplies.length > 0,
           highlightQuery: q,
           onlyMatchedReplies: true,
-          repliesToShow: matchedReplies
+          repliesToShow: matchedReplies,
+          channelId: channelId
         });
         container.appendChild(group);
       }
@@ -444,15 +488,51 @@
           openReplies: matchedReplies.length > 0,
           highlightQuery: highlightQuery || null,
           onlyMatchedReplies: isSearchMode,
-          repliesToShow: isSearchMode ? matchedReplies : null
+          repliesToShow: isSearchMode ? matchedReplies : null,
+          channelId: currentChannel
         });
         container.appendChild(group);
       }
-      container.scrollTop = container.scrollHeight;
+
+      // ジャンプ後のスクロール処理
+      if (pendingScroll) {
+        const { parentTs, replyTs } = pendingScroll;
+        pendingScroll = null;
+        const parentEl = container.querySelector(`.msg-group[data-ts="${parentTs}"]`);
+        if (parentEl) {
+          if (replyTs) {
+            // スレッドを開く
+            const threadReplies = parentEl.querySelector('.thread-replies');
+            const toggleBtn = parentEl.querySelector('.thread-toggle');
+            if (threadReplies && !threadReplies.classList.contains('open')) {
+              threadReplies.classList.add('open');
+              if (toggleBtn) {
+                const count = toggleBtn.querySelector('.reply-count').textContent;
+                toggleBtn.innerHTML = `📜 <span class="reply-count">${count}</span> 件の返信`;
+              }
+            }
+            const replyEl = parentEl.querySelector(`.reply-msg[data-ts="${replyTs}"]`);
+            const scrollTarget = replyEl || parentEl;
+            setTimeout(() => {
+              scrollTarget.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              scrollTarget.classList.add('msg-flash');
+              setTimeout(() => scrollTarget.classList.remove('msg-flash'), 2200);
+            }, 80);
+          } else {
+            setTimeout(() => {
+              parentEl.scrollIntoView({ behavior: 'smooth', block: 'center' });
+              parentEl.classList.add('msg-flash');
+              setTimeout(() => parentEl.classList.remove('msg-flash'), 2200);
+            }, 80);
+          }
+        }
+      } else {
+        container.scrollTop = container.scrollHeight;
+      }
     }
 
     function buildMsgGroupEl(msg, opts = {}) {
-      const { openReplies = false, highlightQuery = null, onlyMatchedReplies = false, repliesToShow = null } = opts;
+      const { openReplies = false, highlightQuery = null, onlyMatchedReplies = false, repliesToShow = null, channelId = null } = opts;
       const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: !!msg.bot_id };
       const name = user.display_name || user.name || "不明";
       const avatarContent = user.avatar
@@ -471,19 +551,25 @@
 
       const group = document.createElement("div");
       group.className = "msg-group";
+      if (msg.ts) group.dataset.ts = msg.ts;
+
+      // 検索モード時のジャンプボタン
+      const jumpBtn = (highlightQuery && channelId)
+        ? `<button class="jump-btn" onclick="navigateToMessage('${channelId}', '${msg.ts}', null)">↗ 元の投稿</button>`
+        : '';
 
       let repliesHtml = "";
       if (replyCount > 0) {
         const openClass = openReplies ? " open" : "";
         const icon = openReplies ? "📜" : "💬";
-        repliesHtml = `<button class="thread-toggle" onclick="toggleThread(this)">${icon} <span class="reply-count">${replyCount}</span> 件の返信</button><div class="thread-replies${openClass}">${displayReplies.map(r => renderReply(r, highlightQuery)).join("")}</div>`;
+        repliesHtml = `<button class="thread-toggle" onclick="toggleThread(this)">${icon} <span class="reply-count">${replyCount}</span> 件の返信</button><div class="thread-replies${openClass}">${displayReplies.map(r => renderReply(r, highlightQuery, channelId, msg.ts)).join("")}</div>`;
       }
 
-      group.innerHTML = `<div class="msg-avatar">${avatarContent}</div><div class="msg-body"><div class="msg-header"><span class="msg-name">${escapeHtml(name)}</span>${user.is_bot ? '<span class="bot-tag">BOT</span>' : ''}<span class="msg-time">${timeStr}</span></div><div class="msg-text">${text}</div>${repliesHtml}</div>`;
+      group.innerHTML = `<div class="msg-avatar">${avatarContent}</div><div class="msg-body"><div class="msg-header"><span class="msg-name">${escapeHtml(name)}</span>${user.is_bot ? '<span class="bot-tag">BOT</span>' : ''}<span class="msg-time">${timeStr}</span>${jumpBtn}</div><div class="msg-text">${text}</div>${repliesHtml}</div>`;
       return group;
     }
 
-    function renderReply(msg, highlightQuery = null) {
+    function renderReply(msg, highlightQuery = null, channelId = null, parentTs = null) {
       const user = allUsers[msg.user] || { name: msg.username || msg.user || "不明", display_name: "", avatar: "", is_bot: false };
       const name = user.display_name || user.name || "不明";
       const avatarContent = user.avatar
@@ -493,7 +579,10 @@
       const timeStr = date.toLocaleTimeString("ja-JP", {hour:"2-digit",minute:"2-digit"});
       let text = formatText(msg.text || "");
       if (highlightQuery) text = highlightText(text, highlightQuery);
-      return `<div class="reply-msg"><div class="reply-avatar">${avatarContent}</div><div class="reply-body"><div class="reply-header"><span class="reply-name">${escapeHtml(name)}</span><span class="reply-time">${timeStr}</span></div><div class="reply-text">${text}</div></div></div>`;
+      const jumpBtn = (highlightQuery && channelId && parentTs)
+        ? `<button class="jump-btn" onclick="navigateToMessage('${channelId}', '${parentTs}', '${msg.ts}')">↗ 元の投稿</button>`
+        : '';
+      return `<div class="reply-msg" data-ts="${escapeHtml(String(msg.ts || ''))}"><div class="reply-avatar">${avatarContent}</div><div class="reply-body"><div class="reply-header"><span class="reply-name">${escapeHtml(name)}</span><span class="reply-time">${timeStr}</span>${jumpBtn}</div><div class="reply-text">${text}</div></div></div>`;
     }
 
     function toggleThread(btn) {
