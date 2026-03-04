@@ -6962,6 +6962,656 @@
       "inviter": "U010F29ALBS",
       "type": "message",
       "ts": "1772324867.714329"
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772597168.601559",
+      "client_msg_id": "abccf2ba-bc00-48c8-b245-956b5501dba5",
+      "text": "<@U0AC24LUNLR> \nお疲れ様です！ \n新チャンネルのYouTubeの編集期日の件でご相談です。\n撮影が3/26（木）に決定しました。\n以下のように編集期日設定したいのですが、\nご対応可能でしょうか？:eyes:\n\n 撮影&amp;編集依頼：3/26\n 初稿期限：3/29\n 修正依頼期限：4/2\n 修正稿期限：4/3\n\nご確認よろしくお願いいたします！",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772597168.601559",
+      "reply_count": 2,
+      "reply_users_count": 2,
+      "latest_reply": "1772604836.249319",
+      "reply_users": [
+        "U010F29ALBS",
+        "U0AC24LUNLR"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "NWoKv",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AC24LUNLR",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です！ \n新チャンネルのYouTubeの編集期日の件でご相談です。\n撮影が3/26（木）に決定しました。\n以下のように編集期日設定したいのですが、\nご対応可能でしょうか？"
+                },
+                {
+                  "type": "emoji",
+                  "name": "eyes",
+                  "unicode": "1f440"
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n 撮影&編集依頼：3/26\n 初稿期限：3/29\n 修正依頼期限：4/2\n 修正稿期限：4/3\n\nご確認よろしくお願いいたします！"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772604479.246359",
+          "client_msg_id": "db211003-401d-4e96-b539-d409f929fe53",
+          "text": "<@U0AC24LUNLR>こちらのスレッドで失礼します！\nではスケジュールそちらでよろしくお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772597168.601559",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "fQe8L",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "こちらのスレッドで失礼します！\nではスケジュールそちらでよろしくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0AC24LUNLR",
+          "type": "message",
+          "ts": "1772604836.249319",
+          "client_msg_id": "C463DE80-993F-43F7-A929-519F0AD784B0",
+          "text": "<@U010F29ALBS> よろしくお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772597168.601559",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "CIJdm",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " よろしくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U0AC24LUNLR",
+      "type": "message",
+      "ts": "1772604119.538799",
+      "client_msg_id": "B546AD91-0436-44C4-90FE-F4EB81224483",
+      "text": "<@U010F29ALBS> \nお疲れ様です！\n可能です。\nよろしくお願いします！",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ij2dW",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です！\n可能です。\nよろしくお願いします！"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772609912.318889",
+      "edited": {
+        "user": "U010F29ALBS",
+        "ts": "1772615702.000000"
+      },
+      "client_msg_id": "d8c1b503-b3ed-40fc-81f6-e27617c6169b",
+      "text": "<@U0AC24LUNLR> \nお疲れ様です！以下編集お願いします！\n\n【転職失敗】初心者が必ず通る失敗を抑えていますか？９選\n\n<https://drive.google.com/drive/folders/1-oQLkof2TWUeXIldELZa6oUhWHYW8L0r|https://drive.google.com/drive/folders/1-oQLkof2TWUeXIldELZa6oUhWHYW8L0r>\n\n納期 3/8",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772609912.318889",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1772610354.473299",
+      "reply_users": [
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "t5tu1",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AC24LUNLR",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です！以下編集お願いします！\n\n【転職失敗】初心者が必ず通る失敗を抑えていますか？９選\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1-oQLkof2TWUeXIldELZa6oUhWHYW8L0r",
+                  "text": "https://drive.google.com/drive/folders/1-oQLkof2TWUeXIldELZa6oUhWHYW8L0r",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n納期 3/8"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772610354.473299",
+          "client_msg_id": "67feeb64-0882-456f-b9bb-79beaa82f406",
+          "text": "<@U0AC24LUNLR>スレッド内で失礼します。\nそれぞれ最短で可能なスケジュールご提示頂けますと幸いです！\n継続案件のため可能な限りお手伝い頂きたく、数日の調整はクライアントに相談致します！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609912.318889",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "F8phU",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "スレッド内で失礼します。\nそれぞれ最短で可能なスケジュールご提示頂けますと幸いです！\n継続案件のため可能な限りお手伝い頂きたく、数日の調整はクライアントに相談致します！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772609951.852689",
+      "edited": {
+        "user": "U010F29ALBS",
+        "ts": "1772615694.000000"
+      },
+      "client_msg_id": "d557f3bd-8423-45e6-9a5d-d62161e5c6d4",
+      "text": "<@U0AC24LUNLR> \nお疲れ様です！ 以下編集お願いします！\n\n【これチェックした？】選んではいけないエージェントの判定項目\n\n<https://drive.google.com/drive/folders/1C2J7_row4QBDE8Gi_G25YQk2sZXCMpzs|https://drive.google.com/drive/folders/1C2J7_row4QBDE8Gi_G25YQk2sZXCMpzs>\n\n納期3/9",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772609951.852689",
+      "reply_count": 8,
+      "reply_users_count": 2,
+      "latest_reply": "1772615726.740889",
+      "reply_users": [
+        "U010F29ALBS",
+        "U0AC24LUNLR"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DdiF+",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U0AC24LUNLR",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です！ 以下編集お願いします！\n\n【これチェックした？】選んではいけないエージェントの判定項目\n\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1C2J7_row4QBDE8Gi_G25YQk2sZXCMpzs",
+                  "text": "https://drive.google.com/drive/folders/1C2J7_row4QBDE8Gi_G25YQk2sZXCMpzs",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n納期3/9"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772610366.701729",
+          "client_msg_id": "f508f38a-3a09-4007-89cd-b13fefc295e3",
+          "text": "<@U0AC24LUNLR> スレッド内で失礼します。\nそれぞれ最短で可能なスケジュールご提示頂けますと幸いです！\n継続案件のため可能な限りお手伝い頂きたく、数日の調整はクライアントに相談致します！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "HjgDE",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " スレッド内で失礼します。\nそれぞれ最短で可能なスケジュールご提示頂けますと幸いです！\n継続案件のため可能な限りお手伝い頂きたく、数日の調整はクライアントに相談致します！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0AC24LUNLR",
+          "type": "message",
+          "ts": "1772611909.272129",
+          "client_msg_id": "538137C3-A01C-41D4-B4A3-F0C6E31A5A8A",
+          "text": "<@U010F29ALBS> \nお世話になっております。\n正直な話お伝えすると、他案件と比較した時に動画素材の尺、工数が単価と見合ってないと思っております。\n可能であれば、単価をご検討いただけないでしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "jnlYY",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nお世話になっております。"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "正直な話お伝えすると、他案件と比較した時に動画素材の尺、工数が単価と見合ってないと思っております。"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "可能であれば、単価をご検討いただけないでしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772612071.550899",
+          "client_msg_id": "2af3aa7b-9076-456a-84a8-335e5ee507e5",
+          "text": "<@U0AC24LUNLR> \nご相談ありがとうございます:man-bowing::skin-tone-2:\nなんとかクライアントに相談させて頂きますが6500円でいかがでしょうか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "PwxUo",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nご相談ありがとうございます"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nなんとかクライアントに相談させて頂きますが6500円でいかがでしょうか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0AC24LUNLR",
+          "type": "message",
+          "ts": "1772613725.389359",
+          "client_msg_id": "2C8C7650-5A11-49A8-AA3E-400FF43802A1",
+          "text": "<@U010F29ALBS> \nご検討ありがとうございます。\n今回は素材尺・編集工数・サムネ制作および修正対応を含め、10,000円でお願いできれば幸いです。\n難しい場合は今回は見送らせていただければと思います。\nご確認のほどよろしくお願いいたします。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "JUIIq",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " "
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ご検討ありがとうございます。"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "今回は素材尺・編集工数・サムネ制作および修正対応を含め、10,000円でお願いできれば幸いです。"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "難しい場合は今回は見送らせていただければと思います。"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "ご確認のほどよろしくお願いいたします。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772613993.607589",
+          "client_msg_id": "3fa121ac-013c-47c2-a79f-3d3718725e3c",
+          "text": "<@U0AC24LUNLR> \nかしこまりました:man-bowing::skin-tone-2:\n既に継続でお受けしてしまっている案件のため\n今回は2件とも私の持ち出しで報酬追加の方させて頂きますのでご対応頂けますと幸いです:sob:",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "6Z3zU",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nかしこまりました"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "man-bowing",
+                      "unicode": "1f647-1f3fb-200d-2642-fe0f",
+                      "skin_tone": 2
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n既に継続でお受けしてしまっている案件のため\n今回は2件とも私の持ち出しで報酬追加の方させて頂きますのでご対応頂けますと幸いです"
+                    },
+                    {
+                      "type": "emoji",
+                      "name": "sob",
+                      "unicode": "1f62d"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0AC24LUNLR",
+          "type": "message",
+          "ts": "1772615391.921739",
+          "client_msg_id": "32B77468-F573-464D-9A13-664A69C614AB",
+          "text": "<@U010F29ALBS> \n単価の件ありがとうございます！\n納期に関しても1日プラスしていただくこと可能ですか？",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "jPZwL",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n単価の件ありがとうございます！\n"
+                    },
+                    {
+                      "type": "text",
+                      "text": "納期に関しても1日プラスしていただくこと可能ですか？"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772615689.108739",
+          "client_msg_id": "549eff63-21a5-472a-9251-765a7db2da32",
+          "text": "<@U0AC24LUNLR>かしこまりました！\nそちらでよろしくお願いします！変更しておきます！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "EY+7z",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U0AC24LUNLR",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "かしこまりました！\nそちらでよろしくお願いします！変更しておきます！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U0AC24LUNLR",
+          "type": "message",
+          "ts": "1772615726.740889",
+          "client_msg_id": "E01152B0-D5F0-463A-8C59-F8220001634B",
+          "text": "<@U010F29ALBS> \nありがとうございます！\nよろしくお願いします！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772609951.852689",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "y/hHs",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": " \nありがとうございます！\nよろしくお願いします！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U0AC24LUNLR",
+      "type": "message",
+      "ts": "1772610278.073439",
+      "client_msg_id": "B38CF61C-74DD-4705-B872-5402D85E7F76",
+      "text": "<@U010F29ALBS> \nお疲れ様です。\n\nご依頼ありがとうございます。\n大変恐縮ですが、現在他案件の対応でスケジュールが立て込んでおり、\n今回の納期での対応が難しい状況です。\nせっかくお声がけいただいたにも関わらず申し訳ございません。\nまたタイミングが合いましたらぜひお力になれれば幸いです。\nよろしくお願いいたします。",
+      "team": "T010EJAAP7W",
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "DO2/r",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U010F29ALBS"
+                },
+                {
+                  "type": "text",
+                  "text": " \nお疲れ様です。\n\nご依頼ありがとうございます。\n大変恐縮ですが、現在他案件の対応でスケジュールが立て込んでおり、\n今回の納期での対応が難しい状況です。\nせっかくお声がけいただいたにも関わらず申し訳ございません。\nまたタイミングが合いましたらぜひお力になれれば幸いです。\nよろしくお願いいたしま"
+                },
+                {
+                  "type": "text",
+                  "text": "す。"
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }

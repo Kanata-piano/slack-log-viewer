@@ -18100,6 +18100,380 @@
           ]
         }
       ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772594363.531819",
+      "client_msg_id": "3c4fd8ea-91c6-4a28-a763-dd3cce4c4859",
+      "text": "<@U08L3QFFHK6> \n【3/3撮影④_料理リレー】\n お世話になっております！\nこちらの編集お願いできますと幸いです！\nご確認お願いいたします:woman-bowing::skin-tone-2:\n\n▼素材\n<https://drive.google.com/drive/folders/10Z8GzTlbGJYTayuEWCn2Iqm9VRAaGThD|https://drive.google.com/drive/folders/10Z8GzTlbGJYTayuEWCn2Iqm9VRAaGThD>\n\n====\n\n初稿希望：4月3日(金)\n公開日：4月8日(水)",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772594363.531819",
+      "reply_count": 7,
+      "reply_users_count": 2,
+      "latest_reply": "1772599899.631369",
+      "reply_users": [
+        "U08L3QFFHK6",
+        "U010F29ALBS"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "Ln/rk",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08L3QFFHK6",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \n【3/3撮影④_料理リレー】\n お世話になっております！\nこちらの編集お願いできますと幸いです！\nご確認お願いいたします"
+                },
+                {
+                  "type": "emoji",
+                  "name": "woman-bowing",
+                  "unicode": "1f647-1f3fb-200d-2640-fe0f",
+                  "skin_tone": 2
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n▼素材\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/10Z8GzTlbGJYTayuEWCn2Iqm9VRAaGThD",
+                  "text": "https://drive.google.com/drive/folders/10Z8GzTlbGJYTayuEWCn2Iqm9VRAaGThD",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n====\n\n初稿希望：4月3日(金)\n公開日：4月8日(水)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U08L3QFFHK6",
+          "type": "message",
+          "ts": "1772597024.687569",
+          "client_msg_id": "8a6e3333-7a72-41ba-aa0d-89310be65463",
+          "text": "<@U010F29ALBS>\nお世話になっております。\nご依頼ありがとうございます。\n編集者のタスクが埋まってしまっている状況のため\n工期の調整を行っていただいても制作は難しいと考えられますので\nこちらの案件について辞退させていただきたいです。\nよろしくお願いいたします。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "L766T",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております。\nご依頼ありがとうございます。\n編集者のタスクが埋まってしまっている状況のため\n工期の調整を行っていただいても制作は難しいと考えられますので\nこちらの案件について辞退させていただきたいです。\nよろしくお願いいたします。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772597196.336979",
+          "edited": {
+            "user": "U010F29ALBS",
+            "ts": "1772597208.000000"
+          },
+          "client_msg_id": "815be780-187e-44f0-98a8-79a4701df6ca",
+          "text": "<@U08L3QFFHK6> 納期1ヶ月ほどありますが難しそうでしょうか、、",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "Rfn5H",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U08L3QFFHK6",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " 納期1ヶ月ほどありますが難しそうでしょうか、、"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U08L3QFFHK6",
+          "type": "message",
+          "ts": "1772597500.731249",
+          "client_msg_id": "2d6ce840-45b6-4ace-bc86-5ecb1f26f602",
+          "text": "<@U010F29ALBS>\n1か月の期間頂いてるのは把握しておりますが\nめるぷちの案件について対応できる編集者の空きがない状況です。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "//wKV",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n1か月の期間頂いてるのは把握しておりますが\nめるぷちの案件について対応できる編集者の空きがない状況です。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772597706.402419",
+          "client_msg_id": "007fb0ae-06e0-447b-955c-b16696723a0a",
+          "text": "<@U08L3QFFHK6> \n前回ご相談したスケジュールで既に枠取っていただいているためその枠外対応になる旨難しいという認識でお間違いないでしょうか！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "aB947",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U08L3QFFHK6",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": " \n前回ご相談したスケジュールで既に枠取っていただいているためその枠外対応になる旨難しいという認識でお間違いないでしょうか！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U08L3QFFHK6",
+          "type": "message",
+          "ts": "1772598427.406949",
+          "client_msg_id": "6bd1820e-726a-4fec-bfdc-c6d74193e365",
+          "text": "<@U010F29ALBS>\n今回については別のクライアント様と案件が重なり\n対応できない状況となっております。\nいまスケジュール調整中ですので\n後ほど前回のスケジュールのスレッドにて\n対応可能な案件について連絡いたします。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "KhFpP",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n今回については別のクライアント様と案件が重なり\n対応できない状況となっております。\nいまスケジュール調整中ですので\n後ほど前回のスケジュールのスレッドにて\n対応可能な案件について連絡いたします。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U010F29ALBS",
+          "type": "message",
+          "ts": "1772598906.968059",
+          "client_msg_id": "ab63ceed-ce53-4709-abf8-78a9881b4036",
+          "text": "<@U08L3QFFHK6>\n再度シートにてスケジュールの確認お願いします！\n難しい企画がありましたら、なるべくお受けいただけるよう具体的なスケジュール調整要望頂けますと幸いです！",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "wl9EW",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U08L3QFFHK6",
+                      "from_llm": false
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n再度シートにてスケジュールの確認お願いします！\n難しい企画がありましたら、なるべくお受けいただけるよう具体的なスケジュール調整要望頂けますと幸いです！"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "user": "U08L3QFFHK6",
+          "type": "message",
+          "ts": "1772599899.631369",
+          "edited": {
+            "user": "U08L3QFFHK6",
+            "ts": "1772599911.000000"
+          },
+          "client_msg_id": "10d4b77b-cb59-4500-94eb-a00ce015fa04",
+          "text": "<@U010F29ALBS>\n承知いたしました。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594363.531819",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "E5FUX",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\n承知いたしました。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "user": "U010F29ALBS",
+      "type": "message",
+      "ts": "1772594437.505849",
+      "client_msg_id": "1d41bf0a-bf32-4e81-9b4d-42774c3ad216",
+      "text": "<@U08L3QFFHK6> \n【3/3撮影⑤_グラスハート鑑賞会】\nお世話になっております！\nこちらの動画の編集お願いします！\n\n▼素材\n<https://drive.google.com/drive/folders/1U1RnkCtHs-AA2HrDDMlJoSkvZNQWg8ou|https://drive.google.com/drive/folders/1U1RnkCtHs-AA2HrDDMlJoSkvZNQWg8ou>\n\n====\n\n初稿希望：4月13日(月)\n公開日：4月18日(土)",
+      "team": "T010EJAAP7W",
+      "thread_ts": "1772594437.505849",
+      "reply_count": 1,
+      "reply_users_count": 1,
+      "latest_reply": "1772597038.032039",
+      "reply_users": [
+        "U08L3QFFHK6"
+      ],
+      "is_locked": false,
+      "subscribed": false,
+      "blocks": [
+        {
+          "type": "rich_text",
+          "block_id": "s5l6K",
+          "elements": [
+            {
+              "type": "rich_text_section",
+              "elements": [
+                {
+                  "type": "user",
+                  "user_id": "U08L3QFFHK6",
+                  "from_llm": false
+                },
+                {
+                  "type": "text",
+                  "text": " \n【3/3撮影⑤_グラスハート鑑賞会】\nお世話になっております！\nこちらの動画の編集お願いします！\n\n▼素材\n"
+                },
+                {
+                  "type": "link",
+                  "url": "https://drive.google.com/drive/folders/1U1RnkCtHs-AA2HrDDMlJoSkvZNQWg8ou",
+                  "text": "https://drive.google.com/drive/folders/1U1RnkCtHs-AA2HrDDMlJoSkvZNQWg8ou",
+                  "from_llm": false,
+                  "is_slack_url": false
+                },
+                {
+                  "type": "text",
+                  "text": "\n\n====\n\n初稿希望：4月13日(月)\n公開日：4月18日(土)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "replies_data": [
+        {
+          "user": "U08L3QFFHK6",
+          "type": "message",
+          "ts": "1772597038.032039",
+          "client_msg_id": "5232fa64-19d7-403f-8982-f02fb7247980",
+          "text": "<@U010F29ALBS>\nお世話になっております。\nご依頼ありがとうございます。\n編集者のタスクが埋まってしまっている状況のため\n工期の調整を行っていただいても制作は難しいと考えられますので\nこちらの案件について辞退させていただきたいです。\nよろしくお願いいたします。",
+          "team": "T010EJAAP7W",
+          "thread_ts": "1772594437.505849",
+          "parent_user_id": "U010F29ALBS",
+          "blocks": [
+            {
+              "type": "rich_text",
+              "block_id": "L766T",
+              "elements": [
+                {
+                  "type": "rich_text_section",
+                  "elements": [
+                    {
+                      "type": "user",
+                      "user_id": "U010F29ALBS"
+                    },
+                    {
+                      "type": "text",
+                      "text": "\nお世話になっております。\nご依頼ありがとうございます。\n編集者のタスクが埋まってしまっている状況のため\n工期の調整を行っていただいても制作は難しいと考えられますので\nこちらの案件について辞退させていただきたいです。\nよろしくお願いいたします。"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
